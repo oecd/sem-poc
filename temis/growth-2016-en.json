@@ -1,0 +1,212 @@
+[
+  {
+    "score": 92.55301,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#AdvancedCountries",
+    "type": "coverage",
+    "zScore": -0.84201926,
+    "name": "Advanced countries"
+  },
+  {
+    "score": 143.0221,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#CzechRepublic",
+    "type": "coverage",
+    "zScore": -0.59804076,
+    "name": "Czech Republic"
+  },
+  {
+    "score": 234.60498,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#EuroAreaCountries",
+    "type": "coverage",
+    "zScore": -0.15530924,
+    "name": "Euro area"
+  },
+  {
+    "score": 154.45473,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Ireland",
+    "type": "coverage",
+    "zScore": -0.54277295,
+    "name": "Ireland"
+  },
+  {
+    "score": 222.93607,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Italy",
+    "type": "coverage",
+    "zScore": -0.2117193,
+    "name": "Italy"
+  },
+  {
+    "score": 927.07007,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand",
+    "type": "coverage",
+    "zScore": 3.1922169,
+    "name": "New Zealand"
+  },
+  {
+    "score": 48.247086,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NonOECDCountries",
+    "type": "coverage",
+    "zScore": -1.0562037,
+    "name": "Non-OECD countries"
+  },
+  {
+    "score": 1157.8348,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries",
+    "type": "coverage",
+    "zScore": 4.307784,
+    "name": "OECD countries"
+  },
+  {
+    "score": 232.12231,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Portugal",
+    "type": "coverage",
+    "zScore": -0.16731098,
+    "name": "Portugal"
+  },
+  {
+    "score": 59.69073,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthAfrica",
+    "type": "coverage",
+    "zScore": -1.0008826,
+    "name": "South Africa"
+  },
+  {
+    "score": 181.6942,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthKorea",
+    "type": "coverage",
+    "zScore": -0.41109142,
+    "name": "Republic of Korea"
+  },
+  {
+    "score": 230.86426,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Spain",
+    "type": "coverage",
+    "zScore": -0.1733927,
+    "name": "Spain"
+  },
+  {
+    "score": 206.9213,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Switzerland",
+    "type": "coverage",
+    "zScore": -0.28913817,
+    "name": "Switzerland"
+  },
+  {
+    "score": 50.32463,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom",
+    "type": "coverage",
+    "zScore": -1.0461603,
+    "name": "United Kingdom"
+  },
+  {
+    "score": 58.640667,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates",
+    "type": "coverage",
+    "zScore": -1.0059588,
+    "name": "United States"
+  },
+  {
+    "score": 305.06757,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T1069",
+    "type": "subject",
+    "zScore": -0.39541015,
+    "name": "workers"
+  },
+  {
+    "score": 1334.64,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2381",
+    "type": "subject",
+    "zScore": 2.4615023,
+    "name": "household"
+  },
+  {
+    "score": 107.92874,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2852",
+    "type": "subject",
+    "zScore": -0.94244146,
+    "name": "employment security"
+  },
+  {
+    "score": 260.5745,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2940",
+    "type": "subject",
+    "zScore": -0.5188719,
+    "name": "wages"
+  },
+  {
+    "score": 466.9981,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T4291",
+    "type": "subject",
+    "zScore": 0.05392334,
+    "name": "capital income"
+  },
+  {
+    "score": 72.89143,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T4931",
+    "type": "subject",
+    "zScore": -1.0396649,
+    "name": "social security contributions"
+  },
+  {
+    "score": 171.19762,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5282",
+    "type": "subject",
+    "zScore": -0.76687956,
+    "name": "intangible assets"
+  },
+  {
+    "score": 87.578674,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5384",
+    "type": "subject",
+    "zScore": -0.9989099,
+    "name": "structural reform"
+  },
+  {
+    "score": 60.537434,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5812",
+    "type": "subject",
+    "zScore": -1.0739453,
+    "name": "product market regulation"
+  },
+  {
+    "score": 208.48207,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T6150",
+    "type": "subject",
+    "zScore": -0.66342074,
+    "name": "disposable income"
+  },
+  {
+    "score": 573.81494,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T655",
+    "type": "subject",
+    "zScore": 0.35032436,
+    "name": "income"
+  },
+  {
+    "score": 50.983814,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T6714",
+    "type": "subject",
+    "zScore": -1.1004552,
+    "name": "product market reform"
+  },
+  {
+    "score": 1133.0568,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T6717",
+    "type": "subject",
+    "zScore": 1.9021384,
+    "name": "labour share"
+  },
+  {
+    "score": 1358.2365,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T813",
+    "type": "subject",
+    "zScore": 2.526979,
+    "name": "gross domestic product"
+  },
+  {
+    "score": 521.4907,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T873",
+    "type": "subject",
+    "zScore": 0.20513235,
+    "name": "household income"
+  }
+]

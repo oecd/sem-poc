@@ -1,0 +1,212 @@
+[
+  {
+    "name": "BRIICS countries",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#BRIICSCountries",
+    "type": "coverage",
+    "zScore": -0.38150615,
+    "score": 278.471
+  },
+  {
+    "name": "Chile",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Chile",
+    "type": "coverage",
+    "zScore": -0.6211407,
+    "score": 124.925735
+  },
+  {
+    "name": "Estonia",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Estonia",
+    "type": "coverage",
+    "zScore": -0.67125607,
+    "score": 92.81446
+  },
+  {
+    "name": "Greece",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Greece",
+    "type": "coverage",
+    "zScore": 0.12904046,
+    "score": 605.60254
+  },
+  {
+    "name": "Indonesia",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Indonesia",
+    "type": "coverage",
+    "zScore": -0.67814857,
+    "score": 88.39807
+  },
+  {
+    "name": "Ireland",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Ireland",
+    "type": "coverage",
+    "zScore": -0.3457545,
+    "score": 301.37878
+  },
+  {
+    "name": "Israel",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Israel",
+    "type": "coverage",
+    "zScore": -0.6506986,
+    "score": 105.9866
+  },
+  {
+    "name": "New Zealand",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand",
+    "type": "coverage",
+    "zScore": -0.6261014,
+    "score": 121.74718
+  },
+  {
+    "name": "OECD countries",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries",
+    "type": "coverage",
+    "zScore": 7.3709598,
+    "score": 5245.845
+  },
+  {
+    "name": "Portugal",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Portugal",
+    "type": "coverage",
+    "zScore": -0.09914451,
+    "score": 459.39355
+  },
+  {
+    "name": "Russian Federation",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#RussianFederation",
+    "type": "coverage",
+    "zScore": -0.6459621,
+    "score": 109.02149
+  },
+  {
+    "name": "Slovak Republic",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia",
+    "type": "coverage",
+    "zScore": -0.71509504,
+    "score": 64.724724
+  },
+  {
+    "name": "South Africa",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthAfrica",
+    "type": "coverage",
+    "zScore": -0.6402499,
+    "score": 112.681564
+  },
+  {
+    "name": "Spain",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Spain",
+    "type": "coverage",
+    "zScore": -0.6246291,
+    "score": 122.69059
+  },
+  {
+    "name": "United States",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates",
+    "type": "coverage",
+    "zScore": -0.8003138,
+    "score": 10.121004
+  },
+  {
+    "name": "labour productivity",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2739",
+    "type": "subject",
+    "zScore": -0.93430954,
+    "score": 360.144
+  },
+  {
+    "name": "manpower utilisation",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2778",
+    "type": "subject",
+    "zScore": -0.6676462,
+    "score": 650.44855
+  },
+  {
+    "name": "labour market",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2836",
+    "type": "subject",
+    "zScore": -0.06464889,
+    "score": 1306.9049
+  },
+  {
+    "name": "employment security",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2852",
+    "type": "subject",
+    "zScore": -0.46764314,
+    "score": 868.183
+  },
+  {
+    "name": "hours of work",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2903",
+    "type": "subject",
+    "zScore": -0.76663846,
+    "score": 542.6801
+  },
+  {
+    "name": "wages",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2940",
+    "type": "subject",
+    "zScore": 0.22666626,
+    "score": 1624.0468
+  },
+  {
+    "name": "economic projections",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T3900",
+    "type": "subject",
+    "zScore": -0.8443918,
+    "score": 458.03342
+  },
+  {
+    "name": "structural reform",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5384",
+    "type": "subject",
+    "zScore": -0.3507761,
+    "score": 995.41095
+  },
+  {
+    "name": "upper secondary level of education",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5646",
+    "type": "subject",
+    "zScore": -1.0916662,
+    "score": 188.83684
+  },
+  {
+    "name": "income inequality",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5808",
+    "type": "subject",
+    "zScore": -0.3998162,
+    "score": 942.0232
+  },
+  {
+    "name": "income",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T655",
+    "type": "subject",
+    "zScore": 0.771891,
+    "score": 2217.6086
+  },
+  {
+    "name": "macroeconomic shocks",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T6718",
+    "type": "subject",
+    "zScore": -1.0367371,
+    "score": 248.63573
+  },
+  {
+    "name": "unemployment insurance",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T697",
+    "type": "subject",
+    "zScore": 0.43923035,
+    "score": 1855.4558
+  },
+  {
+    "name": "gross domestic product",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T813",
+    "type": "subject",
+    "zScore": 6.062211,
+    "score": 7976.945
+  },
+  {
+    "name": "national accounts",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T817",
+    "type": "subject",
+    "zScore": -0.87572527,
+    "score": 423.9221
+  }
+]

@@ -1,0 +1,212 @@
+[
+  {
+    "zScore": -0.1937837,
+    "name": "BRIICS countries",
+    "score": 279.0476,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#BRIICSCountries",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.55930454,
+    "name": "China",
+    "score": 81.6647,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#China",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.685335,
+    "name": "Continental Europe",
+    "score": 13.607688,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#ContinentalEurope",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.591591,
+    "name": "Czech Republic",
+    "score": 64.22985,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#CzechRepublic",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.6091016,
+    "name": "Euro area",
+    "score": 54.774082,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#EuroAreaCountries",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.5363114,
+    "name": "Germany",
+    "score": 94.081116,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Germany",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.58810025,
+    "name": "Greece",
+    "score": 66.1149,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Greece",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.57936335,
+    "name": "Iceland",
+    "score": 70.83287,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Iceland",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.47657254,
+    "name": "Japan",
+    "score": 126.34035,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Japan",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.563985,
+    "name": "New Zealand",
+    "score": 79.137245,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand",
+    "type": "coverage"
+  },
+  {
+    "zScore": 7.499999,
+    "name": "OECD countries",
+    "score": 4433.725,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.5264377,
+    "name": "Slovak Republic",
+    "score": 99.412926,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.6000045,
+    "name": "South Africa",
+    "score": 59.686558,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthAfrica",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.6179324,
+    "name": "United Kingdom",
+    "score": 50.005398,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.37217695,
+    "name": "United States",
+    "score": 182.71445,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates",
+    "type": "coverage"
+  },
+  {
+    "zScore": -0.30330053,
+    "name": "household",
+    "score": 534.314,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2381",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.6140314,
+    "name": "life expectancy",
+    "score": 201.31532,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2634",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.7058313,
+    "name": "manpower utilisation",
+    "score": 102.936714,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2778",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.43880188,
+    "name": "hours of work",
+    "score": 389.10223,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2903",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.36090204,
+    "name": "housing",
+    "score": 472.58463,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T296",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.66426176,
+    "name": "housing supply",
+    "score": 147.4852,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T3089",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.70926034,
+    "name": "health system",
+    "score": 99.26194,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5093",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.606139,
+    "name": "structural reform",
+    "score": 209.77325,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5384",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.2801243,
+    "name": "current account",
+    "score": 559.1511,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5806",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.6966816,
+    "name": "current account imbalances",
+    "score": 112.742035,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5807",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.6731384,
+    "name": "product market regulation",
+    "score": 137.97247,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5812",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.2916259,
+    "name": "purchasing power parity",
+    "score": 546.8253,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5904",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.4554811,
+    "name": "health services",
+    "score": 371.22772,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T729",
+    "type": "subject"
+  },
+  {
+    "zScore": 7.500001,
+    "name": "gross domestic product",
+    "score": 8896.823,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T813",
+    "type": "subject"
+  },
+  {
+    "zScore": -0.7004206,
+    "name": "savings ratio",
+    "score": 108.73515,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T857",
+    "type": "subject"
+  }
+]

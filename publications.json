@@ -1,0 +1,160 @@
+{
+  "eco_outlook": {
+    "title": "OECD Economic Outlook",
+    "short_title": "Economic Outlook",
+    "issues": [
+      "v2011-1-en",
+      "v2011-2-en",
+      "v2012-1-en",
+      "v2012-2-en",
+      "v2013-1-en",
+      "v2013-2-en",
+      "v2014-1-en",
+      "v2014-2-en",
+      "v2015-1-en",
+      "v2015-2-en",
+      "v2016-1-en",
+      "v2016-2-en"
+    ],
+    "covers": {
+      "v2011-1-en": "images/oecd-economic-outlook-volume-2011-issue-1_eco_outlook-v2011-1-en.jpg",
+      "v2011-2-en": "images/oecd-economic-outlook-volume-2011-issue-2_eco_outlook-v2011-2-en.jpg",
+      "v2012-1-en": "images/oecd-economic-outlook-volume-2012-issue-1_eco_outlook-v2012-1-en.jpg",
+      "v2012-2-en": "images/oecd-economic-outlook-volume-2012-issue-2_eco_outlook-v2012-2-en.jpg",
+      "v2013-1-en": "images/oecd-economic-outlook-volume-2013-issue-1_eco_outlook-v2013-1-en.jpg",
+      "v2013-2-en": "images/oecd-economic-outlook-volume-2013-issue-2_eco_outlook-v2013-2-en.jpg",
+      "v2014-1-en": "images/oecd-economic-outlook-volume-2014-issue-1_eco_outlook-v2014-1-en.jpg",
+      "v2014-2-en": "images/oecd-economic-outlook-volume-2014-issue-2_eco_outlook-v2014-2-en.jpg",
+      "v2015-1-en": "images/oecd-economic-outlook-volume-2015-issue-1_eco_outlook-v2015-1-en.jpg",
+      "v2015-2-en": "images/oecd-economic-outlook-volume-2015-issue-2_eco_outlook-v2015-2-en.jpg",
+      "v2016-1-en": "images/oecd-economic-outlook-volume-2016-issue-1_eco_outlook-v2016-1-en.jpg",
+      "v2016-2-en": "images/oecd-economic-outlook-volume-2016-issue-2_eco_outlook-v2016-2-en.jpg"
+    },
+    "volumes": [
+      {
+        "name": "Volume 2011",
+        "issues": [
+          {
+            "name": "Issue 1",
+            "key": "2011-1-en"
+          },
+          {
+            "name": "Issue 2",
+            "key": "2011-2-en"
+          }
+        ]
+      },
+      {
+        "name": "Volume 2012",
+        "issues": [
+          {
+            "name": "Issue 1",
+            "key": "2012-1-en"
+          },
+          {
+            "name": "Issue 2",
+            "key": "2012-2-en"
+          }
+        ]
+      },
+      {
+        "name": "Volume 2013",
+        "issues": [
+          {
+            "name": "Issue 1",
+            "key": "2013-1-en"
+          },
+          {
+            "name": "Issue 2",
+            "key": "2013-2-en"
+          }
+        ]
+      },
+      {
+        "name": "Volume 2014",
+        "issues": [
+          {
+            "name": "Issue 1",
+            "key": "2014-1-en"
+          },
+          {
+            "name": "Issue 2",
+            "key": "2014-2-en"
+          }
+        ]
+      },
+      {
+        "name": "Volume 2015",
+        "issues": [
+          {
+            "name": "Issue 1",
+            "key": "2015-1-en"
+          },
+          {
+            "name": "Issue 2",
+            "key": "2015-2-en"
+          }
+        ]
+      },
+      {
+        "name": "Volume 2016",
+        "issues": [
+          {
+            "name": "Issue 1",
+            "key": "2016-1-en"
+          },
+          {
+            "name": "Issue 2",
+            "key": "2016-2-en"
+          }
+        ]
+      }
+    ]
+  },
+  "growth": {
+    "title": "Economic Policy Reforms: Going for Growth",
+    "short_title": "Going for Growth",
+    "issues": [
+      "2011-en",
+      "2012-en",
+      "2013-en",
+      "2014-en",
+      "2015-en",
+      "2016-en"
+    ],
+    "covers": {
+      "2011-en": "images/economic-policy-reforms-2011_growth-2011-en.jpg",
+      "2012-en": "images/economic-policy-reforms-2012_growth-2012-en.jpg",
+      "2013-en": "images/economic-policy-reforms-2013_growth-2013-en.jpg",
+      "2014-en": "images/economic-policy-reforms-2014_growth-2014-en.jpg",
+      "2015-en": "images/economic-policy-reforms-2015_growth-2015-en.jpg",
+      "2016-en": "images/economic-policy-reforms-2016_growth-2016-en.jpg"
+    },
+    "volumes": [
+      {
+        "name": "Volume 2011",
+        "key": "2011-en"
+      },
+      {
+        "name": "Volume 2012",
+        "key": "2012-en"
+      },
+      {
+        "name": "Volume 2013",
+        "key": "2013-en"
+      },
+      {
+        "name": "Volume 2014",
+        "key": "2014-en"
+      },
+      {
+        "name": "Volume 2015",
+        "key": "2015-en"
+      },
+      {
+        "name": "Volume 2016",
+        "key": "2016-en"
+      }
+    ]
+  }
+}

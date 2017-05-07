@@ -1,0 +1,212 @@
+[
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#AdvancedCountries",
+    "score": 29.688868,
+    "name": "Advanced countries",
+    "zScore": -0.6702811,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#BRIICSCountries",
+    "score": 72.46338,
+    "name": "BRIICS countries",
+    "zScore": -0.58066165,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#CzechRepublic",
+    "score": 68.58391,
+    "name": "Czech Republic",
+    "zScore": -0.5887898,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#EuroAreaCountries",
+    "score": 101.11632,
+    "name": "Euro area",
+    "zScore": -0.52062917,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#EuropeanUnionCountries",
+    "score": 42.895348,
+    "name": "European Union",
+    "zScore": -0.6426114,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Greece",
+    "score": 102.40802,
+    "name": "Greece",
+    "zScore": -0.5179228,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Indonesia",
+    "score": 82.889305,
+    "name": "Indonesia",
+    "zScore": -0.5588177,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand",
+    "score": 276.416,
+    "name": "New Zealand",
+    "zScore": -0.15334824,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NonOECDCountries",
+    "score": 56.982174,
+    "name": "Non-OECD countries",
+    "zScore": -0.61309725,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries",
+    "score": 3929.286,
+    "name": "OECD countries",
+    "zScore": 7.5,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#RussianFederation",
+    "score": 171.52792,
+    "name": "Russian Federation",
+    "zScore": -0.37310556,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia",
+    "score": 100.76201,
+    "name": "Slovak Republic",
+    "zScore": -0.5213715,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthAfrica",
+    "score": 192.6248,
+    "name": "South Africa",
+    "zScore": -0.3289042,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom",
+    "score": 6.0361366,
+    "name": "United Kingdom",
+    "zScore": -0.71983737,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates",
+    "score": 10.434216,
+    "name": "United States",
+    "zScore": -0.7106227,
+    "type": "coverage"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2778",
+    "score": 386.6543,
+    "name": "manpower utilisation",
+    "zScore": -0.743168,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2852",
+    "score": 300.80594,
+    "name": "employment security",
+    "zScore": -0.7964186,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2865",
+    "score": 665.67163,
+    "name": "structural unemployment",
+    "zScore": -0.5700974,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2903",
+    "score": 665.62177,
+    "name": "hours of work",
+    "zScore": -0.5701283,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2940",
+    "score": 1068.8247,
+    "name": "wages",
+    "zScore": -0.32002705,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T3900",
+    "score": 363.224,
+    "name": "economic projections",
+    "zScore": -0.7577015,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T4679",
+    "score": 4719.326,
+    "name": "distribution",
+    "zScore": 1.9443289,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T4931",
+    "score": 317.71173,
+    "name": "social security contributions",
+    "zScore": -0.7859321,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5343",
+    "score": 614.9218,
+    "name": "employment rate",
+    "zScore": -0.6015768,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5384",
+    "score": 372.43445,
+    "name": "structural reform",
+    "zScore": -0.7519884,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5812",
+    "score": 190.1556,
+    "name": "product market regulation",
+    "zScore": -0.8650534,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5904",
+    "score": 514.2514,
+    "name": "purchasing power parity",
+    "zScore": -0.6640213,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T655",
+    "score": 1465.6417,
+    "name": "income",
+    "zScore": -0.07388691,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T813",
+    "score": 8468.433,
+    "name": "gross domestic product",
+    "zScore": 4.2698483,
+    "type": "subject"
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T873",
+    "score": 3657.7114,
+    "name": "household income",
+    "zScore": 1.2858238,
+    "type": "subject"
+  }
+]

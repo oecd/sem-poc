@@ -1,0 +1,212 @@
+[
+  {
+    "type": "coverage",
+    "zScore": -0.6217846,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Brazil",
+    "name": "Brazil",
+    "score": 48.548058
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.5747365,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#China",
+    "name": "China",
+    "score": 231.08434
+  },
+  {
+    "type": "coverage",
+    "zScore": 7.3404355,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#EuroAreaCountries",
+    "name": "Euro area",
+    "score": 30940.127
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.617019,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Europe",
+    "name": "Europe",
+    "score": 67.03766
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.6315453,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#G20Countries",
+    "name": "G20 countries",
+    "score": 10.678863
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.6061152,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Germany",
+    "name": "Germany",
+    "score": 109.34184
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.6121543,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#India",
+    "name": "India",
+    "score": 85.91163
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.39345327,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Japan",
+    "name": "Japan",
+    "score": 934.42114
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.6100314,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDArea",
+    "name": "OECD area",
+    "score": 94.14803
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.5009073,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#RussianFederation",
+    "name": "Russian Federation",
+    "score": 517.52435
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.62773305,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia",
+    "name": "Slovak Republic",
+    "score": 25.469625
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.61516577,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Ukraine",
+    "name": "Ukraine",
+    "score": 74.2278
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.4784323,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom",
+    "name": "United Kingdom",
+    "score": 604.7222
+  },
+  {
+    "type": "coverage",
+    "zScore": 0.15956481,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates",
+    "name": "United States",
+    "score": 3080.004
+  },
+  {
+    "type": "coverage",
+    "zScore": -0.6109223,
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#VulnerableDevelopingCountries",
+    "name": "Vulnerable developing countries",
+    "score": 90.6916
+  },
+  {
+    "type": "subject",
+    "zScore": 0.14786293,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2347",
+    "name": "demand",
+    "score": 4294.098
+  },
+  {
+    "type": "subject",
+    "zScore": -0.8112222,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2561",
+    "name": "public debt",
+    "score": 851.5531
+  },
+  {
+    "type": "subject",
+    "zScore": 0.85796964,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2597",
+    "name": "monetary policy",
+    "score": 6842.959
+  },
+  {
+    "type": "subject",
+    "zScore": -0.42696586,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2616",
+    "name": "interest rate",
+    "score": 2230.8047
+  },
+  {
+    "type": "subject",
+    "zScore": -0.15406595,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2647",
+    "name": "investment",
+    "score": 3210.353
+  },
+  {
+    "type": "subject",
+    "zScore": -0.8450406,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2683",
+    "name": "exchange rate",
+    "score": 730.1647
+  },
+  {
+    "type": "subject",
+    "zScore": -0.7844981,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T3900",
+    "name": "economic projections",
+    "score": 947.47656
+  },
+  {
+    "type": "subject",
+    "zScore": -0.75730413,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T4308",
+    "name": "private consumption",
+    "score": 1045.0867
+  },
+  {
+    "type": "subject",
+    "zScore": 6.494167,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T4540",
+    "name": "inflation",
+    "score": 27073.555
+  },
+  {
+    "type": "subject",
+    "zScore": -0.6344357,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T4543",
+    "name": "deficit",
+    "score": 1486.1113
+  },
+  {
+    "type": "subject",
+    "zScore": -0.7280344,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5384",
+    "name": "structural reform",
+    "score": 1150.1476
+  },
+  {
+    "type": "subject",
+    "zScore": -0.54600435,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5796",
+    "name": "fiscal consolidation",
+    "score": 1803.5273
+  },
+  {
+    "type": "subject",
+    "zScore": -0.8591687,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5806",
+    "name": "current account",
+    "score": 679.4533
+  },
+  {
+    "type": "subject",
+    "zScore": -0.107246846,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T813",
+    "name": "gross domestic product",
+    "score": 3378.4058
+  },
+  {
+    "type": "subject",
+    "zScore": -0.8460114,
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T957",
+    "name": "fiscal policy",
+    "score": 726.6805
+  }
+]

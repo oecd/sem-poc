@@ -1,0 +1,122 @@
+<html xmlns:v-bind="https://vuejs.org/v2/api/#v-bind" xmlns:v-on="https://vuejs.org/v2/api/#v-on">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>OECD Economic Outlook</title>
+      <link rel="stylesheet" href="vendor/jqcloud.min.css">
+      <link rel="stylesheet" href="oecd.css"><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script><script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script><script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js" integrity="sha256-1hjUhpc44NwiNg8OwMu2QzJXhD8kcj+sJA3aCQZoUjg=" crossorigin="anonymous"></script><script src="//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js" integrity="sha256-+q+dGCSrVbejd3MDuzJHKsk2eXd4sF5XYEMfPZsOnYE=" crossorigin="anonymous"></script><script src="//cdnjs.cloudflare.com/ajax/libs/vue/2.2.6/vue.min.js" integrity="sha256-cWZZjnj99rynB+b8FaNGUivxc1kJSRa8ZM/E77cDq0I=" crossorigin="anonymous"></script><script src="//use.fontawesome.com/a87953a319.js"></script><script src="vendor/jqcloud.min.js"></script><script src="vendor/store.modern.min.js"></script><script src="oecd.js"></script></head>
+   <body><a name="top"></a><nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+         <a class="navbar-brand" href="/">Semantic POC</a>
+         
+         
+         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            
+            <ul class="navbar-nav mr-auto">
+               
+               <li class="nav-item active">
+                  <a class="nav-link" href="eco_outlook.html">Economic Outlook</a>
+                  
+               </li>
+               
+            </ul>
+            
+         </div>
+         
+      </nav>
+      <div class="container" id="main">
+         
+         <h1>OECD Economic Outlook</h1>
+         
+         <div class="row">
+            
+            <div class="col-2">
+               
+               <div class="info-box">
+                  English<br>
+                  Semiannual<br>
+                  ISSN: ... (print)<br>
+                  ISSN: ... (online)<br>
+                  DOI: 10.1787/...<br>
+                  
+               </div>
+               
+            </div>
+            
+            <div class="col">
+               
+               <p>
+                  The OECD Economic Outlook is the OECD’s twice-yearly analysis of the major economic trends and prospects for the next two
+                  years. Prepared by the OECD Economics Department, the Outlook puts forward a consistent set of projections for output, employment,
+                  government spending, prices and current balances based on a review of each member country and of the induced effect on each
+                  of them on international developments.
+                  
+               </p>
+               
+               
+               <p>
+                  Coverage is provided for all OECD member countries as well as for selected non-member countries. Each issue includes a general
+                  assessment, chapters summarizing developments and providing projections for each individual country, three to five chapters
+                  on topics of current interest such as housing, and an extensive statistical annex with a wide variety of variables including
+                  general debt.
+                  
+               </p>
+               
+            </div>
+            
+         </div>
+         
+         
+         <e-timeline v-bind:dataset="publication" v-on:click-issue="issueClicked" v-on:which-select="w =&gt; { current.which = w; }">
+            
+         </e-timeline>
+         
+         
+         <div class="row">
+            
+            <div class="col-2">
+               
+               <e-volumes-issues v-bind:publication="publication" v-on:click-issue="issueClicked">
+                  
+               </e-volumes-issues>
+               
+            </div>
+            
+            <div class="col">
+               
+               <template v-if="false">
+                  
+                  <div class="btn-group" role="group" aria-label="What">
+                     <button type="button" class="btn btn-sm" v-bind:class="current.what === 'issue' ? 'btn-primary' : 'btn-secondary'" v-on:click="current.what = 'issue'">Issue</button>
+                     <button type="button" class="btn btn-sm" v-if="current.which === 'subject'" v-bind:class="current.what === 'subject' ? 'btn-primary' : 'btn-secondary'" v-on:click="current.what = 'subject'">Subject</button>
+                     <button type="button" class="btn btn-sm" v-if="current.which === 'coverage'" v-bind:class="current.what === 'country' ? 'btn-primary' : 'btn-secondary'" v-on:click="current.what = 'country'">Country</button>
+                     
+                  </div>
+                  
+               </template>
+               
+               
+               <e-issue-summary v-if="current.what === 'issue'" v-bind:publication="publication" v-bind:issue="current.issue">
+                  
+               </e-issue-summary>
+               
+               <e-topic-summary what="subject" v-if="current.what === 'subject'" v-bind:topic="current.subject" v-bind:publication="publication" v-bind:issue="current.issue">
+                  
+               </e-topic-summary>
+               
+               <e-topic-summary what="country" v-if="current.what === 'country'" v-bind:topic="current.country" v-bind:publication="publication" v-bind:issue="current.issue">
+                  
+               </e-topic-summary>
+               
+            </div>
+            
+         </div>
+         
+      </div><script>
+      publicationMain("eco_outlook", "#main");
+    </script></body>
+</html>
