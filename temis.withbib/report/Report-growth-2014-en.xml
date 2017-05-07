@@ -1,0 +1,38 @@
+<enrichment>
+	<annotation annotationPlanName="Document Classification (Plan_DC)" annotationDate="2017/03/08 09:35:25">
+		<docID value="conv-e4d26070-f3ec-4d00-948d-3b50ffdf4c3a"/>
+		<language value="English"/>
+		<ContentFilter>No chapter to filter out for conv-e4d26070-f3ec-4d00-948d-3b50ffdf4c3a
+			Unable to process long text </ContentFilter>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#AdvancedCountries" score="116.43174" zScore="-1.3603573">Advanced countries</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Brazil" score="225.9455" zScore="-0.67635065">Brazil</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#China" score="323.7439" zScore="-0.065516435">China</coverage>
+		<coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#India" score="335.93536" zScore="0.010629649">India</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Indonesia" score="262.52515" zScore="-0.4478796">Indonesia</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Mexico" score="277.13818" zScore="-0.35660875">Mexico</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand" score="150.10405" zScore="-1.150045">New Zealand</coverage>
+		<coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#NonOECDCountries" score="576.5901" zScore="1.5137231">Non-OECD countries</coverage>
+		<coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries" score="1034.1334" zScore="4.3714705">OECD countries</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#RussianFederation" score="222.69702" zScore="-0.69664013">Russian Federation</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia" score="109.624275" zScore="-1.4028757">Slovak Republic</coverage>
+		<coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthAfrica" score="386.0632" zScore="0.32372063">South Africa</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Turkey" score="309.66092" zScore="-0.15347661">Turkey</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom" score="143.66693" zScore="-1.1902503">United Kingdom</coverage>
+		<coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates" score="539.24255" zScore="1.280456">United States</coverage>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1000" score="182.46342" zScore="-0.8333061">employment creation</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T2352" score="914.0131" zScore="0.0066307983">competition</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2836" score="356.08798" zScore="-0.63395715">labour market</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2852" score="530.26544" zScore="-0.43397334">employment security</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2940" score="548.83673" zScore="-0.41265053">wages</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T3595" score="565.2296" zScore="-0.39382884">recommendations</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T4842" score="123.987625" zScore="-0.90044576">indirect taxes</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5282" score="109.75824" zScore="-0.91678333">intangible assets</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5675" score="431.7021" zScore="-0.54713994">labour force participation</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5806" score="385.28986" zScore="-0.60042864">current account</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T5812" score="6017.191" zScore="5.865901">product market regulation</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5873" score="336.74652" zScore="-0.6561642">active labour market policy</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6512" score="366.73276" zScore="-0.6217352">professional services</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T697" score="429.571" zScore="-0.5495868">unemployment insurance</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T779" score="2325.6946" zScore="1.6274685">indicators</subject>
+	</annotation>
+</enrichment>

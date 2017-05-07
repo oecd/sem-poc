@@ -1,0 +1,2310 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@base <http://oecd.org/ns/> .
+
+<3359>  rdf:type skos:Concept ;
+        skos:prefLabel "biobased economy" .
+<4736>  rdf:type skos:Concept ;
+        skos:prefLabel "public good" .
+<7643>	rdf:type skos:Concept ;
+        skos:prefLabel "final agricultural output" .
+<12549>	rdf:type skos:Concept ;
+        skos:prefLabel "Community reserve" .
+<14045>	rdf:type skos:Concept ;
+        skos:prefLabel "commercial farm household" .
+<14050>	rdf:type skos:Concept ;
+        skos:prefLabel "part-time farm household type 1" .
+<14051>	rdf:type skos:Concept ;
+        skos:prefLabel "part-time farm household type 2" .
+<14065>	rdf:type skos:Concept ;
+        skos:prefLabel "fixed capital formation" .
+<19206>	rdf:type skos:Concept ;
+        skos:altLabel "LDCs" ;
+        skos:prefLabel "least developed countries" .
+<19624>	rdf:type skos:Concept ;
+        skos:prefLabel "capital" .
+<20296>	rdf:type skos:Concept ;
+        skos:altLabel "OECD" ;
+        skos:prefLabel "Organisation for Economic Co-operation and Development" .
+<20513>	rdf:type skos:Concept ;
+        skos:prefLabel "abnormal obsolescence" .
+<20516>	rdf:type skos:Concept ;
+        skos:prefLabel "absorption accounting" .
+<20582>	rdf:type skos:Concept ;
+        skos:prefLabel "accounting profit" .
+<20619>	rdf:type skos:Concept ;
+        skos:prefLabel "accumulation account" .
+<20624>	rdf:type skos:Concept ;
+        skos:prefLabel "acquisition cost" .
+<20626>	rdf:type skos:Concept ;
+        skos:prefLabel "acquisition price" .
+<20635>	rdf:type skos:Concept ;
+        skos:prefLabel "activity accounts" .
+<20636>	rdf:type skos:Concept ;
+        skos:prefLabel "activity classification" .
+<20640>	rdf:type skos:Concept ;
+        skos:prefLabel "actual consumption" .
+<20647>	rdf:type skos:Concept ;
+        skos:prefLabel "actual final consumption of NPISHs" .
+<20654>	rdf:type skos:Concept ;
+        skos:prefLabel "actual social contributions" .
+<20668>	rdf:type skos:Concept ;
+        skos:prefLabel "additivity" .
+<20676>	rdf:type skos:Concept ;
+        skos:prefLabel "adjusted disposable income" .
+<20680>	rdf:type skos:Concept ;
+        skos:prefLabel "adjustment aid" .
+<20686>	rdf:type skos:Concept ;
+        skos:prefLabel "adjustment for the change in the net equity of households in pension fund reserves" .
+<20751>	rdf:type skos:Concept ;
+        skos:prefLabel "aggregates of the SNA" .
+<20763>	rdf:type skos:Concept ;
+        skos:prefLabel "allocation of primary income account" .
+<20766>	rdf:type skos:Concept ;
+        skos:prefLabel "allocative efficiency" .
+<20779>	rdf:type skos:Concept ;
+        skos:prefLabel "alternative cost" .
+<20805>	rdf:type skos:Concept ;
+        skos:prefLabel "analytical unit" .
+<20809>	rdf:type skos:Concept ;
+        skos:prefLabel "ancillary government enterprises" .
+<20830>	rdf:type skos:Concept ;
+        skos:prefLabel "apparent productivity" .
+<20850>	rdf:type skos:Concept ;
+        skos:prefLabel "appropriation account" .
+<20903>	rdf:type skos:Concept ;
+        skos:prefLabel "factor cost, at" .
+<20923>	rdf:type skos:Concept ;
+        skos:prefLabel "audit certificate" .
+<20951>	rdf:type skos:Concept ;
+        skos:prefLabel "autonomous pension funds" .
+<20962>	rdf:type skos:Concept ;
+        skos:prefLabel "average cost" .
+<20991>	rdf:type skos:Concept ;
+        skos:prefLabel "balance of primary incomes" .
+<20995>	rdf:type skos:Concept ;
+        skos:prefLabel "balance sheet" .
+<21011>	rdf:type skos:Concept ;
+        skos:prefLabel "balancing entry" .
+<21112>	rdf:type skos:Concept ;
+        skos:prefLabel "base-line projection" .
+<21113>	rdf:type skos:Concept ;
+        skos:prefLabel "base-line scenario" .
+<21124>	rdf:type skos:Concept ;
+        skos:prefLabel "basic price" .
+<21129>	rdf:type skos:Concept ;
+        skos:prefLabel "basic value, approximate" .
+<21130>	rdf:type skos:Concept ;
+        skos:prefLabel "basic value, true" .
+<21408>	rdf:type skos:Concept ;
+        skos:prefLabel "business cycle" .
+<21432>	rdf:type skos:Concept ;
+        skos:prefLabel "business sector" .
+<21433>	rdf:type skos:Concept ;
+        skos:prefLabel "business sector output" .
+<21434>	rdf:type skos:Concept ;
+        skos:prefLabel "business services" .
+<21489>	rdf:type skos:Concept ;
+        skos:prefLabel "capital consumption" .
+<21501>	rdf:type skos:Concept ;
+        skos:prefLabel "capital formation" .
+<21509>	rdf:type skos:Concept ;
+        skos:prefLabel "capital intensity" .
+<21520>	rdf:type skos:Concept ;
+        skos:prefLabel "capital repairs" .
+<21524>	rdf:type skos:Concept ;
+        skos:prefLabel "capital service price" .
+<21525>	rdf:type skos:Concept ;
+        skos:prefLabel "capital services" .
+<21572>	rdf:type skos:Concept ;
+        skos:prefLabel "cash accounting" .
+<21619>	rdf:type skos:Concept ;
+        skos:prefLabel "cash method" .
+<21653>	rdf:type skos:Concept ;
+        skos:prefLabel "catastrophic losses" .
+<21665>	rdf:type skos:Concept ;
+        skos:prefLabel "center of economic interest" .
+<21680>	rdf:type skos:Concept ;
+        skos:prefLabel "central government" .
+<21685>	rdf:type skos:Concept ;
+        skos:altLabel "CPC" ;
+        skos:prefLabel "Central product classification" .
+<21710>	rdf:type skos:Concept ;
+        skos:prefLabel "change in real national net worth" .
+<21716>	rdf:type skos:Concept ;
+        skos:prefLabel "changes in net worth" .
+<21779>	rdf:type skos:Concept ;
+        skos:altLabel "COICOP" ;
+        skos:prefLabel "Classification of individual consumption by purpose" .
+<21780>	rdf:type skos:Concept ;
+        skos:altLabel "COPP" ;
+        skos:prefLabel "Classification of outlays of producers by purpose" .
+<21782>	rdf:type skos:Concept ;
+        skos:altLabel "COPNI" ;
+        skos:prefLabel "Classification of the Purposes of Non-Profit Institutions Serving Households" .
+<21843>	rdf:type skos:Concept ;
+        skos:prefLabel "collective consumption expenditure" .
+<21844>	rdf:type skos:Concept ;
+        skos:prefLabel "collective consumption service" .
+<21883>	rdf:type skos:Concept ;
+        skos:prefLabel "commodity technology assumption" .
+<21934>	rdf:type skos:Concept ;
+        skos:prefLabel "composite leading indicator" .
+<21946>	rdf:type skos:Concept ;
+        skos:prefLabel "compulsory fees" .
+<21953>	rdf:type skos:Concept ;
+        skos:prefLabel "concealed production" .
+<21989>	rdf:type skos:Concept ;
+        skos:prefLabel "constant price" .
+<22013>	rdf:type skos:Concept ;
+        skos:altLabel "CPI" ;
+        skos:prefLabel "consumer price index" .
+<22017>	rdf:type skos:Concept ;
+        skos:prefLabel "consumer semi-durables" .
+<22020>	rdf:type skos:Concept ;
+        skos:prefLabel "consumer welfare" .
+<22027>	rdf:type skos:Concept ;
+        skos:prefLabel "consumption good or service" .
+<22073>	rdf:type skos:Concept ;
+        skos:prefLabel "contributions to social security, pension and similar schemes" .
+<22112>	rdf:type skos:Concept ;
+        skos:prefLabel "co-operative society" .
+<22127>	rdf:type skos:Concept ;
+        skos:prefLabel "corporate culture" .
+<22173>	rdf:type skos:Concept ;
+        skos:prefLabel "Baumol disease" .
+<22226>	rdf:type skos:Concept ;
+        skos:altLabel "CBA" ;
+        skos:prefLabel "cost-benefit analysis" .
+<22229>	rdf:type skos:Concept ;
+        skos:prefLabel "cost-effectiveness" .
+<22230>	rdf:type skos:Concept ;
+        skos:altLabel "CEA" ;
+        skos:prefLabel "cost-effectiveness analysis" .
+<22356>	rdf:type skos:Concept ;
+        skos:prefLabel "cross price elasticity of demand" .
+<22361>	rdf:type skos:Concept ;
+        skos:prefLabel "cross-correlation of business cycles" .
+<22374>	rdf:type skos:Concept ;
+        skos:prefLabel "cultivated assets" .
+<22435>	rdf:type skos:Concept ;
+        skos:prefLabel "current expenditure" .
+<22437>	rdf:type skos:Concept ;
+        skos:prefLabel "current international cooperation" .
+<22443>	rdf:type skos:Concept ;
+        skos:prefLabel "current repairs and maintenance" .
+<22446>	rdf:type skos:Concept ;
+        skos:prefLabel "current taxes on capital" .
+<22447>	rdf:type skos:Concept ;
+        skos:prefLabel "current taxes on land and buildings" .
+<22448>	rdf:type skos:Concept ;
+        skos:prefLabel "current taxes on net wealth" .
+<22449>	rdf:type skos:Concept ;
+        skos:prefLabel "current taxes on other assets" .
+<22451>	rdf:type skos:Concept ;
+        skos:prefLabel "current transfers" .
+<22452>	rdf:type skos:Concept ;
+        skos:prefLabel "current transfers between households" .
+<22454>	rdf:type skos:Concept ;
+        skos:prefLabel "current transfers to NPISHs" .
+<22455>	rdf:type skos:Concept ;
+        skos:prefLabel "current transfers within general government" .
+<22468>	rdf:type skos:Concept ;
+        skos:prefLabel "cycle" .
+<22478>	rdf:type skos:Concept ;
+        skos:prefLabel "cyclical component of a time series" .
+<22538>	rdf:type skos:Concept ;
+        skos:prefLabel "decay" .
+<22581>	rdf:type skos:Concept ;
+        skos:prefLabel "deflation" .
+<22647>	rdf:type skos:Concept ;
+        skos:prefLabel "depletion" .
+<22649>	rdf:type skos:Concept ;
+        skos:prefLabel "depletion of natural economic assets" .
+<22666>	rdf:type skos:Concept ;
+        skos:prefLabel "depositor" .
+<22740>	rdf:type skos:Concept ;
+        skos:prefLabel "direct investment enterprise" .
+<22757>	rdf:type skos:Concept ;
+        skos:prefLabel "direct purchases abroad by producers of government services" .
+<22758>	rdf:type skos:Concept ;
+        skos:prefLabel "direct purchases abroad by resident households" .
+<22759>	rdf:type skos:Concept ;
+        skos:prefLabel "direct purchases in the domestic market by extra-territorial bodies" .
+<22760>	rdf:type skos:Concept ;
+        skos:prefLabel "direct purchases in the domestic market by non-resident households" .
+<22808>	rdf:type skos:Concept ;
+        skos:prefLabel "decreasing returns to scale" .
+<22831>	rdf:type skos:Concept ;
+        skos:prefLabel "distributed income of corporations" .
+<22833>	rdf:type skos:Concept ;
+        skos:prefLabel "distribution and use of income accounts" .
+<22841>	rdf:type skos:Concept ;
+        skos:prefLabel "distributive transactions" .
+<22871>	rdf:type skos:Concept ;
+        skos:prefLabel "domestic corporation" .
+<22875>	rdf:type skos:Concept ;
+        skos:prefLabel "domestic demand" .
+<22880>	rdf:type skos:Concept ;
+        skos:prefLabel "domestic factor income" .
+<22892>	rdf:type skos:Concept ;
+        skos:prefLabel "domestic territory" .
+<22906>	rdf:type skos:Concept ;
+        skos:prefLabel "double declining balance depreciation" .
+<22907>	rdf:type skos:Concept ;
+        skos:prefLabel "double deflation" .
+<22909>	rdf:type skos:Concept ;
+        skos:prefLabel "double entry system" .
+<22957>	rdf:type skos:Concept ;
+        skos:altLabel "DV" ;
+        skos:prefLabel "deprival value" .
+<22958>	rdf:type skos:Concept ;
+        skos:prefLabel "dwelling" .
+<22999>	rdf:type skos:Concept ;
+        skos:prefLabel "economic activity" .
+<23003>	rdf:type skos:Concept ;
+        skos:altLabel "EMU" ;
+        skos:prefLabel "Economic and Monetary Union" .
+<23007>	rdf:type skos:Concept ;
+        skos:prefLabel "economic assets" .
+<23017>	rdf:type skos:Concept ;
+        skos:prefLabel "economic flow" .
+<23022>	rdf:type skos:Concept ;
+        skos:prefLabel "economic life" .
+<23032>	rdf:type skos:Concept ;
+        skos:prefLabel "economic production" .
+<23033>	rdf:type skos:Concept ;
+        skos:prefLabel "economic profit" .
+<23035>	rdf:type skos:Concept ;
+        skos:prefLabel "economic rent" .
+<23042>	rdf:type skos:Concept ;
+        skos:prefLabel "economic slack" .
+<23046>	rdf:type skos:Concept ;
+        skos:prefLabel "economic territory" .
+<23047>	rdf:type skos:Concept ;
+        skos:prefLabel "economic territory of an international organisation" .
+<23052>	rdf:type skos:Concept ;
+        skos:prefLabel "economically active persons" .
+<23054>	rdf:type skos:Concept ;
+        skos:prefLabel "economically significant prices" .
+<23057>	rdf:type skos:Concept ;
+        skos:prefLabel "economies of multi-plant operations" .
+<23058>	rdf:type skos:Concept ;
+        skos:prefLabel "economies of scale" .
+<23059>	rdf:type skos:Concept ;
+        skos:prefLabel "economies of scope" .
+<23071>	rdf:type skos:Concept ;
+        skos:prefLabel "effective exchange rate" .
+<23075>	rdf:type skos:Concept ;
+        skos:prefLabel "effectiveness" .
+<23077>	rdf:type skos:Concept ;
+        skos:prefLabel "efficiency" .
+<23091>	rdf:type skos:Concept ;
+        skos:prefLabel "elasticity" .
+<23109>	rdf:type skos:Concept ;
+        skos:prefLabel "employers' actual social contributions" .
+<23110>	rdf:type skos:Concept ;
+        skos:prefLabel "employers' imputed social contributions" .
+<23156>	rdf:type skos:Concept ;
+        skos:prefLabel "enterprise" .
+<23160>	rdf:type skos:Concept ;
+        skos:prefLabel "enterprise group" .
+<23164>	rdf:type skos:Concept ;
+        skos:prefLabel "enterprise-type unit" .
+<23166>	rdf:type skos:Concept ;
+        skos:prefLabel "entertainment, literary or artistic originals" .
+<23171>	rdf:type skos:Concept ;
+        skos:prefLabel "entrepreneurial income" .
+<23185>	rdf:type skos:Concept ;
+        skos:prefLabel "equilibrium" .
+<23208>	rdf:type skos:Concept ;
+        skos:altLabel "ESA" ;
+        skos:prefLabel "European System of Integrated Economic Accounts" .
+<23217>	rdf:type skos:Concept ;
+        skos:prefLabel "establishment" .
+<23246>	rdf:type skos:Concept ;
+        skos:prefLabel "excess capacity" .
+<23314>	rdf:type skos:Concept ;
+        skos:prefLabel "existing fixed asset" .
+<23315>	rdf:type skos:Concept ;
+        skos:prefLabel "existing good" .
+<23333>	rdf:type skos:Concept ;
+        skos:prefLabel "expected obsolescence" .
+<23339>	rdf:type skos:Concept ;
+        skos:prefLabel "expenditure" .
+<23346>	rdf:type skos:Concept ;
+        skos:prefLabel "expenditure GDP" .
+<23355>	rdf:type skos:Concept ;
+        skos:prefLabel "expenditure taxes" .
+<23382>	rdf:type skos:Concept ;
+        skos:prefLabel "external assets and liabilities account" .
+<23384>	rdf:type skos:Concept ;
+        skos:prefLabel "external balance of goods and services" .
+<23387>	rdf:type skos:Concept ;
+        skos:prefLabel "external demand" .
+<23396>	rdf:type skos:Concept ;
+        skos:prefLabel "external transactions account" .
+<23397>	rdf:type skos:Concept ;
+        skos:prefLabel "externalities" .
+<23415>	rdf:type skos:Concept ;
+        skos:prefLabel "factor income" .
+<23422>	rdf:type skos:Concept ;
+        skos:prefLabel "factor reversal test" .
+<23426>	rdf:type skos:Concept ;
+        skos:prefLabel "factor value, approximate" .
+<23427>	rdf:type skos:Concept ;
+        skos:prefLabel "factor value, true" .
+<23499>	rdf:type skos:Concept ;
+        skos:prefLabel "final consumption" .
+<23500>	rdf:type skos:Concept ;
+        skos:prefLabel "final consumption expenditure" .
+<23501>	rdf:type skos:Concept ;
+        skos:prefLabel "final consumption expenditure of government" .
+<23502>	rdf:type skos:Concept ;
+        skos:prefLabel "final consumption expenditure of government services" .
+<23503>	rdf:type skos:Concept ;
+        skos:prefLabel "final consumption expenditure of households" .
+<23504>	rdf:type skos:Concept ;
+        skos:prefLabel "final consumption expenditure of households in the domestic market" .
+<23505>	rdf:type skos:Concept ;
+        skos:prefLabel "final consumption expenditure of NPISHs" .
+<23509>	rdf:type skos:Concept ;
+        skos:prefLabel "final expenditure" .
+<23514>	rdf:type skos:Concept ;
+        skos:prefLabel "final use of goods and services" .
+<23515>	rdf:type skos:Concept ;
+        skos:prefLabel "final use quadrant" .
+<23516>	rdf:type skos:Concept ;
+        skos:prefLabel "final uses" .
+<23519>	rdf:type skos:Concept ;
+        skos:prefLabel "finance account" .
+<23527>	rdf:type skos:Concept ;
+        skos:prefLabel "financial accounts" .
+<23529>	rdf:type skos:Concept ;
+        skos:prefLabel "financial assets and liabilities" .
+<23531>	rdf:type skos:Concept ;
+        skos:prefLabel "financial auxiliaries" .
+<23538>	rdf:type skos:Concept ;
+        skos:prefLabel "financial corporations" .
+<23541>	rdf:type skos:Concept ;
+        skos:prefLabel "financial enterprises" .
+<23545>	rdf:type skos:Concept ;
+        skos:prefLabel "financial institution" .
+<23593>	rdf:type skos:Concept ;
+        skos:prefLabel "fiscal policy" .
+<23604>	rdf:type skos:Concept ;
+        skos:prefLabel "Fisher's ideal index" .
+<23670>	rdf:type skos:Concept ;
+        skos:altLabel "FMS" ;
+        skos:prefLabel "flexible manufacturing system" .
+<23732>	rdf:type skos:Concept ;
+        skos:prefLabel "foreseen obsolescence" .
+<23798>	rdf:type skos:Concept ;
+        skos:prefLabel "absorption cost" .
+<23854>	rdf:type skos:Concept ;
+        skos:altLabel "GDP" ;
+        skos:prefLabel "gross domestic product" .
+<23855>	rdf:type skos:Concept ;
+        skos:prefLabel "GDP at market prices" .
+<23857>	rdf:type skos:Concept ;
+        skos:prefLabel "GDP deflator" .
+<23860>	rdf:type skos:Concept ;
+        skos:prefLabel "GDP in volume" .
+<23883>	rdf:type skos:Concept ;
+        skos:prefLabel "general government current tax and non-tax receipts" .
+<23884>	rdf:type skos:Concept ;
+        skos:prefLabel "general government financial balances" .
+<23885>	rdf:type skos:Concept ;
+        skos:prefLabel "general government net lending" .
+<23886>	rdf:type skos:Concept ;
+        skos:prefLabel "general government primary balance" .
+<23889>	rdf:type skos:Concept ;
+        skos:prefLabel "general government total outlays" .
+<23904>	rdf:type skos:Concept ;
+        skos:prefLabel "generation of income account" .
+<23908>	rdf:type skos:Concept ;
+        skos:prefLabel "geometric depreciation" .
+<23920>	rdf:type skos:Concept ;
+        skos:prefLabel "globalisation" .
+<23921>	rdf:type skos:Concept ;
+        skos:altLabel "GNI, GNY" ;
+        skos:prefLabel "gross national income" .
+<23923>	rdf:type skos:Concept ;
+        skos:altLabel "GNP" ;
+        skos:prefLabel "gross national product" .
+<23971>	rdf:type skos:Concept ;
+        skos:prefLabel "goods and services" .
+<23972>	rdf:type skos:Concept ;
+        skos:prefLabel "goods and services account" .
+<23973>	rdf:type skos:Concept ;
+        skos:prefLabel "goods for resale - inventories" .
+<23978>	rdf:type skos:Concept ;
+        skos:altLabel "GOS" ;
+        skos:prefLabel "gross operating surplus" .
+<24019>	rdf:type skos:Concept ;
+        skos:prefLabel "government sector" .
+<24027>	rdf:type skos:Concept ;
+        skos:prefLabel "government units" .
+<24056>	rdf:type skos:Concept ;
+        skos:prefLabel "gross adjusted disposable income" .
+<24060>	rdf:type skos:Concept ;
+        skos:prefLabel "gross capital formation" .
+<24061>	rdf:type skos:Concept ;
+        skos:altLabel "GCS" ;
+        skos:prefLabel "gross capital stock" .
+<24066>	rdf:type skos:Concept ;
+        skos:altLabel "GERD" ;
+        skos:prefLabel "gross domestic expenditure on R&D" .
+<24067>	rdf:type skos:Concept ;
+        skos:prefLabel "gross domestic product &ndash; output based" .
+<24069>	rdf:type skos:Concept ;
+        skos:altLabel "GFCF" ;
+        skos:prefLabel "gross fixed asset formation" .
+<24071>	rdf:type skos:Concept ;
+        skos:prefLabel "gross income" .
+<24073>	rdf:type skos:Concept ;
+        skos:prefLabel "gross input" .
+<24079>	rdf:type skos:Concept ;
+        skos:prefLabel "gross national disposable income" .
+<24084>	rdf:type skos:Concept ;
+        skos:prefLabel "gross national saving" .
+<24089>	rdf:type skos:Concept ;
+        skos:prefLabel "gross output of industries" .
+<24090>	rdf:type skos:Concept ;
+        skos:prefLabel "gross output of producers of other goods and services" .
+<24098>	rdf:type skos:Concept ;
+        skos:prefLabel "gross saving" .
+<24102>	rdf:type skos:Concept ;
+        skos:altLabel "GVA" ;
+        skos:prefLabel "gross value added" .
+<24103>	rdf:type skos:Concept ;
+        skos:prefLabel "gross value added at basic prices" .
+<24104>	rdf:type skos:Concept ;
+        skos:prefLabel "gross value added at producers' prices" .
+<24118>	rdf:type skos:Concept ;
+        skos:prefLabel "growth cycle" .
+<24130>	rdf:type skos:Concept ;
+        skos:prefLabel "growth rate" .
+<24173>	rdf:type skos:Concept ;
+        skos:prefLabel "hedonic method" .
+<24174>	rdf:type skos:Concept ;
+        skos:prefLabel "hedonic price" .
+<24198>	rdf:type skos:Concept ;
+        skos:altLabel "HIPC" ;
+        skos:prefLabel "harmonised index of consumer prices" .
+<24223>	rdf:type skos:Concept ;
+        skos:prefLabel "homogeneous production unit" .
+<24232>	rdf:type skos:Concept ;
+        skos:prefLabel "households" .
+<24233>	rdf:type skos:Concept ;
+        skos:prefLabel "household actual final consumption" .
+<24236>	rdf:type skos:Concept ;
+        skos:prefLabel "household final consumption expenditure" .
+<24238>	rdf:type skos:Concept ;
+        skos:prefLabel "household production for own use" .
+<24248>	rdf:type skos:Concept ;
+        skos:prefLabel "households, as a statistical unit" .
+<24249>	rdf:type skos:Concept ;
+        skos:prefLabel "households, as consumers" .
+<24250>	rdf:type skos:Concept ;
+        skos:prefLabel "households, including private non-financial unincorporated enterprises" .
+<24260>	rdf:type skos:Concept ;
+        skos:prefLabel "Houthakker-Magee effect" .
+<24279>	rdf:type skos:Concept ;
+        skos:prefLabel "illegal production" .
+<24313>	rdf:type skos:Concept ;
+        skos:prefLabel "imputed expenditure" .
+<24317>	rdf:type skos:Concept ;
+        skos:prefLabel "imputed social contributions" .
+<24339>	rdf:type skos:Concept ;
+        skos:prefLabel "income" .
+<24340>	rdf:type skos:Concept ;
+        skos:prefLabel "income and expenditure account" .
+<24347>	rdf:type skos:Concept ;
+        skos:prefLabel "income elasticity" .
+<24348>	rdf:type skos:Concept ;
+        skos:prefLabel "income elasticity of demand" .
+<24352>	rdf:type skos:Concept ;
+        skos:altLabel "(GDPI)" ;
+        skos:prefLabel "income GDP" .
+<24391>	rdf:type skos:Concept ;
+        skos:prefLabel "increase in stocks" .
+<24411>	rdf:type skos:Concept ;
+        skos:prefLabel "independent contractor" .
+<24432>	rdf:type skos:Concept ;
+        skos:prefLabel "indirect compilation method" .
+<24441>	rdf:type skos:Concept ;
+        skos:prefLabel "individual consumption expenditure" .
+<24442>	rdf:type skos:Concept ;
+        skos:prefLabel "individual consumption good or service" .
+<24477>	rdf:type skos:Concept ;
+        skos:prefLabel "Industrial production" .
+<24486>	rdf:type skos:Concept ;
+        skos:prefLabel "industry" .
+<24487>	rdf:type skos:Concept ;
+        skos:prefLabel "industry technology" .
+<24488>	rdf:type skos:Concept ;
+        skos:prefLabel "industry association" .
+<24493>	rdf:type skos:Concept ;
+        skos:prefLabel "industry-by-industry table" .
+<24545>	rdf:type skos:Concept ;
+        skos:prefLabel "informal sector" .
+<24555>	rdf:type skos:Concept ;
+        skos:prefLabel "initial capital costs" .
+<24569>	rdf:type skos:Concept ;
+        skos:prefLabel "input decay" .
+<24582>	rdf:type skos:Concept ;
+        skos:prefLabel "input-output table" .
+<24597>	rdf:type skos:Concept ;
+        skos:prefLabel "institutional sectors" .
+<24598>	rdf:type skos:Concept ;
+        skos:prefLabel "institutional unit" .
+<24611>	rdf:type skos:Concept ;
+        skos:prefLabel "intangible non-produced assets" .
+<24615>	rdf:type skos:Concept ;
+        skos:prefLabel "integrated economic accounts" .
+<24618>	rdf:type skos:Concept ;
+        skos:prefLabel "integration" .
+<24670>	rdf:type skos:Concept ;
+        skos:prefLabel "intermediate consumption" .
+<24671>	rdf:type skos:Concept ;
+        skos:prefLabel "intermediate consumption of industries" .
+<24672>	rdf:type skos:Concept ;
+        skos:prefLabel "intermediate consumption of producers of government services" .
+<24673>	rdf:type skos:Concept ;
+        skos:prefLabel "intermediate consumption of producers of private non-profit services to households" .
+<24675>	rdf:type skos:Concept ;
+        skos:prefLabel "intermediate input" .
+<24677>	rdf:type skos:Concept ;
+        skos:prefLabel "intermediate product" .
+<24680>	rdf:type skos:Concept ;
+        skos:prefLabel "intermediate use quadrant" .
+<24687>	rdf:type skos:Concept ;
+        skos:prefLabel "internal transactions" .
+<24689>	rdf:type skos:Concept ;
+        skos:prefLabel "internalisation" .
+<24704>	rdf:type skos:Concept ;
+        skos:prefLabel "international organisations" .
+<24706>	rdf:type skos:Concept ;
+        skos:altLabel "ISIC" ;
+        skos:prefLabel "International Standard Industrial Classification of All economic Activities" .
+<24721>	rdf:type skos:Concept ;
+        skos:prefLabel "intervention purchase" .
+<24722>	rdf:type skos:Concept ;
+        skos:prefLabel "intervention stock" .
+<24724>	rdf:type skos:Concept ;
+        skos:prefLabel "intra-company" .
+<24725>	rdf:type skos:Concept ;
+        skos:prefLabel "intra-corporate" .
+<24732>	rdf:type skos:Concept ;
+        skos:prefLabel "intra-unit transactions" .
+<24734>	rdf:type skos:Concept ;
+        skos:prefLabel "inventories of finished goods" .
+<24735>	rdf:type skos:Concept ;
+        skos:prefLabel "inventories of goods for resale" .
+<24736>	rdf:type skos:Concept ;
+        skos:prefLabel "inventories of materials and supplies" .
+<24737>	rdf:type skos:Concept ;
+        skos:prefLabel "inventories of work-in-progress" .
+<24738>	rdf:type skos:Concept ;
+        skos:prefLabel "inventory" .
+<24767>	rdf:type skos:Concept ;
+        skos:prefLabel "investment grant" .
+<24774>	rdf:type skos:Concept ;
+        skos:prefLabel "investment incentive" .
+<24842>	rdf:type skos:Concept ;
+        skos:prefLabel "joint venture" .
+<24853>	rdf:type skos:Concept ;
+        skos:altLabel "KAU" ;
+        skos:prefLabel "kind-of-activity unit" .
+<24885>	rdf:type skos:Concept ;
+        skos:prefLabel "labor force" .
+<24891>	rdf:type skos:Concept ;
+        skos:prefLabel "labour turnover" .
+<24907>	rdf:type skos:Concept ;
+        skos:prefLabel "land" .
+<24908>	rdf:type skos:Concept ;
+        skos:prefLabel "land and buildings" .
+<24915>	rdf:type skos:Concept ;
+        skos:prefLabel "land under cultivation" .
+<24916>	rdf:type skos:Concept ;
+        skos:prefLabel "land underlying buildings and structures" .
+<24938>	rdf:type skos:Concept ;
+        skos:prefLabel "leading indicator" .
+<24957>	rdf:type skos:Concept ;
+        skos:prefLabel "least-squares growth rate" .
+<24966>	rdf:type skos:Concept ;
+        skos:prefLabel "lemon" .
+<24977>	rdf:type skos:Concept ;
+        skos:prefLabel "Leontief inverse table" .
+<24978>	rdf:type skos:Concept ;
+        skos:altLabel "LI" ;
+        skos:prefLabel "Lerner index" .
+<25020>	rdf:type skos:Concept ;
+        skos:prefLabel "line manager" .
+<25027>	rdf:type skos:Concept ;
+        skos:prefLabel "linear approximation of the annualised growth rate" .
+<25089>	rdf:type skos:Concept ;
+        skos:prefLabel "local kind of activity unit" .
+<25092>	rdf:type skos:Concept ;
+        skos:prefLabel "local unit" .
+<25093>	rdf:type skos:Concept ;
+        skos:prefLabel "location" .
+<25172>	rdf:type skos:Concept ;
+        skos:prefLabel "machinery and equipment" .
+<25185>	rdf:type skos:Concept ;
+        skos:prefLabel "maintenance and repairs of fixed assets" .
+<25186>	rdf:type skos:Concept ;
+        skos:prefLabel "maintenance costs" .
+<25196>	rdf:type skos:Concept ;
+        skos:prefLabel "maker" .
+<25231>	rdf:type skos:Concept ;
+        skos:prefLabel "management fee" .
+<25242>	rdf:type skos:Concept ;
+        skos:prefLabel "management unit" .
+<25244>	rdf:type skos:Concept ;
+        skos:prefLabel "manager" .
+<25269>	rdf:type skos:Concept ;
+        skos:prefLabel "manufacturing" .
+<25292>	rdf:type skos:Concept ;
+        skos:prefLabel "marginal physical product" .
+<25307>	rdf:type skos:Concept ;
+        skos:prefLabel "market establishments" .
+<25314>	rdf:type skos:Concept ;
+        skos:prefLabel "market non-profit institutions serving businesses" .
+<25317>	rdf:type skos:Concept ;
+        skos:prefLabel "market output" .
+<25318>	rdf:type skos:Concept ;
+        skos:prefLabel "market price" .
+<25319>	rdf:type skos:Concept ;
+        skos:altLabel "MPS" ;
+        skos:prefLabel "market price support" .
+<25320>	rdf:type skos:Concept ;
+        skos:prefLabel "market producers" .
+<25425>	rdf:type skos:Concept ;
+        skos:prefLabel "metallic mineral reserves" .
+<25452>	rdf:type skos:Concept ;
+        skos:prefLabel "mineral exploration" .
+<25479>	rdf:type skos:Concept ;
+        skos:prefLabel "miscellaneous current transfers" .
+<25488>	rdf:type skos:Concept ;
+        skos:prefLabel "mixed income" .
+<25489>	rdf:type skos:Concept ;
+        skos:prefLabel "mixed sector" .
+<25604>	rdf:type skos:Concept ;
+        skos:prefLabel "month-on-previous-month growth rates" .
+<25605>	rdf:type skos:Concept ;
+        skos:altLabel "MCD" ;
+        skos:prefLabel "months of cyclical dominance" .
+<25638>	rdf:type skos:Concept ;
+        skos:prefLabel "moving holidays" .
+<25641>	rdf:type skos:Concept ;
+        skos:altLabel "MRP" ;
+        skos:prefLabel "marginal revenue product" .
+<25651>	rdf:type skos:Concept ;
+        skos:altLabel "MFP" ;
+        skos:prefLabel "multi-factor productivity" .
+<25681>	rdf:type skos:Concept ;
+        skos:prefLabel "national accountant" .
+<25682>	rdf:type skos:Concept ;
+        skos:prefLabel "national accounting system" .
+<25683>	rdf:type skos:Concept ;
+        skos:prefLabel "national accounts" .
+<25693>	rdf:type skos:Concept ;
+        skos:prefLabel "national expenditure" .
+<25695>	rdf:type skos:Concept ;
+        skos:prefLabel "national income" .
+<25696>	rdf:type skos:Concept ;
+        skos:prefLabel "national income at market prices" .
+<25713>	rdf:type skos:Concept ;
+        skos:altLabel "NDP" ;
+        skos:prefLabel "net domestic product" .
+<25722>	rdf:type skos:Concept ;
+        skos:prefLabel "negative externalities" .
+<25732>	rdf:type skos:Concept ;
+        skos:prefLabel "net" .
+<25734>	rdf:type skos:Concept ;
+        skos:prefLabel "net acquisition of financial assets" .
+<25735>	rdf:type skos:Concept ;
+        skos:prefLabel "net adjusted disposable income" .
+<25747>	rdf:type skos:Concept ;
+        skos:altLabel "NCS" ;
+        skos:prefLabel "net capital stock" .
+<25760>	rdf:type skos:Concept ;
+        skos:prefLabel "net disposable income" .
+<25767>	rdf:type skos:Concept ;
+        skos:prefLabel "net fixed capital formation" .
+<25768>	rdf:type skos:Concept ;
+        skos:prefLabel "net income from abroad" .
+<25770>	rdf:type skos:Concept ;
+        skos:prefLabel "net incurrence of liabilities" .
+<25775>	rdf:type skos:Concept ;
+        skos:prefLabel "net labour costs" .
+<25781>	rdf:type skos:Concept ;
+        skos:prefLabel "net national disposable income" .
+<25783>	rdf:type skos:Concept ;
+        skos:prefLabel "net national income" .
+<25800>	rdf:type skos:Concept ;
+        skos:prefLabel "net purchases of intangible assets except claims" .
+<25808>	rdf:type skos:Concept ;
+        skos:prefLabel "net saving" .
+<25813>	rdf:type skos:Concept ;
+        skos:prefLabel "net value of a fixed asset" .
+<25814>	rdf:type skos:Concept ;
+        skos:prefLabel "net value-added" .
+<25827>	rdf:type skos:Concept ;
+        skos:prefLabel "neutral holding gain" .
+<25846>	rdf:type skos:Concept ;
+        skos:prefLabel "nominal GDP" .
+<25848>	rdf:type skos:Concept ;
+        skos:prefLabel "nominal holding gain" .
+<25883>	rdf:type skos:Concept ;
+        skos:prefLabel "non-durable goods" .
+<25891>	rdf:type skos:Concept ;
+        skos:prefLabel "non-financial accounts" .
+<25893>	rdf:type skos:Concept ;
+        skos:prefLabel "non-financial business sector" .
+<25894>	rdf:type skos:Concept ;
+        skos:prefLabel "non-financial corporate and quasi-corporate enterprise sector" .
+<25895>	rdf:type skos:Concept ;
+        skos:prefLabel "non-financial corporations" .
+<25899>	rdf:type skos:Concept ;
+        skos:prefLabel "non-financial quasi-corporations" .
+<25901>	rdf:type skos:Concept ;
+        skos:prefLabel "non-financial transactions" .
+<25913>	rdf:type skos:Concept ;
+        skos:prefLabel "non-market producers" .
+<25915>	rdf:type skos:Concept ;
+        skos:prefLabel "non-market service" .
+<25917>	rdf:type skos:Concept ;
+        skos:prefLabel "non-measured activity" .
+<25918>	rdf:type skos:Concept ;
+        skos:prefLabel "non-measured economy" .
+<25920>	rdf:type skos:Concept ;
+        skos:prefLabel "non-metallic mineral reserves" .
+<25923>	rdf:type skos:Concept ;
+        skos:prefLabel "non-monetary transactions" .
+<25925>	rdf:type skos:Concept ;
+        skos:prefLabel "non-observed activity" .
+<25926>	rdf:type skos:Concept ;
+        skos:altLabel "NOE" ;
+        skos:prefLabel "non-observed economy" .
+<25935>	rdf:type skos:Concept ;
+        skos:prefLabel "non-pecuniary costs" .
+<25942>	rdf:type skos:Concept ;
+        skos:prefLabel "non-produced assets" .
+<25944>	rdf:type skos:Concept ;
+        skos:prefLabel "non-profit institutions controlled and mainly financed by government" .
+<25945>	rdf:type skos:Concept ;
+        skos:prefLabel "non-profit institutions engaged in market production" .
+<25946>	rdf:type skos:Concept ;
+        skos:prefLabel "non-profit institutions engaged in non-market production" .
+<25947>	rdf:type skos:Concept ;
+        skos:altLabel "NPI" ;
+        skos:prefLabel "non-profit body" .
+<25959>	rdf:type skos:Concept ;
+        skos:prefLabel "non-residential buildings" .
+<25971>	rdf:type skos:Concept ;
+        skos:prefLabel "normal obsolescence" .
+<25998>	rdf:type skos:Concept ;
+        skos:altLabel "NPISH" ;
+        skos:prefLabel "non-profit institutions serving households" .
+<26005>	rdf:type skos:Concept ;
+        skos:altLabel "NVA" ;
+        skos:prefLabel "net value added" .
+<26015>	rdf:type skos:Concept ;
+        skos:prefLabel "obsolescence" .
+<26021>	rdf:type skos:Concept ;
+        skos:prefLabel "occupied persons" .
+<26024>	rdf:type skos:Concept ;
+        skos:altLabel "CLI" ;
+        skos:prefLabel "OECD composite leading indicator" .
+<26101>	rdf:type skos:Concept ;
+        skos:prefLabel "onshoring" .
+<26166>	rdf:type skos:Concept ;
+        skos:prefLabel "operating surplus" .
+<26216>	rdf:type skos:Concept ;
+        skos:prefLabel "other accumulation entries" .
+<26218>	rdf:type skos:Concept ;
+        skos:prefLabel "other changes in assets account" .
+<26219>	rdf:type skos:Concept ;
+        skos:prefLabel "other changes in the volume of assets account" .
+<26220>	rdf:type skos:Concept ;
+        skos:prefLabel "other current transfers" .
+<26223>	rdf:type skos:Concept ;
+        skos:prefLabel "other goods and services" .
+<26224>	rdf:type skos:Concept ;
+        skos:prefLabel "other goods and services account" .
+<26237>	rdf:type skos:Concept ;
+        skos:prefLabel "output" .
+<26238>	rdf:type skos:Concept ;
+        skos:prefLabel "output decay" .
+<26239>	rdf:type skos:Concept ;
+        skos:prefLabel "output gap" .
+<26242>	rdf:type skos:Concept ;
+        skos:prefLabel "output of non-market services" .
+<26247>	rdf:type skos:Concept ;
+        skos:prefLabel "output produced for own final use" .
+<26249>	rdf:type skos:Concept ;
+        skos:prefLabel "output-based gross domestic product" .
+<26347>	rdf:type skos:Concept ;
+        skos:prefLabel "own-account producers" .
+<26348>	rdf:type skos:Concept ;
+        skos:prefLabel "own-account workers" .
+<26351>	rdf:type skos:Concept ;
+        skos:prefLabel "owner-occupied dwelling" .
+<26425>	rdf:type skos:Concept ;
+        skos:prefLabel "payable-receivable basis" .
+<26582>	rdf:type skos:Concept ;
+        skos:prefLabel "plant-specific economies of scale" .
+<26621>	rdf:type skos:Concept ;
+        skos:prefLabel "positive externalities" .
+<26630>	rdf:type skos:Concept ;
+        skos:prefLabel "potential GDP" .
+<26675>	rdf:type skos:Concept ;
+        skos:prefLabel "price" .
+<26698>	rdf:type skos:Concept ;
+        skos:prefLabel "price index" .
+<26712>	rdf:type skos:Concept ;
+        skos:prefLabel "price regulation" .
+<26713>	rdf:type skos:Concept ;
+        skos:prefLabel "price relative" .
+<26727>	rdf:type skos:Concept ;
+        skos:prefLabel "price-elasticity of demand" .
+<26742>	rdf:type skos:Concept ;
+        skos:prefLabel "primary inputs" .
+<26749>	rdf:type skos:Concept ;
+        skos:prefLabel "principal activity" .
+<26750>	rdf:type skos:Concept ;
+        skos:prefLabel "principal party" .
+<26763>	rdf:type skos:Concept ;
+        skos:prefLabel "private consumption" .
+<26764>	rdf:type skos:Concept ;
+        skos:prefLabel "private consumption deflator" .
+<26765>	rdf:type skos:Concept ;
+        skos:prefLabel "private corporation" .
+<26769>	rdf:type skos:Concept ;
+        skos:prefLabel "private enterprise" .
+<26773>	rdf:type skos:Concept ;
+        skos:prefLabel "private funded social insurance benefits" .
+<26785>	rdf:type skos:Concept ;
+        skos:prefLabel "private non-profit institution serving enterprises" .
+<26787>	rdf:type skos:Concept ;
+        skos:prefLabel "private sector" .
+<26814>	rdf:type skos:Concept ;
+        skos:prefLabel "produced assets" .
+<26820>	rdf:type skos:Concept ;
+        skos:altLabel "PPI" ;
+        skos:prefLabel "producer price index" .
+<26822>	rdf:type skos:Concept ;
+        skos:prefLabel "producer services" .
+<26824>	rdf:type skos:Concept ;
+        skos:prefLabel "producers for own final use" .
+<26825>	rdf:type skos:Concept ;
+        skos:prefLabel "producers of government services" .
+<26826>	rdf:type skos:Concept ;
+        skos:prefLabel "producers of private non-profit services to households" .
+<26829>	rdf:type skos:Concept ;
+        skos:prefLabel "producers' value" .
+<26830>	rdf:type skos:Concept ;
+        skos:prefLabel "product" .
+<26831>	rdf:type skos:Concept ;
+        skos:prefLabel "product technology" .
+<26840>	rdf:type skos:Concept ;
+        skos:prefLabel "product-specific economies of scale" .
+<26842>	rdf:type skos:Concept ;
+        skos:prefLabel "product-by-product table" .
+<26843>	rdf:type skos:Concept ;
+        skos:prefLabel "production" .
+<26844>	rdf:type skos:Concept ;
+        skos:prefLabel "production account" .
+<26845>	rdf:type skos:Concept ;
+        skos:prefLabel "production boundary" .
+<26860>	rdf:type skos:Concept ;
+        skos:prefLabel "production function" .
+<26884>	rdf:type skos:Concept ;
+        skos:prefLabel "productive capital stock" .
+<26895>	rdf:type skos:Concept ;
+        skos:prefLabel "productivity" .
+<26897>	rdf:type skos:Concept ;
+        skos:prefLabel "productivity change" .
+<26910>	rdf:type skos:Concept ;
+        skos:prefLabel "professional association" .
+<26924>	rdf:type skos:Concept ;
+        skos:prefLabel "profit mark-up" .
+<26935>	rdf:type skos:Concept ;
+        skos:prefLabel "profitability" .
+<26941>	rdf:type skos:Concept ;
+        skos:prefLabel "profits of export monopolies" .
+<26942>	rdf:type skos:Concept ;
+        skos:prefLabel "profits of fiscal monopolies" .
+<26943>	rdf:type skos:Concept ;
+        skos:prefLabel "profits of import monopolies" .
+<26969>	rdf:type skos:Concept ;
+        skos:prefLabel "property income" .
+<26978>	rdf:type skos:Concept ;
+        skos:prefLabel "proprietors' net additions to the accumulations of quasi-corporate enterprises" .
+<27011>	rdf:type skos:Concept ;
+        skos:prefLabel "public enterprise" .
+<27016>	rdf:type skos:Concept ;
+        skos:prefLabel "public goods" .
+<27029>	rdf:type skos:Concept ;
+        skos:prefLabel "public sector" .
+<27041>	rdf:type skos:Concept ;
+        skos:prefLabel "publicly controlled firm" .
+<27051>	rdf:type skos:Concept ;
+        skos:prefLabel "purchasers' price" .
+<27057>	rdf:type skos:Concept ;
+        skos:prefLabel "purchasing power of household gross disposable income" .
+<27058>	rdf:type skos:Concept ;
+        skos:altLabel "PPP" ;
+        skos:prefLabel "purchasing power parity" .
+<27063>	rdf:type skos:Concept ;
+        skos:prefLabel "purpose" .
+<27073>	rdf:type skos:Concept ;
+        skos:prefLabel "quality" .
+<27080>	rdf:type skos:Concept ;
+        skos:prefLabel "quantity index" .
+<27081>	rdf:type skos:Concept ;
+        skos:prefLabel "quantity relative" .
+<27084>	rdf:type skos:Concept ;
+        skos:prefLabel "quarter-on-previous-quarter growth rates" .
+<27087>	rdf:type skos:Concept ;
+        skos:prefLabel "quasi-corporate enterprise" .
+<27089>	rdf:type skos:Concept ;
+        skos:prefLabel "quasi-rent" .
+<27155>	rdf:type skos:Concept ;
+        skos:prefLabel "real effective exchange rate" .
+<27156>	rdf:type skos:Concept ;
+        skos:prefLabel "immovable property" .
+<27158>	rdf:type skos:Concept ;
+        skos:prefLabel "real GDI" .
+<27159>	rdf:type skos:Concept ;
+        skos:prefLabel "real GDP" .
+<27173>	rdf:type skos:Concept ;
+        skos:prefLabel "real terms, in" .
+<27240>	rdf:type skos:Concept ;
+        skos:prefLabel "recurrent losses from inventories" .
+<27249>	rdf:type skos:Concept ;
+        skos:prefLabel "redistribution of income in kind account" .
+<27280>	rdf:type skos:Concept ;
+        skos:prefLabel "regulation" .
+<27312>	rdf:type skos:Concept ;
+        skos:prefLabel "reimbursement" .
+<27314>	rdf:type skos:Concept ;
+        skos:prefLabel "reinvested earnings" .
+<27318>	rdf:type skos:Concept ;
+        skos:prefLabel "relative efficiency" .
+<27340>	rdf:type skos:Concept ;
+        skos:prefLabel "rent" .
+<27341>	rdf:type skos:Concept ;
+        skos:prefLabel "rent seeking" .
+<27342>	rdf:type skos:Concept ;
+        skos:prefLabel "rental on fixed assets" .
+<27343>	rdf:type skos:Concept ;
+        skos:prefLabel "rental price" .
+<27344>	rdf:type skos:Concept ;
+        skos:prefLabel "rents on subsoil assets" .
+<27357>	rdf:type skos:Concept ;
+        skos:prefLabel "replacement cost" .
+<27391>	rdf:type skos:Concept ;
+        skos:prefLabel "requited current transfers" .
+<27392>	rdf:type skos:Concept ;
+        skos:prefLabel "rerouting" .
+<27398>	rdf:type skos:Concept ;
+        skos:altLabel "R&D" ;
+        skos:prefLabel "research and development" .
+<27427>	rdf:type skos:Concept ;
+        skos:prefLabel "resident" .
+<27429>	rdf:type skos:Concept ;
+        skos:prefLabel "resident government bodies" .
+<27430>	rdf:type skos:Concept ;
+        skos:prefLabel "resident households and individuals" .
+<27432>	rdf:type skos:Concept ;
+        skos:prefLabel "resident industries, other producers, and similar units" .
+<27433>	rdf:type skos:Concept ;
+        skos:prefLabel "resident non-profit institution" .
+<27442>	rdf:type skos:Concept ;
+        skos:prefLabel "resource" .
+<27464>	rdf:type skos:Concept ;
+        skos:altLabel "RoW" ;
+        skos:prefLabel "rest of the world" .
+<27495>	rdf:type skos:Concept ;
+        skos:prefLabel "return account" .
+<27511>	rdf:type skos:Concept ;
+        skos:prefLabel "revenue equivalence theorem" .
+<27561>	rdf:type skos:Concept ;
+        skos:prefLabel "risk-based approach" .
+<27578>	rdf:type skos:Concept ;
+        skos:prefLabel "royalty" .
+<27634>	rdf:type skos:Concept ;
+        skos:prefLabel "satellite account" .
+<27661>	rdf:type skos:Concept ;
+        skos:prefLabel "scenario" .
+<27672>	rdf:type skos:Concept ;
+        skos:prefLabel "scrapping" .
+<27710>	rdf:type skos:Concept ;
+        skos:prefLabel "secondary activity" .
+<27711>	rdf:type skos:Concept ;
+        skos:prefLabel "secondary distribution of income account" .
+<27715>	rdf:type skos:Concept ;
+        skos:prefLabel "second-best choice" .
+<27716>	rdf:type skos:Concept ;
+        skos:prefLabel "second-best theory" .
+<27717>	rdf:type skos:Concept ;
+        skos:prefLabel "second-hand asset" .
+<27723>	rdf:type skos:Concept ;
+        skos:prefLabel "sectoral output" .
+<27796>	rdf:type skos:Concept ;
+        skos:prefLabel "service" .
+<27805>	rdf:type skos:Concept ;
+        skos:prefLabel "service sector" .
+<27903>	rdf:type skos:Concept ;
+        skos:prefLabel "single factor productivity" .
+<27904>	rdf:type skos:Concept ;
+        skos:prefLabel "single indicator method of deflation" .
+<27963>	rdf:type skos:Concept ;
+        skos:altLabel "SAM" ;
+        skos:prefLabel "social accounting matrix" .
+<27968>	rdf:type skos:Concept ;
+        skos:prefLabel "social assistance benefits" .
+<27969>	rdf:type skos:Concept ;
+        skos:prefLabel "social assistance benefits in cash" .
+<27970>	rdf:type skos:Concept ;
+        skos:prefLabel "social assistance benefits in kind" .
+<27971>	rdf:type skos:Concept ;
+        skos:prefLabel "social assistance grant" .
+<27972>	rdf:type skos:Concept ;
+        skos:prefLabel "social benefits" .
+<27973>	rdf:type skos:Concept ;
+        skos:prefLabel "social benefits in kind" .
+<27974>	rdf:type skos:Concept ;
+        skos:prefLabel "social benefits other than social transfers in kind" .
+<27976>	rdf:type skos:Concept ;
+        skos:prefLabel "social contributions by self-employed and non-employed persons" .
+<27977>	rdf:type skos:Concept ;
+        skos:prefLabel "social cost" .
+<27980>	rdf:type skos:Concept ;
+        skos:prefLabel "social expenditure" .
+<27995>	rdf:type skos:Concept ;
+        skos:prefLabel "social security" .
+<27997>	rdf:type skos:Concept ;
+        skos:prefLabel "social security benefits" .
+<27998>	rdf:type skos:Concept ;
+        skos:prefLabel "social security benefits in cash" .
+<28000>	rdf:type skos:Concept ;
+        skos:prefLabel "social security funds" .
+<28002>	rdf:type skos:Concept ;
+        skos:prefLabel "social security reimbursements" .
+<28003>	rdf:type skos:Concept ;
+        skos:prefLabel "social security scheme" .
+<28009>	rdf:type skos:Concept ;
+        skos:prefLabel "social transfers in kind" .
+<28011>	rdf:type skos:Concept ;
+        skos:prefLabel "social welfare" .
+<28077>	rdf:type skos:Concept ;
+        skos:prefLabel "spill-over effect" .
+<28099>	rdf:type skos:Concept ;
+        skos:prefLabel "Stability and Growth Pact" .
+<28103>	rdf:type skos:Concept ;
+        skos:prefLabel "stabiliser" .
+<28122>	rdf:type skos:Concept ;
+        skos:prefLabel "standard classification" .
+<28128>	rdf:type skos:Concept ;
+        skos:prefLabel "standard efficiency units" .
+<28300>	rdf:type skos:Concept ;
+        skos:prefLabel "subisidy on a product" .
+<28313>	rdf:type skos:Concept ;
+        skos:prefLabel "subsidiary" .
+<28316>	rdf:type skos:Concept ;
+        skos:prefLabel "subsidies on payroll or workforce" .
+<28317>	rdf:type skos:Concept ;
+        skos:prefLabel "subsidies on products used domestically" .
+<28318>	rdf:type skos:Concept ;
+        skos:prefLabel "subsidies to public corporations and quasi-corporations" .
+<28319>	rdf:type skos:Concept ;
+        skos:prefLabel "subsidies to reduce pollution" .
+<28334>	rdf:type skos:Concept ;
+        skos:prefLabel "subsoil assets" .
+<28348>	rdf:type skos:Concept ;
+        skos:prefLabel "sum-of-the-years-digits depreciation" .
+<28352>	rdf:type skos:Concept ;
+        skos:prefLabel "sunk costs" .
+<28372>	rdf:type skos:Concept ;
+        skos:prefLabel "supply and use balance" .
+<28374>	rdf:type skos:Concept ;
+        skos:prefLabel "supply and use tables" .
+<28380>	rdf:type skos:Concept ;
+        skos:prefLabel "supply chain" .
+<28444>	rdf:type skos:Concept ;
+        skos:prefLabel "symmetric tables" .
+<28452>	rdf:type skos:Concept ;
+        skos:altLabel "SEEA" ;
+        skos:prefLabel "System of integrated Environmental and Economic Accounts" .
+<28453>	rdf:type skos:Concept ;
+        skos:altLabel "SNA" ;
+        skos:prefLabel "System of National Accounts" .
+<28472>	rdf:type skos:Concept ;
+        skos:prefLabel "tangible assets" .
+<28473>	rdf:type skos:Concept ;
+        skos:prefLabel "tangible fixed assets" .
+<28474>	rdf:type skos:Concept ;
+        skos:prefLabel "tangible investment" .
+<28475>	rdf:type skos:Concept ;
+        skos:prefLabel "tangible non-produced assets" .
+<28502>	rdf:type skos:Concept ;
+        skos:prefLabel "technical efficiency" .
+<28510>	rdf:type skos:Concept ;
+        skos:prefLabel "technology" .
+<28532>	rdf:type skos:Concept ;
+        skos:prefLabel "termination" .
+<28601>	rdf:type skos:Concept ;
+        skos:prefLabel "time reversal test" .
+<28629>	rdf:type skos:Concept ;
+        skos:prefLabel "Törnqvist price index" .
+<28630>	rdf:type skos:Concept ;
+        skos:prefLabel "Törnqvist volume index" .
+<28641>	rdf:type skos:Concept ;
+        skos:altLabel "TDD" ;
+        skos:prefLabel "total domestic demand" .
+<28644>	rdf:type skos:Concept ;
+        skos:prefLabel "total economy" .
+<28646>	rdf:type skos:Concept ;
+        skos:altLabel "TFP" ;
+        skos:prefLabel "total factor productivity" .
+<28647>	rdf:type skos:Concept ;
+        skos:prefLabel "total final consumption" .
+<28648>	rdf:type skos:Concept ;
+        skos:prefLabel "total hours worked" .
+<28654>	rdf:type skos:Concept ;
+        skos:altLabel "TQM" ;
+        skos:prefLabel "total quality management" .
+<28673>	rdf:type skos:Concept ;
+        skos:prefLabel "trade or business" .
+<28687>	rdf:type skos:Concept ;
+        skos:prefLabel "trading day adjustment" .
+<28705>	rdf:type skos:Concept ;
+        skos:prefLabel "transactor" .
+<28706>	rdf:type skos:Concept ;
+        skos:prefLabel "transactor principle" .
+<28709>	rdf:type skos:Concept ;
+        skos:prefLabel "transfer" .
+<28711>	rdf:type skos:Concept ;
+        skos:prefLabel "transfer costs" .
+<28722>	rdf:type skos:Concept ;
+        skos:prefLabel "transferable deposits" .
+<28725>	rdf:type skos:Concept ;
+        skos:prefLabel "transfers of individual non-market goods or services" .
+<28731>	rdf:type skos:Concept ;
+        skos:prefLabel "transitivity" .
+<28748>	rdf:type skos:Concept ;
+        skos:prefLabel "trend-cycle" .
+<28749>	rdf:type skos:Concept ;
+        skos:prefLabel "trend-cycle estimate" .
+<28779>	rdf:type skos:Concept ;
+        skos:prefLabel "turning point" .
+<28791>	rdf:type skos:Concept ;
+        skos:prefLabel "ultimate host/investing country" .
+<28806>	rdf:type skos:Concept ;
+        skos:prefLabel "uncompensated seizures" .
+<28847>	rdf:type skos:Concept ;
+        skos:prefLabel "unforeseen obsolescence" .
+<28878>	rdf:type skos:Concept ;
+        skos:prefLabel "unit value" .
+<28910>	rdf:type skos:Concept ;
+        skos:prefLabel "unrequited current transfers" .
+<28939>	rdf:type skos:Concept ;
+        skos:prefLabel "user charge" .
+<28940>	rdf:type skos:Concept ;
+        skos:prefLabel "capital user cost" .
+<28942>	rdf:type skos:Concept ;
+        skos:prefLabel "uses of value added quadrant" .
+<28951>	rdf:type skos:Concept ;
+        skos:prefLabel "valuation" .
+<28953>	rdf:type skos:Concept ;
+        skos:prefLabel "valuation change" .
+<28955>	rdf:type skos:Concept ;
+        skos:prefLabel "value" .
+<28956>	rdf:type skos:Concept ;
+        skos:prefLabel "added value" .
+<28965>	rdf:type skos:Concept ;
+        skos:prefLabel "value-added function" .
+<29013>	rdf:type skos:Concept ;
+        skos:prefLabel "volume index" .
+<29014>	rdf:type skos:Concept ;
+        skos:prefLabel "volume index of capital services" .
+<29032>	rdf:type skos:Concept ;
+        skos:prefLabel "wage share" .
+<29036>	rdf:type skos:Concept ;
+        skos:prefLabel "wages and salaries" .
+<29037>	rdf:type skos:Concept ;
+        skos:prefLabel "wages and salaries in cash" .
+<29038>	rdf:type skos:Concept ;
+        skos:prefLabel "wages and salaries in kind" .
+<29057>	rdf:type skos:Concept ;
+        skos:prefLabel "water resources" .
+<29063>	rdf:type skos:Concept ;
+        skos:prefLabel "wealth effect" .
+<29092>	rdf:type skos:Concept ;
+        skos:altLabel "WPI" ;
+        skos:prefLabel "wholesale price index" .
+<29107>	rdf:type skos:Concept ;
+        skos:prefLabel "withdrawals from entrepreneurial income of quasi-corporations" .
+<29167>	rdf:type skos:Concept ;
+        skos:prefLabel "X-inefficiency" .
+<29171>	rdf:type skos:Concept ;
+        skos:altLabel "YoY" ;
+        skos:prefLabel "year-on-year growth rates" .
+<29210>	rdf:type skos:Concept ;
+        skos:prefLabel "accumulation" .
+<29213>	rdf:type skos:Concept ;
+        skos:prefLabel "activity" .
+<29216>	rdf:type skos:Concept ;
+        skos:prefLabel "adjustment" .
+<29233>	rdf:type skos:Concept ;
+        skos:prefLabel "auditing" .
+<29284>	rdf:type skos:Concept ;
+        skos:prefLabel "cash benefits" .
+<29312>	rdf:type skos:Concept ;
+        skos:prefLabel "commodities" .
+<29313>	rdf:type skos:Concept ;
+        skos:prefLabel "current account" .
+<29325>	rdf:type skos:Concept ;
+        skos:prefLabel "constant price" .
+<29357>	rdf:type skos:Concept ;
+        skos:prefLabel "demand" .
+<29436>	rdf:type skos:Concept ;
+        skos:prefLabel "flow" .
+<29459>	rdf:type skos:Concept ;
+        skos:prefLabel "general government" .
+<29516>	rdf:type skos:Concept ;
+        skos:prefLabel "joint venture" .
+<29517>	rdf:type skos:Concept ;
+        skos:prefLabel "joint venture" .
+<29536>	rdf:type skos:Concept ;
+        skos:prefLabel "local government" .
+<29554>	rdf:type skos:Concept ;
+        skos:prefLabel "markup" .
+<29658>	rdf:type skos:Concept ;
+        skos:prefLabel "price" .
+<29662>	rdf:type skos:Concept ;
+        skos:prefLabel "producers' price" .
+<29712>	rdf:type skos:Concept ;
+        skos:prefLabel "rent" .
+<29737>	rdf:type skos:Concept ;
+        skos:prefLabel "rents" .
+<29738>	rdf:type skos:Concept ;
+        skos:prefLabel "retirement" .
+<29768>	rdf:type skos:Concept ;
+        skos:prefLabel "social welfare" .
+<29789>	rdf:type skos:Concept ;
+        skos:prefLabel "supply" .
+<29800>	rdf:type skos:Concept ;
+        skos:prefLabel "shadow price" .
+<29803>	rdf:type skos:Concept ;
+        skos:prefLabel "stock" .
+<29806>	rdf:type skos:Concept ;
+        skos:prefLabel "subsidy" .
+<29828>	rdf:type skos:Concept ;
+        skos:prefLabel "task" .
+<29894>	rdf:type skos:Concept ;
+        skos:prefLabel "work place" .
+<29907>	rdf:type skos:Concept ;
+        skos:prefLabel "capital finance account" .
+<29908>	rdf:type skos:Concept ;
+        skos:prefLabel "commodity accounts" .
+<29909>	rdf:type skos:Concept ;
+        skos:prefLabel "gross accumulation" .
+<29913>	rdf:type skos:Concept ;
+        skos:prefLabel "other producers" .
+<29914>	rdf:type skos:Concept ;
+        skos:prefLabel "private non-profit institution serving households" .
+<29915>	rdf:type skos:Concept ;
+        skos:prefLabel "purchasers' value" .
+<29924>	rdf:type skos:Concept ;
+        skos:prefLabel "production statement" .
+<29935>	rdf:type skos:Concept ;
+        skos:altLabel "NCP" ;
+        skos:prefLabel "National Contact Point" .
+<29943>	rdf:type skos:Concept ;
+        skos:prefLabel "trade-gravity model" .
+<30132>	rdf:type skos:Concept ;
+        skos:prefLabel "Wagner’s law" .
+<30159>	rdf:type skos:Concept ;
+        skos:prefLabel "Ricardian rent" .
+<30160>	rdf:type skos:Concept ;
+        skos:prefLabel "business plan" .
+<30167>	rdf:type skos:Concept ;
+        skos:prefLabel "black economy" .
+<30277>	rdf:type skos:Concept ;
+        skos:altLabel "SPPI" ;
+        skos:prefLabel "service production price index" .
+<30309>	rdf:type skos:Concept ;
+        skos:prefLabel "chattel" .
+<30342>	rdf:type skos:Concept ;
+        skos:altLabel "SIV" ;
+        skos:prefLabel "structured investment vehicle" .
+<30344>	rdf:type skos:Concept ;
+        skos:prefLabel "investible property" .
+<30346>	rdf:type skos:Concept ;
+        skos:prefLabel "say on pay" .
+<30353>	rdf:type skos:Concept ;
+        skos:altLabel "AMNE" ;
+        skos:prefLabel "activity of multinational enterprises" .
+<30499>	rdf:type skos:Concept ;
+        skos:prefLabel "geared futures and options funds" .
+<30557>	rdf:type skos:Concept ;
+        skos:prefLabel "product specific economies of scale" .
+<30562>	rdf:type skos:Concept ;
+        skos:prefLabel "quality control" .
+<30627>	rdf:type skos:Concept ;
+        skos:prefLabel "reproduction cost" .
+<30628>	rdf:type skos:Concept ;
+        skos:prefLabel "depreciated replacement cost" .
+<30629>	rdf:type skos:Concept ;
+        skos:altLabel "DORC" ;
+        skos:prefLabel "depreciated optimised replacement cost" .
+<30654>	rdf:type skos:Concept ;
+        skos:prefLabel "institutional statistical unit" .
+<30655>	rdf:type skos:Concept ;
+        skos:prefLabel "legal entity" .
+<30656>	rdf:type skos:Concept ;
+        skos:prefLabel "multi-territory enterprise" .
+<30657>	rdf:type skos:Concept ;
+        skos:altLabel "NPIs" ;
+        skos:prefLabel "non-profit institutions" .
+<30659>	rdf:type skos:Concept ;
+        skos:prefLabel "other accounts receivable/payable" .
+<30660>	rdf:type skos:Concept ;
+        skos:prefLabel "seamless enterprise" .
+<30661>	rdf:type skos:Concept ;
+        skos:altLabel "SE" ;
+        skos:prefLabel "Societias europaea" .
+<30663>	rdf:type skos:Concept ;
+        skos:prefLabel "volume changes" .
+<30723>	rdf:type skos:Concept ;
+        skos:prefLabel "business" .
+<30748>	rdf:type skos:Concept ;
+        skos:prefLabel "express trust" .
+<30751>	rdf:type skos:Concept ;
+        skos:prefLabel "accumulation and maintenance trust" .
+<30765>	rdf:type skos:Concept ;
+        skos:prefLabel "learning rate" .
+<30767>	rdf:type skos:Concept ;
+        skos:prefLabel "own price elasticity of demand" .
+<30770>	rdf:type skos:Concept ;
+        skos:prefLabel "professional services" .
+<30771>	rdf:type skos:Concept ;
+        skos:prefLabel "operational services" .
+<30788>	rdf:type skos:Concept ;
+        skos:prefLabel "managerial power theory" .
+<30934>	rdf:type skos:Concept ;
+        skos:prefLabel "menu costs" .
+<31479>	rdf:type skos:Concept ;
+        skos:prefLabel "market sector" .
+<31486>	rdf:type skos:Concept ;
+        skos:prefLabel "private saving offset" .
+<31501>	rdf:type skos:Concept ;
+        skos:prefLabel "phase" .
+<31503>	rdf:type skos:Concept ;
+        skos:prefLabel "private/public saving offset" .
+<31527>	rdf:type skos:Concept ;
+        skos:prefLabel "hospitality sector" .
+<31528>	rdf:type skos:Concept ;
+        skos:prefLabel "catering sector" .
+<31531>	rdf:type skos:Concept ;
+        skos:altLabel "SFA" ;
+        skos:prefLabel "stochastic frontier analysis" .
+<31545>	rdf:type skos:Concept ;
+        skos:prefLabel "Balassa&ndash;Samuelson effect" .
+<31599>	rdf:type skos:Concept ;
+        skos:prefLabel "non-excludability" .
+<31631>	rdf:type skos:Concept ;
+        skos:prefLabel "royalty stacking" .
+<31648>	rdf:type skos:Concept ;
+        skos:prefLabel "regrettables" .
+<31653>	rdf:type skos:Concept ;
+        skos:prefLabel "R&D expenditures" .
+<31808>	rdf:type skos:Concept ;
+        skos:prefLabel "command GDP" .
+<31814>	rdf:type skos:Concept ;
+        skos:prefLabel "general government underlying balance" .
+<31815>	rdf:type skos:Concept ;
+        skos:prefLabel "general government underlying primary balance" .
+<31883>	rdf:type skos:Concept ;
+        skos:prefLabel "subsistence worker" .
+<31962>	rdf:type skos:Concept ;
+        skos:prefLabel "agglomeration economies" .
+<31970>	rdf:type skos:Concept ;
+        skos:altLabel "DEA" ;
+        skos:prefLabel "data envelopment analysis" .
+<32026>	rdf:type skos:Concept ;
+        skos:prefLabel "benchmarking" .
+<32059>	rdf:type skos:Concept ;
+        skos:altLabel "APEC" ;
+        skos:prefLabel "Asia-Pacific Economic Cooperation" .
+<32061>	rdf:type skos:Concept ;
+        skos:prefLabel "club good" .
+<32664>	rdf:type skos:Concept ;
+        skos:altLabel "HC" ;
+        skos:prefLabel "human capital" .
+<35619>	rdf:type skos:Concept ;
+        skos:prefLabel "Beveridge curve" .
+<36111>	rdf:type skos:Concept ;
+        skos:altLabel "LFS" ;
+        skos:prefLabel "labour force survey" .
+<36223>	rdf:type skos:Concept ;
+        skos:prefLabel "means-tested benefits" .
+<40841>	rdf:type skos:Concept ;
+        skos:prefLabel "oil supply disruptions" .
+<69879>	rdf:type skos:Concept ;
+        skos:prefLabel "green growth" .
+<83072>	rdf:type skos:Concept ;
+        skos:prefLabel "diffusion index" .
+<83324>	rdf:type skos:Concept ;
+        skos:prefLabel "efficient market" .
+<83564>	rdf:type skos:Concept ;
+        skos:prefLabel "external debt" .
+<84963>	rdf:type skos:Concept ;
+        skos:prefLabel "Lorenz curve" .
+<89546>	rdf:type skos:Concept ;
+        skos:prefLabel "baseline" .
+<91769>	rdf:type skos:Concept ;
+        skos:prefLabel "transferability" .
+<92945>	rdf:type skos:Concept ;
+        skos:prefLabel "public entertainer" .
+<94549>	rdf:type skos:Concept ;
+        skos:prefLabel "targeting" .
+<96131>	rdf:type skos:Concept ;
+        skos:prefLabel "hub" .
+<97638>	rdf:type skos:Concept ;
+        skos:altLabel "BRICS" ;
+        skos:prefLabel "Brazil, Russia, India, China, South Africa" .
+<103881>	rdf:type skos:Concept ;
+        skos:altLabel "RIA" ;
+        skos:prefLabel "regulatory impact analysis" .
+<111951>	rdf:type skos:Concept ;
+        skos:prefLabel "disposable income" .
+<111983>	rdf:type skos:Concept ;
+        skos:prefLabel "earning" .
+<111986>	rdf:type skos:Concept ;
+        skos:prefLabel "economic double taxation" .
+<112325>	rdf:type skos:Concept ;
+        skos:prefLabel "on-call services" .
+<113109>	rdf:type skos:Concept ;
+        skos:prefLabel "inheritance" .
+<113330>	rdf:type skos:Concept ;
+        skos:prefLabel "bilateral sources" .
+<113346>	rdf:type skos:Concept ;
+        skos:prefLabel "blind spot" .
+<113828>	rdf:type skos:Concept ;
+        skos:prefLabel "deadweight welfare loss" .
+<113979>	rdf:type skos:Concept ;
+        skos:prefLabel "economic union" .
+<114018>	rdf:type skos:Concept ;
+        skos:altLabel "EEA" ;
+        skos:prefLabel "European Economic Area" .
+<114629>	rdf:type skos:Concept ;
+        skos:prefLabel "market" .
+<114912>	rdf:type skos:Concept ;
+        skos:prefLabel "other flows" .
+<114959>	rdf:type skos:Concept ;
+        skos:prefLabel "perfect competition" .
+<115228>	rdf:type skos:Concept ;
+        skos:prefLabel "rest-of-the-world account" .
+<115583>	rdf:type skos:Concept ;
+        skos:prefLabel "time of recording" .
+<115588>	rdf:type skos:Concept ;
+        skos:prefLabel "total transfer, net" .
+<115679>	rdf:type skos:Concept ;
+        skos:prefLabel "transfer in kind" .
+<116107>	rdf:type skos:Concept ;
+        skos:prefLabel "consumers' surplus" .
+<118220>	rdf:type skos:Concept ;
+        skos:prefLabel "toll" .
+<118635>	rdf:type skos:Concept ;
+        skos:prefLabel "Indice de Precios al Consumidor núcleo" .
+<118636>	rdf:type skos:Concept ;
+        skos:prefLabel "stall speed" .
+<118688>	rdf:type skos:Concept ;
+        skos:prefLabel "relative output gap" .
+<118693>	rdf:type skos:Concept ;
+        skos:prefLabel "total market income" .
+<118718>	rdf:type skos:Concept ;
+        skos:prefLabel "real effective exchange rate based on unit labour costs in manufacturing" .
+<118719>	rdf:type skos:Concept ;
+        skos:prefLabel "real effective exchange rate based on the consumer price index" .
+<118847>	rdf:type skos:Concept ;
+        skos:prefLabel "excess growth" .
+<118888>	rdf:type skos:Concept ;
+        skos:altLabel "SEP" ;
+        skos:prefLabel "standard-essential patent" .
+<118954>	rdf:type skos:Concept ;
+        skos:prefLabel "fiscal devaluation" .
+<119059>	rdf:type skos:Concept ;
+        skos:altLabel "KBC" ;
+        skos:prefLabel "knowledge-based capital" .
+<119069>	rdf:type skos:Concept ;
+        skos:prefLabel "negative feedback loop" .
+<119082>	rdf:type skos:Concept ;
+        skos:prefLabel "labour market traps" .
+<119091>	rdf:type skos:Concept ;
+        skos:altLabel "NAEC" ;
+        skos:prefLabel "New Approaches to Economic Challenges" .
+<119128>	rdf:type skos:Concept ;
+        skos:prefLabel "ocean economy" .
+<119134>	rdf:type skos:Concept ;
+        skos:altLabel "STRI" ;
+        skos:prefLabel "Services Trade Restrictiveness Index" .
+<119184>	rdf:type skos:Concept ;
+        skos:altLabel "DPA" ;
+        skos:prefLabel "deferred prosecution agreement" .
+<119185>	rdf:type skos:Concept ;
+        skos:altLabel "NPA" ;
+        skos:prefLabel "non-prosecution agreement" .
+<119192>	rdf:type skos:Concept ;
+        skos:prefLabel "durable good" .
+<119303>	rdf:type skos:Concept ;
+        skos:altLabel "QQME" ;
+        skos:prefLabel "quantitative and qualitative monetary easing" .
+<119348>	rdf:type skos:Concept ;
+        skos:prefLabel "fiscal risk premium" .
+<119424>	rdf:type skos:Concept ;
+        skos:prefLabel "Gini coefficient" .
+<119436>	rdf:type skos:Concept ;
+        skos:prefLabel "equivalised disposable income" .
+<119438>	rdf:type skos:Concept ;
+        skos:prefLabel "breakeven inflation" .
+<119985>	rdf:type skos:Concept ;
+        skos:prefLabel "fiscal elasticities" .
+<119987>	rdf:type skos:Concept ;
+        skos:prefLabel "income quintile share ratio" .
+<119988>	rdf:type skos:Concept ;
+        skos:prefLabel "at-risk-of-poverty rate" .
+<119989>	rdf:type skos:Concept ;
+        skos:prefLabel "healthy ageing assumption" .
+<119990>	rdf:type skos:Concept ;
+        skos:prefLabel "expenditure frames" .
+<120274>	rdf:type skos:Concept ;
+        skos:prefLabel "adaptive management" .
+<120423>	rdf:type skos:Concept ;
+        skos:prefLabel "rental equivalence approach" .
+<120485>	rdf:type skos:Concept ;
+        skos:prefLabel "Abenomics" .
+<120583>	rdf:type skos:Concept ;
+        skos:prefLabel "water productivity" .
+<120584>	rdf:type skos:Concept ;
+        skos:prefLabel "economic growth and structure" .
+<120585>	rdf:type skos:Concept ;
+        skos:prefLabel "productivity and trade" .
+<120586>	rdf:type skos:Concept ;
+        skos:prefLabel "inflation and commodity prices" .
+<120588>	rdf:type skos:Concept ;
+        skos:prefLabel "CO2 productivity" .
+<120589>	rdf:type skos:Concept ;
+        skos:prefLabel "energy productivity" .
+<120590>	rdf:type skos:Concept ;
+        skos:altLabel "non-energy" ;
+        skos:prefLabel "material productivity" .
+<120591>	rdf:type skos:Concept ;
+        skos:prefLabel "multi-factor productivity reflecting environmental services" .
+<120592>	rdf:type skos:Concept ;
+        skos:prefLabel "R&D expenditure of importance to GG" .
+<120594>	rdf:type skos:Concept ;
+        skos:prefLabel "index of natural resources" .
+<120598>	rdf:type skos:Concept ;
+        skos:prefLabel "mineral resources" .
+<120599>	rdf:type skos:Concept ;
+        skos:prefLabel "land resources" .
+<120600>	rdf:type skos:Concept ;
+        skos:prefLabel "soil resources" .
+<120603>	rdf:type skos:Concept ;
+        skos:prefLabel "exposure to natural or industrial risks and related economic losses" .
+<120604>	rdf:type skos:Concept ;
+        skos:prefLabel "access to sewage treatment and drinking water" .
+<120605>	rdf:type skos:Concept ;
+        skos:altLabel "EGS" ;
+        skos:prefLabel "production of environmental goods and services" .
+<120608>	rdf:type skos:Concept ;
+        skos:prefLabel "energy pricing" .
+<120609>	rdf:type skos:Concept ;
+        skos:prefLabel "water pricing and cost recovery" .
+<120614>	rdf:type skos:Concept ;
+        skos:prefLabel "human cost" .
+<120615>	rdf:type skos:Concept ;
+        skos:prefLabel "no regrets level" .
+<120623>	rdf:type skos:Concept ;
+        skos:prefLabel "private utility" .
+<120625>	rdf:type skos:Concept ;
+        skos:prefLabel "risk approach" .
+<120628>	rdf:type skos:Concept ;
+        skos:prefLabel "social utility" .
+<120629>	rdf:type skos:Concept ;
+        skos:prefLabel "stated preference" .
+<120632>	rdf:type skos:Concept ;
+        skos:prefLabel "technological externality" .
+<120688>	rdf:type skos:Concept ;
+        skos:prefLabel "leaky pipeline" .
+<120719>	rdf:type skos:Concept ;
+        skos:prefLabel "relative unemployment rate" .
+<120747>	rdf:type skos:Concept ;
+        skos:prefLabel "Procedural Guidance" .
+<120748>	rdf:type skos:Concept ;
+        skos:prefLabel "proactive agenda" .
+<120848>	rdf:type skos:Concept ;
+        skos:prefLabel "inclusive growth" .
+<120857>	rdf:type skos:Concept ;
+        skos:prefLabel "anchored poverty rate" .
+<120938>	rdf:type skos:Concept ;
+        skos:altLabel "IFI" ;
+        skos:prefLabel "independent fiscal institution" .
+<121057>	rdf:type skos:Concept ;
+        skos:prefLabel "Reform Responsiveness Index" .
+<121074>	rdf:type skos:Concept ;
+        skos:prefLabel "adjusted responsiveness rate" .
+<121163>	rdf:type skos:Concept ;
+        skos:prefLabel "shifting wealth" .
+<121331>	rdf:type skos:Concept ;
+        skos:prefLabel "income standard" .
+<121379>	rdf:type skos:Concept ;
+        skos:prefLabel "excess elasticity" .
+<121383>	rdf:type skos:Concept ;
+        skos:prefLabel "mid-sized companies" .
+<121384>	rdf:type skos:Concept ;
+        skos:prefLabel "non-commercial trade" .
+<121385>	rdf:type skos:Concept ;
+        skos:altLabel "SBLs" ;
+        skos:prefLabel "Substandard and below loans" .
+<121397>	rdf:type skos:Concept ;
+        skos:prefLabel "necessity-driven entrepreneurship" .
+<121421>	rdf:type skos:Concept ;
+        skos:prefLabel "factoryless producer" .
+<121486>	rdf:type skos:Concept ;
+        skos:prefLabel "generalised means" .
+<121501>	rdf:type skos:Concept ;
+        skos:prefLabel "banking union" .
+<121532>	rdf:type skos:Concept ;
+        skos:prefLabel "indicators of potential financial vulnerabilities" .
+<121573>	rdf:type skos:Concept ;
+        skos:prefLabel "housing mobility" .
+<121584>	rdf:type skos:Concept ;
+        skos:prefLabel "effective economic old-age dependency ratio" .
+<121586>	rdf:type skos:Concept ;
+        skos:prefLabel "creeping takeover" .
+<121587>	rdf:type skos:Concept ;
+        skos:prefLabel "income mobility" .
+<121593>	rdf:type skos:Concept ;
+        skos:prefLabel "rate of transition from temporary to permanent employment" .
+<121594>	rdf:type skos:Concept ;
+        skos:altLabel "NRR" ;
+        skos:prefLabel "net replacement rate" .
+<121612>	rdf:type skos:Concept ;
+        skos:prefLabel "quasi-market" .
+<121631>	rdf:type skos:Concept ;
+        skos:prefLabel "Great Moderation" .
+<121638>	rdf:type skos:Concept ;
+        skos:prefLabel "active social policy" .
+<121643>	rdf:type skos:Concept ;
+        skos:prefLabel "external rollover needs" .
+<121648>	rdf:type skos:Concept ;
+        skos:altLabel "IT" ;
+        skos:prefLabel "flexible inflation targeting" .
+<121721>	rdf:type skos:Concept ;
+        skos:prefLabel "climate economy" .
+<121740>	rdf:type skos:Concept ;
+        skos:prefLabel "sharing economy" .
+<121807>	rdf:type skos:Concept ;
+        skos:prefLabel "global public goods" .
+<121812>	rdf:type skos:Concept ;
+        skos:prefLabel "inclusive economic development and growth" .
+<121816>	rdf:type skos:Concept ;
+        skos:prefLabel "doubling up" .
+<121817>	rdf:type skos:Concept ;
+        skos:prefLabel "moving down" .
+<121821>	rdf:type skos:Concept ;
+        skos:prefLabel "effect" .
+<121826>	rdf:type skos:Concept ;
+        skos:prefLabel "automatic stabilisers" .
+<121828>	rdf:type skos:Concept ;
+        skos:prefLabel "capital stocks and flows" .
+<121829>	rdf:type skos:Concept ;
+        skos:prefLabel "economic capital" .
+<121831>	rdf:type skos:Concept ;
+        skos:prefLabel "household net financial wealth" .
+<121832>	rdf:type skos:Concept ;
+        skos:prefLabel "monetisation" .
+<121833>	rdf:type skos:Concept ;
+        skos:prefLabel "primary income" .
+<121834>	rdf:type skos:Concept ;
+        skos:prefLabel "relative poverty" .
+<121835>	rdf:type skos:Concept ;
+        skos:prefLabel "secondary income" .
+<121838>	rdf:type skos:Concept ;
+        skos:prefLabel "substitution" .
+<121839>	rdf:type skos:Concept ;
+        skos:prefLabel "time poverty" .
+<121849>	rdf:type skos:Concept ;
+        skos:prefLabel "life-annuity property sale" .
+<121888>	rdf:type skos:Concept ;
+        skos:prefLabel "creative tourism" .
+<121907>	rdf:type skos:Concept ;
+        skos:prefLabel "consumer detriment" .
+<121938>	rdf:type skos:Concept ;
+        skos:prefLabel "corporate venturing" .
+<121980>	rdf:type skos:Concept ;
+        skos:prefLabel "inflation swap" .
+<121987>	rdf:type skos:Concept ;
+        skos:prefLabel "implied inflation expectations" .
+<121990>	rdf:type skos:Concept ;
+        skos:prefLabel "Interim Economic Assessment" .
+<121997>	rdf:type skos:Concept ;
+        skos:prefLabel "incidence of long-term unemployment" .
+<122007>	rdf:type skos:Concept ;
+        skos:prefLabel "FDI Regulatory Restrictiveness Index" .
+<122014>	rdf:type skos:Concept ;
+        skos:prefLabel "welfare-to-work policies" .
+<122029>	rdf:type skos:Concept ;
+        skos:prefLabel "construction indicators" .
+<122036>	rdf:type skos:Concept ;
+        skos:prefLabel "housing tenure neutrality" .
+<122052>	rdf:type skos:Concept ;
+        skos:altLabel "BEEP" ;
+        skos:prefLabel "indicator of Burdens on the Economy due to Environmental Policies" .
+<122053>	rdf:type skos:Concept ;
+        skos:altLabel "RTO" ;
+        skos:prefLabel "research technology organisation" .
+<122058>	rdf:type skos:Concept ;
+        skos:prefLabel "non-employment rate" .
+<122061>	rdf:type skos:Concept ;
+        skos:prefLabel "game changer" .
+<122071>	rdf:type skos:Concept ;
+        skos:prefLabel "neutral interest rate" .
+<122079>	rdf:type skos:Concept ;
+        skos:prefLabel "incidence of part-time work" .
+<122132>	rdf:type skos:Concept ;
+        skos:prefLabel "health index" .
+<122158>	rdf:type skos:Concept ;
+        skos:prefLabel "demographic dividend" .
+<122176>	rdf:type skos:Concept ;
+        skos:altLabel "FIPs" ;
+        skos:prefLabel "feed-in premiums" .
+<122206>	rdf:type skos:Concept ;
+        skos:prefLabel "Okun's coefficient" .
+<122246>	rdf:type skos:Concept ;
+        skos:prefLabel "private non-profit sector" .
+<122253>	rdf:type skos:Concept ;
+        skos:prefLabel "longevity bond" .
+<122267>	rdf:type skos:Concept ;
+        skos:prefLabel "activation assistance" .
+<122270>	rdf:type skos:Concept ;
+        skos:altLabel "MDLS" ;
+        skos:prefLabel "multidimensional living standards" .
+<122273>	rdf:type skos:Concept ;
+        skos:altLabel "ESCII" ;
+        skos:prefLabel "Energy Sector Carbon Intensity Index" .
+<122274>	rdf:type skos:Concept ;
+        skos:prefLabel "marginal abatement costs of greenhouse gas emissions" .
+<122279>	rdf:type skos:Concept ;
+        skos:prefLabel "mutual obligation principle" .
+<122303>	rdf:type skos:Concept ;
+        skos:prefLabel "input" .
+<122348>	rdf:type skos:Concept ;
+        skos:prefLabel "actual collective consumption" .
+<122380>	rdf:type skos:Concept ;
+        skos:prefLabel "expenditure category" .
+<122381>	rdf:type skos:Concept ;
+        skos:prefLabel "expenditure class" .
+<122382>	rdf:type skos:Concept ;
+        skos:prefLabel "expenditure group" .
+<122383>	rdf:type skos:Concept ;
+        skos:prefLabel "expenditure weights" .
+<122389>	rdf:type skos:Concept ;
+        skos:prefLabel "gross wages and salaries" .
+<122392>	rdf:type skos:Concept ;
+        skos:prefLabel "individual consumption expenditure by government" .
+<122393>	rdf:type skos:Concept ;
+        skos:prefLabel "individual consumption expenditure by households" .
+<122394>	rdf:type skos:Concept ;
+        skos:prefLabel "individual consumption expenditure by NPISHs" .
+<122395>	rdf:type skos:Concept ;
+        skos:prefLabel "individual good or service" .
+<122401>	rdf:type skos:Concept ;
+        skos:prefLabel "item" .
+<122403>	rdf:type skos:Concept ;
+        skos:prefLabel "main aggregates" .
+<122404>	rdf:type skos:Concept ;
+        skos:prefLabel "material well-being" .
+<122411>	rdf:type skos:Concept ;
+        skos:prefLabel "nominal expenditures" .
+<122417>	rdf:type skos:Concept ;
+        skos:prefLabel "Penn effect" .
+<122421>	rdf:type skos:Concept ;
+        skos:altLabel "PLI" ;
+        skos:prefLabel "Price level index" .
+<122422>	rdf:type skos:Concept ;
+        skos:prefLabel "price similarity index" .
+<122423>	rdf:type skos:Concept ;
+        skos:prefLabel "productivity adjustment" .
+<122425>	rdf:type skos:Concept ;
+        skos:prefLabel "quality adjustment" .
+<122426>	rdf:type skos:Concept ;
+        skos:prefLabel "quantity similarity index" .
+<122429>	rdf:type skos:Concept ;
+        skos:prefLabel "real expenditures" .
+<122439>	rdf:type skos:Concept ;
+        skos:prefLabel "semi-durable good" .
+<122441>	rdf:type skos:Concept ;
+        skos:prefLabel "subsidies on production" .
+<122442>	rdf:type skos:Concept ;
+        skos:prefLabel "surcharge" .
+<122448>	rdf:type skos:Concept ;
+        skos:prefLabel "user-cost method" .
+<122450>	rdf:type skos:Concept ;
+        skos:prefLabel "weighted CPD method" .
+<122464>	rdf:type skos:Concept ;
+        skos:altLabel "CIS" ;
+        skos:prefLabel "Commonwealth of Independent States" .
+<122467>	rdf:type skos:Concept ;
+        skos:altLabel "EPAs" ;
+        skos:prefLabel "Economic Partnership Agreements" .
+<122527>	rdf:type skos:Concept ;
+        skos:prefLabel "balance of opinion" .
+<122535>	rdf:type skos:Concept ;
+        skos:prefLabel "growth factor" .
+<122548>	rdf:type skos:Concept ;
+        skos:prefLabel "non-employment benefits" .
+<122563>	rdf:type skos:Concept ;
+        skos:prefLabel "collective goods and services" .
+<122564>	rdf:type skos:Concept ;
+        skos:prefLabel "informal housing market" .
+<122567>	rdf:type skos:Concept ;
+        skos:prefLabel "residential property" .
+<122605>	rdf:type skos:Concept ;
+        skos:prefLabel "business sector services" .
+<122617>	rdf:type skos:Concept ;
+        skos:prefLabel "public social expenditure" .
+<122624>	rdf:type skos:Concept ;
+        skos:prefLabel "Kakwani index" .
+<122627>	rdf:type skos:Concept ;
+        skos:altLabel "BOA" ;
+        skos:prefLabel "Board of Audit" .
+<122636>	rdf:type skos:Concept ;
+        skos:prefLabel "effective capacity" .
+<122641>	rdf:type skos:Concept ;
+        skos:prefLabel "longevity risk" .
+<122644>	rdf:type skos:Concept ;
+        skos:prefLabel "availability payments" .
+<122658>	rdf:type skos:Concept ;
+        skos:prefLabel "individual severance accounts" .
+<122659>	rdf:type skos:Concept ;
+        skos:altLabel "FCI" ;
+        skos:prefLabel "Financial Conditions Index" .
+<122681>	rdf:type skos:Concept ;
+        skos:prefLabel "Economy Watchers Survey" .
+<122689>	rdf:type skos:Concept ;
+        skos:prefLabel "unpaid care work" .
+<122690>	rdf:type skos:Concept ;
+        skos:prefLabel "reproductive work" .
+<122707>	rdf:type skos:Concept ;
+        skos:prefLabel "2005 prices, at" .
+<122712>	rdf:type skos:Concept ;
+        skos:prefLabel "job matching efficiency" .
+<122724>	rdf:type skos:Concept ;
+        skos:altLabel "DNWR" ;
+        skos:prefLabel "downward nominal wage rigidity" .
+<122728>	rdf:type skos:Concept ;
+        skos:prefLabel "wealth tested" .
+<122734>	rdf:type skos:Concept ;
+        skos:prefLabel "returns to skills" .
+<122740>	rdf:type skos:Concept ;
+        skos:altLabel "TFI, TETs" ;
+        skos:prefLabel "Trade Facilitation Indicators" .
+<122757>	rdf:type skos:Concept ;
+        skos:prefLabel "health inequalities" .
+<122764>	rdf:type skos:Concept ;
+        skos:prefLabel "fiscal brinkmanship" .
+<122775>	rdf:type skos:Concept ;
+        skos:prefLabel "a-cyclical" .
+<122778>	rdf:type skos:Concept ;
+        skos:prefLabel "backward-looking Phillips curve" .
+<122803>	rdf:type skos:Concept ;
+        skos:prefLabel "direct poverty" .
+<122805>	rdf:type skos:Concept ;
+        skos:prefLabel "perfect inequality" .
+<122812>	rdf:type skos:Concept ;
+        skos:prefLabel "child poverty rate" .
+<122974>	rdf:type skos:Concept ;
+        skos:prefLabel "bazaar economy" .
+<123073>	rdf:type skos:Concept ;
+        skos:prefLabel "equivalent income" .
+<123130>	rdf:type skos:Concept ;
+        skos:prefLabel "missing middle" .
+<123206>	rdf:type skos:Concept ;
+        skos:altLabel "BHC" ;
+        skos:prefLabel "poverty rate before housing costs" .
+<123210>	rdf:type skos:Concept ;
+        skos:altLabel "PRR" ;
+        skos:prefLabel "poverty risk ratio" .
+<123211>	rdf:type skos:Concept ;
+        skos:prefLabel "material hardship rate" .
+<123212>	rdf:type skos:Concept ;
+        skos:altLabel "ELSI" ;
+        skos:prefLabel "Economic Living Standards Index" .
+<123214>	rdf:type skos:Concept ;
+        skos:prefLabel "intergenerational income elasticity" .
+<123220>	rdf:type skos:Concept ;
+        skos:prefLabel "jobless poverty rate" .
+<123221>	rdf:type skos:Concept ;
+        skos:prefLabel "health literacy" .
+<123226>	rdf:type skos:Concept ;
+        skos:prefLabel "economic resilience" .
+<123256>	rdf:type skos:Concept ;
+        skos:prefLabel "commodity super-cycle" .
+<123260>	rdf:type skos:Concept ;
+        skos:prefLabel "jobless household" .
+<123261>	rdf:type skos:Concept ;
+        skos:prefLabel "working household" .
+<123273>	rdf:type skos:Concept ;
+        skos:prefLabel "socio-economic gradient" .
+<123287>	rdf:type skos:Concept ;
+        skos:prefLabel "secular stagnation" .
+<123354>	rdf:type skos:Concept ;
+        skos:altLabel "CISS" ;
+        skos:prefLabel "ECB Composite Index of Systemic Stress" .
+<123426>	rdf:type skos:Concept ;
+        skos:prefLabel "microcensus" .
+<123450>	rdf:type skos:Concept ;
+        skos:prefLabel "external bank debt" .
+<123454>	rdf:type skos:Concept ;
+        skos:altLabel "PBK" ;
+        skos:prefLabel "price index of existing own homes" .
+<123457>	rdf:type skos:Concept ;
+        skos:prefLabel "permanent income effect" .
+<123474>	rdf:type skos:Concept ;
+        skos:prefLabel "induced innovation hypothesis" .
+<123484>	rdf:type skos:Concept ;
+        skos:prefLabel "flying geese pattern" .
+<123486>	rdf:type skos:Concept ;
+        skos:prefLabel "near-shoring" .
+<123487>	rdf:type skos:Concept ;
+        skos:prefLabel "re-shoring" .
+<123488>	rdf:type skos:Concept ;
+        skos:prefLabel "backshoring" .
+<123489>	rdf:type skos:Concept ;
+        skos:prefLabel "international in-sourcing" .
+<123524>	rdf:type skos:Concept ;
+        skos:prefLabel "megatrends" .
+<123544>	rdf:type skos:Concept ;
+        skos:prefLabel "wage markups" .
+<123545>	rdf:type skos:Concept ;
+        skos:prefLabel "wage and price markups" .
+<123559>	rdf:type skos:Concept ;
+        skos:prefLabel "displaced resources" .
+<123602>	rdf:type skos:Concept ;
+        skos:prefLabel "deflating" .
+<123603>	rdf:type skos:Concept ;
+        skos:prefLabel "durable consumption good" .
+<123604>	rdf:type skos:Concept ;
+        skos:prefLabel "economic approach" .
+<123606>	rdf:type skos:Concept ;
+        skos:prefLabel "elementary aggregate" .
+<123607>	rdf:type skos:Concept ;
+        skos:prefLabel "existing dwellings" .
+<123620>	rdf:type skos:Concept ;
+        skos:prefLabel "economic infrastructure" .
+<123649>	rdf:type skos:Concept ;
+        skos:altLabel "RI" ;
+        skos:prefLabel "regulatory impact indicators" .
+<123779>	rdf:type skos:Concept ;
+        skos:prefLabel "European Systems of National Accounts" .
+<123781>	rdf:type skos:Concept ;
+        skos:prefLabel "in-kind goods and services" .
+<123782>	rdf:type skos:Concept ;
+        skos:prefLabel "individual goods and services" .
+<123791>	rdf:type skos:Concept ;
+        skos:prefLabel "tacit knowledge" .
+<123792>	rdf:type skos:Concept ;
+        skos:altLabel "IP" ;
+        skos:prefLabel "Intellectual Property bundle" .
+<123798>	rdf:type skos:Concept ;
+        skos:prefLabel "overall monetary conditions" .
+<123801>	rdf:type skos:Concept ;
+        skos:prefLabel "net saving ratio" .
+<123802>	rdf:type skos:Concept ;
+        skos:prefLabel "gross saving ratio" .
+<123803>	rdf:type skos:Concept ;
+        skos:prefLabel "macro-financial vulnerability indicators" .
+<123806>	rdf:type skos:Concept ;
+        skos:altLabel "BAN" ;
+        skos:prefLabel "Business Angels Network" .
+<123824>	rdf:type skos:Concept ;
+        skos:prefLabel "banking sector leverage" .
+<123834>	rdf:type skos:Concept ;
+        skos:altLabel "CPI" ;
+        skos:prefLabel "inflation" .
+<123835>	rdf:type skos:Concept ;
+        skos:prefLabel "inflation forecast" .
+<123839>	rdf:type skos:Concept ;
+        skos:prefLabel "domestic demand forecast" .
+<123849>	rdf:type skos:Concept ;
+        skos:prefLabel "elderly population" .
+<123855>	rdf:type skos:Concept ;
+        skos:prefLabel "enterprises by business size" .
+<123856>	rdf:type skos:Concept ;
+        skos:prefLabel "exchange rates" .
+<123863>	rdf:type skos:Concept ;
+        skos:prefLabel "FDI flows" .
+<123864>	rdf:type skos:Concept ;
+        skos:prefLabel "FDI stocks" .
+<123865>	rdf:type skos:Concept ;
+        skos:prefLabel "fertility rates" .
+<123866>	rdf:type skos:Concept ;
+        skos:prefLabel "financial corporations debt to equity ratio" .
+<123875>	rdf:type skos:Concept ;
+        skos:prefLabel "gross domestic spending on R&D" .
+<123876>	rdf:type skos:Concept ;
+        skos:prefLabel "labour productivity and utilisation" .
+<123877>	rdf:type skos:Concept ;
+        skos:prefLabel "GDP per hour worked" .
+<123878>	rdf:type skos:Concept ;
+        skos:prefLabel "labour productivity forecast" .
+<123879>	rdf:type skos:Concept ;
+        skos:prefLabel "GDP long-term forecast" .
+<123880>	rdf:type skos:Concept ;
+        skos:altLabel "GFCF" ;
+        skos:prefLabel "investment" .
+<123881>	rdf:type skos:Concept ;
+        skos:prefLabel "investment by asset" .
+<123882>	rdf:type skos:Concept ;
+        skos:prefLabel "investment forecast" .
+<123883>	rdf:type skos:Concept ;
+        skos:prefLabel "investment by sector" .
+<123893>	rdf:type skos:Concept ;
+        skos:prefLabel "gross national income" .
+<123900>	rdf:type skos:Concept ;
+        skos:prefLabel "household debt" .
+<123901>	rdf:type skos:Concept ;
+        skos:prefLabel "household disposable income" .
+<123902>	rdf:type skos:Concept ;
+        skos:prefLabel "household spending" .
+<123903>	rdf:type skos:Concept ;
+        skos:prefLabel "household financial assets" .
+<123904>	rdf:type skos:Concept ;
+        skos:prefLabel "household financial transactions" .
+<123905>	rdf:type skos:Concept ;
+        skos:prefLabel "household savings" .
+<123906>	rdf:type skos:Concept ;
+        skos:prefLabel "household savings forecast" .
+<123907>	rdf:type skos:Concept ;
+        skos:prefLabel "household net worth" .
+<123912>	rdf:type skos:Concept ;
+        skos:altLabel "HUR" ;
+        skos:prefLabel "harmonised unemployment rate" .
+<123919>	rdf:type skos:Concept ;
+        skos:prefLabel "income inequality" .
+<123925>	rdf:type skos:Concept ;
+        skos:prefLabel "labour compensation per hour worked" .
+<123933>	rdf:type skos:Concept ;
+        skos:prefLabel "long-term unemployment rate" .
+<123940>	rdf:type skos:Concept ;
+        skos:prefLabel "multifactor productivity" .
+<123943>	rdf:type skos:Concept ;
+        skos:prefLabel "national area distribution" .
+<123945>	rdf:type skos:Concept ;
+        skos:prefLabel "national population distribution" .
+<123950>	rdf:type skos:Concept ;
+        skos:prefLabel "net lending/borrowing by sector" .
+<123952>	rdf:type skos:Concept ;
+        skos:prefLabel "nominal GDP forecast" .
+<123953>	rdf:type skos:Concept ;
+        skos:prefLabel "non-financial corporations debt to surplus ratio" .
+<123973>	rdf:type skos:Concept ;
+        skos:prefLabel "price level indices" .
+<123974>	rdf:type skos:Concept ;
+        skos:prefLabel "population" .
+<123975>	rdf:type skos:Concept ;
+        skos:prefLabel "poverty rate" .
+<123976>	rdf:type skos:Concept ;
+        skos:altLabel "PPI" ;
+        skos:prefLabel "Producer price indices" .
+<123977>	rdf:type skos:Concept ;
+        skos:altLabel "PPP" ;
+        skos:prefLabel "Purchasing power parities" .
+<123985>	rdf:type skos:Concept ;
+        skos:prefLabel "quarterly GDP" .
+<123987>	rdf:type skos:Concept ;
+        skos:prefLabel "real GDP forecast" .
+<123992>	rdf:type skos:Concept ;
+        skos:prefLabel "self-employed with employees" .
+<123993>	rdf:type skos:Concept ;
+        skos:prefLabel "self-employed without employees" .
+<123994>	rdf:type skos:Concept ;
+        skos:prefLabel "share prices" .
+<124016>	rdf:type skos:Concept ;
+        skos:prefLabel "unit labour costs" .
+<124017>	rdf:type skos:Concept ;
+        skos:prefLabel "unemployment rate" .
+<124018>	rdf:type skos:Concept ;
+        skos:prefLabel "unemployment rates by education level" .
+<124019>	rdf:type skos:Concept ;
+        skos:prefLabel "urban population by city size" .
+<124020>	rdf:type skos:Concept ;
+        skos:prefLabel "value added by activity" .
+<124021>	rdf:type skos:Concept ;
+        skos:prefLabel "value-added in financial corporations" .
+<124023>	rdf:type skos:Concept ;
+        skos:prefLabel "value-added in non-financial corporations" .
+<124028>	rdf:type skos:Concept ;
+        skos:prefLabel "working age population" .
+<124030>	rdf:type skos:Concept ;
+        skos:prefLabel "young population" .
+<124031>	rdf:type skos:Concept ;
+        skos:prefLabel "youth unemployment rate" .
+<124038>	rdf:type skos:Concept ;
+        skos:prefLabel "conversion rates" .
+<124039>	rdf:type skos:Concept ;
+        skos:prefLabel "corporate sector" .
+<124046>	rdf:type skos:Concept ;
+        skos:prefLabel "entrepreneurship" .
+<124047>	rdf:type skos:Concept ;
+        skos:altLabel "FDI" ;
+        skos:prefLabel "Foreign direct investment" .
+<124050>	rdf:type skos:Concept ;
+        skos:prefLabel "domestic product" .
+<124057>	rdf:type skos:Concept ;
+        skos:prefLabel "household accounts" .
+<124059>	rdf:type skos:Concept ;
+        skos:prefLabel "industry" .
+<124060>	rdf:type skos:Concept ;
+        skos:prefLabel "inequality" .
+<124064>	rdf:type skos:Concept ;
+        skos:prefLabel "productivity" .
+<124067>	rdf:type skos:Concept ;
+        skos:prefLabel "national income" .
+<124071>	rdf:type skos:Concept ;
+        skos:prefLabel "demography" .
+<124072>	rdf:type skos:Concept ;
+        skos:prefLabel "population by region" .
+<124073>	rdf:type skos:Concept ;
+        skos:prefLabel "prices" .
+<124079>	rdf:type skos:Concept ;
+        skos:prefLabel "unemployment" .
+<124093>	rdf:type skos:Concept ;
+        skos:prefLabel "industrial production" .
+<124094>	rdf:type skos:Concept ;
+        skos:prefLabel "net national income" .
+<124097>	rdf:type skos:Concept ;
+        skos:prefLabel "saving rate" .
+<124124>	rdf:type skos:Concept ;
+        skos:prefLabel "tourist experience" .
+<124125>	rdf:type skos:Concept ;
+        skos:prefLabel "tourist route" .
+<124270>	rdf:type skos:Concept ;
+        skos:prefLabel "business enterprise sector" .
+<124287>	rdf:type skos:Concept ;
+        skos:altLabel "BERD" ;
+        skos:prefLabel "business enterprise expenditure on R&D" .
+<124292>	rdf:type skos:Concept ;
+        skos:prefLabel "central government" .
+<124299>	rdf:type skos:Concept ;
+        skos:prefLabel "economic activity" .
+<124337>	rdf:type skos:Concept ;
+        skos:altLabel "MNE" ;
+        skos:prefLabel "multinational enterprise" .
+<124338>	rdf:type skos:Concept ;
+        skos:altLabel "NPISHs" ;
+        skos:prefLabel "non-profit institutions serving households" .
+<124347>	rdf:type skos:Concept ;
+        skos:prefLabel "performers of R&D" .
+<124350>	rdf:type skos:Concept ;
+        skos:altLabel "PNP" ;
+        skos:prefLabel "private non-profit sector" .
+<124353>	rdf:type skos:Concept ;
+        skos:prefLabel "public or private sector affiliation status" .
+<124364>	rdf:type skos:Concept ;
+        skos:prefLabel "residence" .
+<124365>	rdf:type skos:Concept ;
+        skos:prefLabel "Rest of the world" .
+<124366>	rdf:type skos:Concept ;
+        skos:altLabel "STA" ;
+        skos:prefLabel "scientific and technological activities" .
+<124367>	rdf:type skos:Concept ;
+        skos:prefLabel "self-employed" .
+<124368>	rdf:type skos:Concept ;
+        skos:prefLabel "socio-economic objectives classification" .
+<124381>	rdf:type skos:Concept ;
+        skos:prefLabel "transactions" .
+<124384>	rdf:type skos:Concept ;
+        skos:prefLabel "types of R&D" .
+<124386>	rdf:type skos:Concept ;
+        skos:prefLabel "volunteers" .
+<124964>	rdf:type skos:Concept ;
+        skos:prefLabel "structural adjustment programme" .
+<125121>	rdf:type skos:Concept ;
+        skos:prefLabel "agriculture, forestry and fishery activities" .
+<125346>	rdf:type skos:Concept ;
+        skos:prefLabel "analytical unit – SNA" .
+<125347>	rdf:type skos:Concept ;
+        skos:prefLabel "ancillary activity – SNA" .
+<125510>	rdf:type skos:Concept ;
+        skos:prefLabel "administered prices" .
+<126267>	rdf:type skos:Concept ;
+        skos:prefLabel "abnormal obsolescence" .
+<126268>	rdf:type skos:Concept ;
+        skos:prefLabel "account" .
+<126269>	rdf:type skos:Concept ;
+        skos:prefLabel "accrual accounting" .
+<126270>	rdf:type skos:Concept ;
+        skos:prefLabel "accumulation" .
+<126271>	rdf:type skos:Concept ;
+        skos:prefLabel "accumulation accounts" .
+<126272>	rdf:type skos:Concept ;
+        skos:prefLabel "acquisition price" .
+<126273>	rdf:type skos:Concept ;
+        skos:prefLabel "acquisitions" .
+<126274>	rdf:type skos:Concept ;
+        skos:prefLabel "actual final consumption of general government" .
+<126275>	rdf:type skos:Concept ;
+        skos:prefLabel "actual final consumption of households" .
+<126276>	rdf:type skos:Concept ;
+        skos:prefLabel "actual final consumption of non-profit institutions serving households" .
+<126277>	rdf:type skos:Concept ;
+        skos:prefLabel "actual individual consumption" .
+<126278>	rdf:type skos:Concept ;
+        skos:prefLabel "actual social contributions" .
+<126279>	rdf:type skos:Concept ;
+        skos:prefLabel "additivity - SNA" .
+<126280>	rdf:type skos:Concept ;
+        skos:prefLabel "adjusted disposable income" .
+<126281>	rdf:type skos:Concept ;
+        skos:prefLabel "adjustment for the change in the net equity of households in pension fund reserves" .
+<126282>	rdf:type skos:Concept ;
+        skos:prefLabel "age-efficiency profile" .
+<126283>	rdf:type skos:Concept ;
+        skos:prefLabel "age-price profile" .
+<126284>	rdf:type skos:Concept ;
+        skos:prefLabel "aggregates of the system of national accounts" .
+<126285>	rdf:type skos:Concept ;
+        skos:prefLabel "allocation of primary income account - SNA" .
+<126286>	rdf:type skos:Concept ;
+        skos:prefLabel "antiques and other art objects" .
+<126834>	rdf:type skos:Concept ;
+        skos:prefLabel "actual collective consumption" .
+<126835>	rdf:type skos:Concept ;
+        skos:prefLabel "analytical categories" .
+<126836>	rdf:type skos:Concept ;
+        skos:prefLabel "asterisk product" .
+<126839>	rdf:type skos:Concept ;
+        skos:prefLabel "basic heading" .
+<126840>	rdf:type skos:Concept ;
+        skos:prefLabel "bill of quantities" .
+<126841>	rdf:type skos:Concept ;
+        skos:prefLabel "binary PPP" .
+<126842>	rdf:type skos:Concept ;
+        skos:prefLabel "bridge country" .
+<126845>	rdf:type skos:Concept ;
+        skos:prefLabel "collective services" .
+<126847>	rdf:type skos:Concept ;
+        skos:prefLabel "comparative price levels" .

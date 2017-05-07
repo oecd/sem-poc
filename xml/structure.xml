@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<structure>
+  <series>
+    <title>Going for Growth</title>
+    <blurb>
+      <p>
+        <em>Going for Growth</em> builds on OECD expertise on structural policy reforms and economic performance to provide policy makers with a set of concrete recommendations on reform areas identified as priorities for strong and inclusive growth. The priorities broadly cover product and labour market regulation, education and training, tax and transfer systems, trade and investment rules, as well as innovation policies. The Going for Growth framework has been instrumental in helping G20 countries make progress on their structural reform agenda, including through monitoring their growth strategies to achieve sustained and balanced growth.
+      </p>
+    </blurb>
+    <cover href="http://www.oecd-ilibrary.org/content/images/economic-policy-reforms-VOLUME_growth-VOLUME-en.jpg"></cover>
+
+    <issues>
+      <issue href="growth-2011-en.xml" volume="2011"/>
+      <issue href="growth-2012-en.xml" volume="2012"/>
+      <issue href="growth-2013-en.xml" volume="2013"/>
+      <issue href="growth-2014-en.xml" volume="2014"/>
+      <issue href="growth-2015-en.xml" volume="2015"/>
+      <issue href="growth-2016-en.xml" volume="2016"/>
+    </issues>
+  </series>
+  <series>
+    <title>OECD Economic Outlook</title>
+    <blurb>
+      <p>
+        The OECD Economic Outlook is the OECD’s twice-yearly analysis of the major economic trends and prospects for the next two years. Prepared by the OECD Economics Department, the Outlook puts forward a consistent set of projections for output, employment, government spending, prices and current balances based on a review of each member country and of the induced effect on each of them on international developments.
+      </p>
+
+      <p>
+        Coverage is provided for all OECD member countries as well as for selected non-member countries. Each issue includes a general assessment, chapters summarizing developments and providing projections for each individual country, three to five chapters on topics of current interest such as housing, and an extensive statistical annex with a wide variety of variables including general debt.
+      </p>
+    </blurb>
+    <cover href="http://www.oecd-ilibrary.org/content/images/oecd-economic-outlook-volume-2016-issue-2_eco_outlook-vVOLUME-ISSUE-en.jpg"></cover>
+
+    <issues>
+      <issue href="eco_outlook-v2016-1-en.xml" volume="2016" issue="1"/>
+      <issue href="eco_outlook-v2016-2-en.xml" volume="2016" issue="2"/>
+      <issue href="eco_outlook-v2015-1-en.xml" volume="2015" issue="1"/>
+      <issue href="eco_outlook-v2015-2-en.xml" volume="2015" issue="2"/>
+      <issue href="eco_outlook-v2014-1-en.xml" volume="2014" issue="1"/>
+      <issue href="eco_outlook-v2014-2-en.xml" volume="2014" issue="2"/>
+      <issue href="eco_outlook-v2013-1-en.xml" volume="2013" issue="1"/>
+      <issue href="eco_outlook-v2013-2-en.xml" volume="2013" issue="2"/>
+      <issue href="eco_outlook-v2012-1-en.xml" volume="2012" issue="1"/>
+      <issue href="eco_outlook-v2012-2-en.xml" volume="2012" issue="2"/>
+      <issue href="eco_outlook-v2011-1-en.xml" volume="2011" issue="1"/>
+      <issue href="eco_outlook-v2011-2-en.xml" volume="2011" issue="2"/>
+    </issues>
+  </series>
+</structure>

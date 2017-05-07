@@ -1,0 +1,38 @@
+<enrichment>
+	<annotation annotationPlanName="Document Classification (Plan_DC)" annotationDate="2017/03/08 09:22:52">
+		<docID value="conv-c6fb7448-34a6-4ca4-b623-472580c6e9c2"/>
+		<language value="English"/>
+		<ContentFilter>No chapter to filter out for conv-c6fb7448-34a6-4ca4-b623-472580c6e9c2
+			Unable to process long text </ContentFilter>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Brazil" score="47.23978" zScore="-0.54708433">Brazil</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#CentralAndEasternEurope" score="10.153687" zScore="-0.55175793">Central and Eastern Europe</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#China" score="207.73134" zScore="-0.526859">China</coverage>
+		<coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#EuroAreaCountries" score="63902.35" zScore="7.5">Euro area</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Greece" score="61.84225" zScore="-0.5452441">Greece</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Ireland" score="50.20032" zScore="-0.54671127">Ireland</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Japan" score="312.50766" zScore="-0.513655">Japan</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#NonOECDCountries" score="19.593061" zScore="-0.55056834">Non-OECD countries</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDArea" score="34.508526" zScore="-0.54868877">OECD area</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#RussianFederation" score="46.59571" zScore="-0.54716545">Russian Federation</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthAfrica" score="23.190235" zScore="-0.55011505">South Africa</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Spain" score="49.849556" zScore="-0.54675543">Spain</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom" score="28.322641" zScore="-0.5494683">United Kingdom</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates" score="1006.66504" zScore="-0.42617658">United States</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#VulnerableDevelopingCountries" score="26.079357" zScore="-0.5497509">Vulnerable developing countries</coverage>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T1837" score="1886.4994" zScore="-0.5357662">exports</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T2347" score="4634.292" zScore="0.68870145">demand</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2597" score="2046.0514" zScore="-0.4646668">monetary policy</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2616" score="850.5981" zScore="-0.99738306">interest rate</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T3900" score="944.7453" zScore="-0.9554293">economic projections</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T4308" score="842.44543" zScore="-1.0010161">private consumption</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T4540" score="13842.689" zScore="4.7921352">inflation</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T4543" score="3989.7913" zScore="0.4014999">deficit</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T4607" score="1516.0768" zScore="-0.7008334">projections</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T5796" score="4886.9653" zScore="0.80129737">fiscal consolidation</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5806" score="1536.361" zScore="-0.6917944">current account</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6339" score="774.55457" zScore="-1.0312694">emerging markets</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T800" score="3515.781" zScore="0.1902721">banks</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T813" score="4493.799" zScore="0.62609506">gross domestic product</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T957" score="571.3044" zScore="-1.1218415">fiscal policy</subject>
+	</annotation>
+</enrichment>

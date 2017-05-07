@@ -1,0 +1,128 @@
+@prefix rdf: <http://www.w3.org/1999/02/22-rdf-syntax-ns#> .
+@prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
+@prefix owl: <http://www.w3.org/2002/07/owl#> .
+@prefix skos: <http://www.w3.org/2004/02/skos/core#> .
+@base <http://oecd.org/ns/> .
+
+<country/AUS>  rdf:type skos:Concept ;
+        skos:prefLabel "Australia" .
+
+<country/AUT>  rdf:type skos:Concept ;
+        skos:prefLabel "Austria" .
+
+<country/BEL>  rdf:type skos:Concept ;
+        skos:prefLabel "Belgium" .
+
+<country/BRA>  rdf:type skos:Concept ;
+        skos:prefLabel "Brazil" .
+
+<country/CAN>  rdf:type skos:Concept ;
+        skos:prefLabel "Canada" .
+
+<country/CHL>  rdf:type skos:Concept ;
+        skos:prefLabel "Chile " .
+
+<country/CHN>  rdf:type skos:Concept ;
+        skos:prefLabel "China" .
+
+<country/CZE>  rdf:type skos:Concept ;
+        skos:prefLabel "Czech Republic" .
+
+<country/DNK>  rdf:type skos:Concept ;
+        skos:prefLabel "Denmark" .
+
+<country/EST>  rdf:type skos:Concept ;
+        skos:prefLabel "Estonia" .
+
+<country/FIN>  rdf:type skos:Concept ;
+        skos:prefLabel "Finland" .
+
+<country/FRA>  rdf:type skos:Concept ;
+        skos:prefLabel "France" .
+
+<country/DEU>  rdf:type skos:Concept ;
+        skos:prefLabel "Germany" .
+
+<country/GRC>  rdf:type skos:Concept ;
+        skos:prefLabel "Greece" .
+
+<country/HUN>  rdf:type skos:Concept ;
+        skos:prefLabel "Hungary" .
+
+<country/ISL>  rdf:type skos:Concept ;
+        skos:prefLabel "Iceland" .
+
+<country/ÍND>  rdf:type skos:Concept ;
+        skos:prefLabel "India" .
+
+<country/IDN>  rdf:type skos:Concept ;
+        skos:prefLabel "Indonesia" .
+
+<country/IRL>  rdf:type skos:Concept ;
+        skos:prefLabel "Ireland" .
+
+<country/ISR>  rdf:type skos:Concept ;
+        skos:prefLabel "Israel" .
+
+<country/ITA>  rdf:type skos:Concept ;
+        skos:prefLabel "Italy" .
+
+<country/JPN>  rdf:type skos:Concept ;
+        skos:prefLabel "Japan" .
+
+<country/KOR>  rdf:type skos:Concept ;
+        skos:prefLabel "Korea" .
+
+<country/LVA>  rdf:type skos:Concept ;
+        skos:prefLabel "Latvia" .
+
+<country/LUX>  rdf:type skos:Concept ;
+        skos:prefLabel "Luxembourg" .
+
+<country/MEX>  rdf:type skos:Concept ;
+        skos:prefLabel "Mexico" .
+
+<country/NLD>  rdf:type skos:Concept ;
+        skos:prefLabel "Netherlands" .
+
+<country/NZL>  rdf:type skos:Concept ;
+        skos:prefLabel "New Zealand" .
+
+<country/NOR>  rdf:type skos:Concept ;
+        skos:prefLabel "Norway" .
+
+<country/POL>  rdf:type skos:Concept ;
+        skos:prefLabel "Poland" .
+
+<country/PRT>  rdf:type skos:Concept ;
+        skos:prefLabel "Portugal" .
+
+<country/RUS>  rdf:type skos:Concept ;
+        skos:prefLabel "Russian Federation" .
+
+<country/SVK>  rdf:type skos:Concept ;
+        skos:prefLabel "Slovak Republic" .
+
+<country/SVN>  rdf:type skos:Concept ;
+        skos:prefLabel "Slovenia" .
+
+<country/ZAF>  rdf:type skos:Concept ;
+        skos:prefLabel "South Africa" .
+
+<country/ESP>  rdf:type skos:Concept ;
+        skos:prefLabel "Spain" .
+
+<country/SWE>  rdf:type skos:Concept ;
+        skos:prefLabel "Sweden" .
+
+<country/CHE>  rdf:type skos:Concept ;
+        skos:prefLabel "Switzerland" .
+
+<country/TUR>  rdf:type skos:Concept ;
+        skos:prefLabel "Turkey" .
+
+<country/GBR>  rdf:type skos:Concept ;
+        skos:prefLabel "United Kingdom" .
+
+<country/USA>  rdf:type skos:Concept ;
+        skos:prefLabel "United States" .

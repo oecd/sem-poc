@@ -1,0 +1,269 @@
+@import 'bootstrap-4.0.0-alpha.6/scss/bootstrap';
+
+.hidden {
+  display: none;
+}
+
+////////////////////////////////////////////////////////////////////////////
+// index
+
+body.index { background: #f0f0f0; }
+
+.content { background: #fff; border: solid 1px #d0d0d0; margin: 10px; padding: 18px; box-shadow: 4px 4px 4px #a0a0a0; }
+
+////////////////////////////////////////////////////////////////////////////
+// document
+
+span.line-annotation {
+  color: mix($body-color, $link-color, 80%);
+  // text-decoration: underline dashed; // unsupported on many browsers
+  border-bottom: 1px dashed $link-color;
+  cursor: help;
+
+  &:hover {
+    color: $link-hover-color;
+  }
+
+  // border: 1px solid #ddd;
+}
+
+.popover {
+  max-width: 60%; /* Max Width of the popover (depending on the container!) */
+}
+
+.popover-content {
+  .term-expert-definition, .term-simple-definition {
+    text-align: justify;
+  }
+
+  .term-link {
+    margin-top: 0.5em;
+  }
+
+  .term-source {
+    font-size: 80%;
+    color: lighten($body-color, 20%);
+    margin-top: 1em;
+    text-align: left;
+  }
+
+  iframe.gdp-chart {
+    width: 100%;
+    height: 240px;
+    border: none;
+  }
+
+  .links {
+    margin-top: 0.25rem;
+    a + a {
+      margin-left: 0.2rem;
+    }
+  }
+}
+
+.country-popover-button {
+  margin-top: 0.5em;
+  a {
+    max-width: 30em;
+    overflow-x: hidden;
+    text-overflow: ellipsis;
+    whitespace: nowrap;
+  }
+}
+
+$highlight-color: rgba($yellow, 0.3);
+
+.tag-cloud {
+  margin: 0 auto 2em auto;
+  width: 80%;
+  max-width: 600px;
+  height: 250px;
+
+  .jqcloud-word[data-concept-id] {
+    cursor: pointer;
+  }
+
+  .jqcloud-word.selected {
+    border: 1px solid $blue;
+    border-radius: 4px;
+    background-color: rgba(0, 192, 255, 0.15);
+  }
+
+  .jqcloud-word.highlighted {
+    background-color: $highlight-color;
+  }
+}
+
+.cloud-selector {
+  position: absolute;
+  right: 0;
+  z-index: 1;
+
+  .btn.coverage {
+    margin-top: 0.5rem;
+    padding: 0.25rem 0.25rem;
+    & + .btn.coverage {
+      margin-left: 0.1rem;
+    }
+  }
+}
+
+#toc {
+  h2 {
+    font-size: 16px;
+  }
+  font-size: 12px;
+
+  .toc-filters {
+    line-height: 1.8em;
+  }
+
+  .toc-filter {
+    border: 1px solid $blue;
+    border-radius: 3px;
+    padding: 0px 3px;
+    background-color: rgba(0, 192, 255, 0.15);
+    white-space: nowrap;
+    cursor: pointer;
+    &::after {
+      content: '×';
+      margin-left: 0.2em;
+    }
+  }
+
+  .highlighted {
+    background-color: rgba($highlight-color, 0.1);
+  }
+}
+
+@media (min-width: 768px) {
+  .oecd-sidebar {
+    padding-left: 1rem;
+  }
+}
+
+div.figure, div.tablegrp {
+  margin: 1em 0.5em;
+  background-color: $gray-lightest;
+
+  div.graphic {
+    @include border-radius($thumbnail-border-radius);
+    @include transition($thumbnail-transition);
+    @include box-shadow($thumbnail-box-shadow);
+
+    width: 400px;
+    height: 300px;
+    background-color: $gray-lighter;
+  }
+
+  .source {
+    color: $text-muted;
+    font-size: $small-font-size;
+  }
+}
+
+span.statlink {
+  font-size: $small-font-size;
+  color: $text-muted;
+
+  a {
+    margin-left: 0.5em;
+  }
+}
+
+a.fnote {
+  font-size: 75%;
+  line-height: 0;
+  position: relative;
+  vertical-align: baseline;
+  top: -0.5em;
+  font-style: italic;
+
+  color: $gray;
+
+  &:hover, &:active {
+    text-decoration: none;
+  }
+
+  .content {
+    display: none;
+  }
+}
+
+////////////////////////////////////////////////////////////////////////////
+// publication
+
+ul.volumes {
+  padding-left: 20px;
+}
+
+ul.issues {
+  padding-left: 10px;
+  li {
+    list-style: none;
+  }
+}
+
+ul.legend {
+  font-size: 8pt;
+  padding: 0px;
+  text-align: justify;
+
+  li {
+    display: inline-block;
+    list-style: none;
+    border: 1px solid #eee;
+    margin-right: 1em;
+    white-space: nowrap;
+    margin-bottom: 0.3em;
+    padding: 2px;
+    border-radius: 3px;
+    cursor: pointer;
+
+    &.active {
+      background-color: rgba(0.3, 0.3, 0.3, 0.2);
+      border-color: #aaa;
+    }
+  }
+
+  // 1.61803398875
+  .colour {
+    display: inline-block;
+    width: 1.3em;
+    height: 0.8em;
+    border: 2px solid white;
+    margin-right: 0.5em;
+  }
+}
+
+// super-impose upon chart svg
+.chart-type-select {
+  position: absolute;
+  z-index: 1000;
+
+  button {
+    cursor: pointer;
+  }
+}
+
+.fa.big {
+  font-size: 100px;
+}
+
+.spinning {
+  -webkit-animation: rotating 2s linear infinite;
+}
+
+// fixme: webkit only
+@-webkit-keyframes rotating {
+    from{
+        -webkit-transform: rotate(0deg);
+    }
+    to{
+        -webkit-transform: rotate(360deg);
+    }
+}
+
+.chart-popover .btn-block {
+  margin-bottom: 0.5em;
+}

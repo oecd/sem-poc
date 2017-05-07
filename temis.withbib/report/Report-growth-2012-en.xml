@@ -1,0 +1,38 @@
+<enrichment>
+	<annotation annotationPlanName="Document Classification (Plan_DC)" annotationDate="2017/03/08 09:33:20">
+		<docID value="conv-619ea1a0-1b4e-4b2d-a031-dda0da746c14"/>
+		<language value="English"/>
+		<ContentFilter>No chapter to filter out for conv-619ea1a0-1b4e-4b2d-a031-dda0da746c14
+			Unable to process long text </ContentFilter>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#BRIICSCountries" score="496.33246" zScore="-0.4405613">BRIICS countries</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Chile" score="625.87946" zScore="-0.3604791">Chile</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Estonia" score="479.0616" zScore="-0.4512376">Estonia</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#EuroAreaCountries" score="64.79335" zScore="-0.7073263">Euro area</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Europe" score="218.7624" zScore="-0.6121471">Europe</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Greece" score="687.40216" zScore="-0.3224475">Greece</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Indonesia" score="121.57713" zScore="-0.6722242">Indonesia</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Ireland" score="333.1773" zScore="-0.5414191">Ireland</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Israel" score="464.86758" zScore="-0.460012">Israel</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand" score="144.24663" zScore="-0.65821064">New Zealand</coverage>
+		<coverage relevance="high" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries" score="13341.579" zScore="7.499999">OECD countries</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Portugal" score="505.54846" zScore="-0.43486422">Portugal</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#RussianFederation" score="144.62938" zScore="-0.65797395">Russian Federation</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovenia" score="341.94006" zScore="-0.5360022">Slovenia</coverage>
+		<coverage relevance="normal" uri="http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthAfrica" score="165.46396" zScore="-0.64509463">South Africa</coverage>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2778" score="1224.994" zScore="-0.98729247">manpower utilisation</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T2836" score="5078.577" zScore="0.5926924">labour market</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T2852" score="3639.9075" zScore="0.0028318912">employment security</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T2940" score="5256.0796" zScore="0.6654691">wages</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T2947" score="1180.4905" zScore="-1.0055392">labour income</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T3595" score="11862.819" zScore="3.3742592">recommendations</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5384" score="1658.6433" zScore="-0.80949455">structural reform</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5808" score="2081.7896" zScore="-0.63600284">income inequality</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5812" score="3245.227" zScore="-0.1589887">product market regulation</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T5873" score="603.54285" zScore="-1.24209">active labour market policy</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T655" score="4394.926" zScore="0.3123925">income</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6714" score="463.67255" zScore="-1.2994374">product market reform</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T6718" score="856.6935" zScore="-1.1382973">macroeconomic shocks</subject>
+		<subject relevance="normal" uri="http://kim.oecd.org/Taxonomy/Topics#T697" score="3089.4497" zScore="-0.22285804">unemployment insurance</subject>
+		<subject relevance="high" uri="http://kim.oecd.org/Taxonomy/Topics#T813" score="9858.195" zScore="2.5523553">gross domestic product</subject>
+	</annotation>
+</enrichment>
