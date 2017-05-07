@@ -1,0 +1,205 @@
+[
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#BRIICSCountries",
+    "score": 138.22879,
+    "zScore": -0.24776459,
+    "name": "BRIICS countries"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#CentralAndEasternEurope",
+    "score": 3.1828122,
+    "zScore": -0.73510337,
+    "name": "Central and Eastern Europe"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#CzechRepublic",
+    "score": 33.67067,
+    "zScore": -0.6250822,
+    "name": "Czech Republic"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Estonia",
+    "score": 30.889835,
+    "zScore": -0.63511735,
+    "name": "Estonia"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#EuroAreaCountries",
+    "score": 28.669752,
+    "zScore": -0.64312893,
+    "name": "Euro area"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#EuropeanUnionCountries",
+    "score": 1471.6292,
+    "zScore": 4.564061,
+    "name": "European Union"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#India",
+    "score": 38.192986,
+    "zScore": -0.60876256,
+    "name": "India"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Indonesia",
+    "score": 51.910866,
+    "zScore": -0.55925906,
+    "name": "Indonesia"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Japan",
+    "score": 31.622934,
+    "zScore": -0.6324718,
+    "name": "Japan"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand",
+    "score": 65.97352,
+    "zScore": -0.5085113,
+    "name": "New Zealand"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries",
+    "score": 881.9071,
+    "zScore": 2.4359384,
+    "name": "OECD countries"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia",
+    "score": 42.551205,
+    "zScore": -0.5930351,
+    "name": "Slovak Republic"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthAfrica",
+    "score": 74.073524,
+    "zScore": -0.47928095,
+    "name": "South Africa"
+  },
+  {
+    "type": "coverage",
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates",
+    "score": 3.9090807,
+    "zScore": -0.73248243,
+    "name": "United States"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2055",
+    "score": 38.957134,
+    "zScore": -0.76085526,
+    "name": "energy"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2778",
+    "score": 52.410976,
+    "zScore": -0.7276707,
+    "name": "manpower utilisation"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2836",
+    "score": 150.45097,
+    "zScore": -0.48585063,
+    "name": "labour market"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2852",
+    "score": 35.05194,
+    "zScore": -0.77048755,
+    "name": "employment security"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2903",
+    "score": 303.0791,
+    "zScore": -0.109386474,
+    "name": "hours of work"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T3595",
+    "score": 242.75046,
+    "zScore": -0.2581898,
+    "name": "recommendations"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5384",
+    "score": 101.10574,
+    "zScore": -0.6075629,
+    "name": "structural reform"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5537",
+    "score": 573.25323,
+    "zScore": 0.55701023,
+    "name": "greenhouse gas emissions"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5806",
+    "score": 131.4297,
+    "zScore": -0.5327675,
+    "name": "current account"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5807",
+    "score": 21.54381,
+    "zScore": -0.80380595,
+    "name": "current account imbalances"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5808",
+    "score": 54.01895,
+    "zScore": -0.7237046,
+    "name": "income inequality"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5904",
+    "score": 304.35474,
+    "zScore": -0.106240064,
+    "name": "purchasing power parity"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T6714",
+    "score": 17.789404,
+    "zScore": -0.8130664,
+    "name": "product market reform"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T697",
+    "score": 22.919603,
+    "zScore": -0.8004125,
+    "name": "unemployment insurance"
+  },
+  {
+    "type": "subject",
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T813",
+    "score": 3162.2915,
+    "zScore": 6.94299,
+    "name": "gross domestic product"
+  }
+]

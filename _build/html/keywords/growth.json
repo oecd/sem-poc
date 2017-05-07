@@ -1,0 +1,1489 @@
+{
+  "issues": [
+    "2011-en",
+    "2012-en",
+    "2013-en",
+    "2014-en",
+    "2015-en",
+    "2016-en"
+  ],
+  "base": "growth",
+  "keywords": [
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#BRIICSCountries",
+      "values": [
+        {
+          "score": 279.0476,
+          "zScore": -0.1937837,
+          "issue": "2011-en"
+        },
+        {
+          "score": 278.471,
+          "zScore": -0.38150615,
+          "issue": "2012-en"
+        },
+        {
+          "score": 138.22879,
+          "zScore": -0.24776459,
+          "issue": "2013-en"
+        },
+        {
+          "score": 72.46338,
+          "zScore": -0.58066165,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "BRIICS countries"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#China",
+      "values": [
+        {
+          "score": 81.6647,
+          "zScore": -0.55930454,
+          "issue": "2011-en"
+        },
+        {
+          "score": 56.28795,
+          "zScore": 1.0834459,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "China"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#ContinentalEurope",
+      "values": [
+        {
+          "score": 13.607688,
+          "zScore": -0.685335,
+          "issue": "2011-en"
+        }
+      ],
+      "name": "Continental Europe"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#CzechRepublic",
+      "values": [
+        {
+          "score": 64.22985,
+          "zScore": -0.591591,
+          "issue": "2011-en"
+        },
+        {
+          "score": 33.67067,
+          "zScore": -0.6250822,
+          "issue": "2013-en"
+        },
+        {
+          "score": 68.58391,
+          "zScore": -0.5887898,
+          "issue": "2015-en"
+        },
+        {
+          "score": 143.0221,
+          "zScore": -0.59804076,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "Czech Republic"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#EuroAreaCountries",
+      "values": [
+        {
+          "score": 54.774082,
+          "zScore": -0.6091016,
+          "issue": "2011-en"
+        },
+        {
+          "score": 28.669752,
+          "zScore": -0.64312893,
+          "issue": "2013-en"
+        },
+        {
+          "score": 101.11632,
+          "zScore": -0.52062917,
+          "issue": "2015-en"
+        },
+        {
+          "score": 234.60498,
+          "zScore": -0.15530924,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "Euro area"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Germany",
+      "values": [
+        {
+          "score": 94.081116,
+          "zScore": -0.5363114,
+          "issue": "2011-en"
+        }
+      ],
+      "name": "Germany"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Greece",
+      "values": [
+        {
+          "score": 66.1149,
+          "zScore": -0.58810025,
+          "issue": "2011-en"
+        },
+        {
+          "score": 605.60254,
+          "zScore": 0.12904046,
+          "issue": "2012-en"
+        },
+        {
+          "score": 102.40802,
+          "zScore": -0.5179228,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "Greece"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Iceland",
+      "values": [
+        {
+          "score": 70.83287,
+          "zScore": -0.57936335,
+          "issue": "2011-en"
+        }
+      ],
+      "name": "Iceland"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Japan",
+      "values": [
+        {
+          "score": 126.34035,
+          "zScore": -0.47657254,
+          "issue": "2011-en"
+        },
+        {
+          "score": 31.622934,
+          "zScore": -0.6324718,
+          "issue": "2013-en"
+        },
+        {
+          "score": 31.276114,
+          "zScore": -0.009760692,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "Japan"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand",
+      "values": [
+        {
+          "score": 79.137245,
+          "zScore": -0.563985,
+          "issue": "2011-en"
+        },
+        {
+          "score": 121.74718,
+          "zScore": -0.6261014,
+          "issue": "2012-en"
+        },
+        {
+          "score": 65.97352,
+          "zScore": -0.5085113,
+          "issue": "2013-en"
+        },
+        {
+          "score": 20.428263,
+          "zScore": -0.4838939,
+          "issue": "2014-en"
+        },
+        {
+          "score": 276.416,
+          "zScore": -0.15334824,
+          "issue": "2015-en"
+        },
+        {
+          "score": 927.07007,
+          "zScore": 3.1922169,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "New Zealand"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries",
+      "values": [
+        {
+          "score": 4433.725,
+          "zScore": 7.499999,
+          "issue": "2011-en"
+        },
+        {
+          "score": 5245.845,
+          "zScore": 7.3709598,
+          "issue": "2012-en"
+        },
+        {
+          "score": 881.9071,
+          "zScore": 2.4359384,
+          "issue": "2013-en"
+        },
+        {
+          "score": 84.19917,
+          "zScore": 2.3033776,
+          "issue": "2014-en"
+        },
+        {
+          "score": 3929.286,
+          "zScore": 7.5,
+          "issue": "2015-en"
+        },
+        {
+          "score": 1157.8348,
+          "zScore": 4.307784,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "OECD countries"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia",
+      "values": [
+        {
+          "score": 99.412926,
+          "zScore": -0.5264377,
+          "issue": "2011-en"
+        },
+        {
+          "score": 64.724724,
+          "zScore": -0.71509504,
+          "issue": "2012-en"
+        },
+        {
+          "score": 42.551205,
+          "zScore": -0.5930351,
+          "issue": "2013-en"
+        },
+        {
+          "score": 7.2865067,
+          "zScore": -1.0582881,
+          "issue": "2014-en"
+        },
+        {
+          "score": 100.76201,
+          "zScore": -0.5213715,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "Slovak Republic"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthAfrica",
+      "values": [
+        {
+          "score": 59.686558,
+          "zScore": -0.6000045,
+          "issue": "2011-en"
+        },
+        {
+          "score": 112.681564,
+          "zScore": -0.6402499,
+          "issue": "2012-en"
+        },
+        {
+          "score": 74.073524,
+          "zScore": -0.47928095,
+          "issue": "2013-en"
+        },
+        {
+          "score": 52.62359,
+          "zScore": 0.9232856,
+          "issue": "2014-en"
+        },
+        {
+          "score": 192.6248,
+          "zScore": -0.3289042,
+          "issue": "2015-en"
+        },
+        {
+          "score": 59.69073,
+          "zScore": -1.0008826,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "South Africa"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom",
+      "values": [
+        {
+          "score": 50.005398,
+          "zScore": -0.6179324,
+          "issue": "2011-en"
+        },
+        {
+          "score": 10.41224,
+          "zScore": -0.92166996,
+          "issue": "2014-en"
+        },
+        {
+          "score": 6.0361366,
+          "zScore": -0.71983737,
+          "issue": "2015-en"
+        },
+        {
+          "score": 50.32463,
+          "zScore": -1.0461603,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "United Kingdom"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates",
+      "values": [
+        {
+          "score": 182.71445,
+          "zScore": -0.37217695,
+          "issue": "2011-en"
+        },
+        {
+          "score": 10.121004,
+          "zScore": -0.8003138,
+          "issue": "2012-en"
+        },
+        {
+          "score": 3.9090807,
+          "zScore": -0.73248243,
+          "issue": "2013-en"
+        },
+        {
+          "score": 39.162994,
+          "zScore": 0.33495572,
+          "issue": "2014-en"
+        },
+        {
+          "score": 10.434216,
+          "zScore": -0.7106227,
+          "issue": "2015-en"
+        },
+        {
+          "score": 58.640667,
+          "zScore": -1.0059588,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "United States"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2381",
+      "values": [
+        {
+          "score": 534.314,
+          "zScore": -0.30330053,
+          "issue": "2011-en"
+        },
+        {
+          "score": 1334.64,
+          "zScore": 2.4615023,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "household"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2634",
+      "values": [
+        {
+          "score": 201.31532,
+          "zScore": -0.6140314,
+          "issue": "2011-en"
+        }
+      ],
+      "name": "life expectancy"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2778",
+      "values": [
+        {
+          "score": 102.936714,
+          "zScore": -0.7058313,
+          "issue": "2011-en"
+        },
+        {
+          "score": 650.44855,
+          "zScore": -0.6676462,
+          "issue": "2012-en"
+        },
+        {
+          "score": 52.410976,
+          "zScore": -0.7276707,
+          "issue": "2013-en"
+        },
+        {
+          "score": 386.6543,
+          "zScore": -0.743168,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "manpower utilisation"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2903",
+      "values": [
+        {
+          "score": 389.10223,
+          "zScore": -0.43880188,
+          "issue": "2011-en"
+        },
+        {
+          "score": 542.6801,
+          "zScore": -0.76663846,
+          "issue": "2012-en"
+        },
+        {
+          "score": 303.0791,
+          "zScore": -0.109386474,
+          "issue": "2013-en"
+        },
+        {
+          "score": 665.62177,
+          "zScore": -0.5701283,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "hours of work"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T296",
+      "values": [
+        {
+          "score": 472.58463,
+          "zScore": -0.36090204,
+          "issue": "2011-en"
+        }
+      ],
+      "name": "housing"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T3089",
+      "values": [
+        {
+          "score": 147.4852,
+          "zScore": -0.66426176,
+          "issue": "2011-en"
+        }
+      ],
+      "name": "housing supply"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5093",
+      "values": [
+        {
+          "score": 99.26194,
+          "zScore": -0.70926034,
+          "issue": "2011-en"
+        }
+      ],
+      "name": "health system"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5384",
+      "values": [
+        {
+          "score": 209.77325,
+          "zScore": -0.606139,
+          "issue": "2011-en"
+        },
+        {
+          "score": 995.41095,
+          "zScore": -0.3507761,
+          "issue": "2012-en"
+        },
+        {
+          "score": 101.10574,
+          "zScore": -0.6075629,
+          "issue": "2013-en"
+        },
+        {
+          "score": 372.43445,
+          "zScore": -0.7519884,
+          "issue": "2015-en"
+        },
+        {
+          "score": 87.578674,
+          "zScore": -0.9989099,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "structural reform"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5806",
+      "values": [
+        {
+          "score": 559.1511,
+          "zScore": -0.2801243,
+          "issue": "2011-en"
+        },
+        {
+          "score": 131.4297,
+          "zScore": -0.5327675,
+          "issue": "2013-en"
+        },
+        {
+          "score": 104.67251,
+          "zScore": 3.64126,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "current account"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5807",
+      "values": [
+        {
+          "score": 112.742035,
+          "zScore": -0.6966816,
+          "issue": "2011-en"
+        },
+        {
+          "score": 21.54381,
+          "zScore": -0.80380595,
+          "issue": "2013-en"
+        }
+      ],
+      "name": "current account imbalances"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5812",
+      "values": [
+        {
+          "score": 137.97247,
+          "zScore": -0.6731384,
+          "issue": "2011-en"
+        },
+        {
+          "score": 66.31877,
+          "zScore": 1.7805156,
+          "issue": "2014-en"
+        },
+        {
+          "score": 190.1556,
+          "zScore": -0.8650534,
+          "issue": "2015-en"
+        },
+        {
+          "score": 60.537434,
+          "zScore": -1.0739453,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "product market regulation"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5904",
+      "values": [
+        {
+          "score": 546.8253,
+          "zScore": -0.2916259,
+          "issue": "2011-en"
+        },
+        {
+          "score": 304.35474,
+          "zScore": -0.106240064,
+          "issue": "2013-en"
+        },
+        {
+          "score": 514.2514,
+          "zScore": -0.6640213,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "purchasing power parity"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T729",
+      "values": [
+        {
+          "score": 371.22772,
+          "zScore": -0.4554811,
+          "issue": "2011-en"
+        }
+      ],
+      "name": "health services"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T813",
+      "values": [
+        {
+          "score": 8896.823,
+          "zScore": 7.500001,
+          "issue": "2011-en"
+        },
+        {
+          "score": 7976.945,
+          "zScore": 6.062211,
+          "issue": "2012-en"
+        },
+        {
+          "score": 3162.2915,
+          "zScore": 6.94299,
+          "issue": "2013-en"
+        },
+        {
+          "score": 8468.433,
+          "zScore": 4.2698483,
+          "issue": "2015-en"
+        },
+        {
+          "score": 1358.2365,
+          "zScore": 2.526979,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "gross domestic product"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T857",
+      "values": [
+        {
+          "score": 108.73515,
+          "zScore": -0.7004206,
+          "issue": "2011-en"
+        }
+      ],
+      "name": "savings ratio"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Chile",
+      "values": [
+        {
+          "score": 124.925735,
+          "zScore": -0.6211407,
+          "issue": "2012-en"
+        }
+      ],
+      "name": "Chile"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Estonia",
+      "values": [
+        {
+          "score": 92.81446,
+          "zScore": -0.67125607,
+          "issue": "2012-en"
+        },
+        {
+          "score": 30.889835,
+          "zScore": -0.63511735,
+          "issue": "2013-en"
+        }
+      ],
+      "name": "Estonia"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Indonesia",
+      "values": [
+        {
+          "score": 88.39807,
+          "zScore": -0.67814857,
+          "issue": "2012-en"
+        },
+        {
+          "score": 51.910866,
+          "zScore": -0.55925906,
+          "issue": "2013-en"
+        },
+        {
+          "score": 16.073854,
+          "zScore": -0.6742145,
+          "issue": "2014-en"
+        },
+        {
+          "score": 82.889305,
+          "zScore": -0.5588177,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "Indonesia"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Ireland",
+      "values": [
+        {
+          "score": 301.37878,
+          "zScore": -0.3457545,
+          "issue": "2012-en"
+        },
+        {
+          "score": 154.45473,
+          "zScore": -0.54277295,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "Ireland"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Israel",
+      "values": [
+        {
+          "score": 105.9866,
+          "zScore": -0.6506986,
+          "issue": "2012-en"
+        }
+      ],
+      "name": "Israel"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Portugal",
+      "values": [
+        {
+          "score": 459.39355,
+          "zScore": -0.09914451,
+          "issue": "2012-en"
+        },
+        {
+          "score": 232.12231,
+          "zScore": -0.16731098,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "Portugal"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#RussianFederation",
+      "values": [
+        {
+          "score": 109.02149,
+          "zScore": -0.6459621,
+          "issue": "2012-en"
+        },
+        {
+          "score": 16.863232,
+          "zScore": -0.63971275,
+          "issue": "2014-en"
+        },
+        {
+          "score": 171.52792,
+          "zScore": -0.37310556,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "Russian Federation"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Spain",
+      "values": [
+        {
+          "score": 122.69059,
+          "zScore": -0.6246291,
+          "issue": "2012-en"
+        },
+        {
+          "score": 230.86426,
+          "zScore": -0.1733927,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "Spain"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2739",
+      "values": [
+        {
+          "score": 360.144,
+          "zScore": -0.93430954,
+          "issue": "2012-en"
+        }
+      ],
+      "name": "labour productivity"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2836",
+      "values": [
+        {
+          "score": 1306.9049,
+          "zScore": -0.06464889,
+          "issue": "2012-en"
+        },
+        {
+          "score": 150.45097,
+          "zScore": -0.48585063,
+          "issue": "2013-en"
+        },
+        {
+          "score": 15.193459,
+          "zScore": -0.69984615,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "labour market"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2852",
+      "values": [
+        {
+          "score": 868.183,
+          "zScore": -0.46764314,
+          "issue": "2012-en"
+        },
+        {
+          "score": 35.05194,
+          "zScore": -0.77048755,
+          "issue": "2013-en"
+        },
+        {
+          "score": 300.80594,
+          "zScore": -0.7964186,
+          "issue": "2015-en"
+        },
+        {
+          "score": 107.92874,
+          "zScore": -0.94244146,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "employment security"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2940",
+      "values": [
+        {
+          "score": 1624.0468,
+          "zScore": 0.22666626,
+          "issue": "2012-en"
+        },
+        {
+          "score": 1068.8247,
+          "zScore": -0.32002705,
+          "issue": "2015-en"
+        },
+        {
+          "score": 260.5745,
+          "zScore": -0.5188719,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "wages"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T3900",
+      "values": [
+        {
+          "score": 458.03342,
+          "zScore": -0.8443918,
+          "issue": "2012-en"
+        },
+        {
+          "score": 363.224,
+          "zScore": -0.7577015,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "economic projections"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5646",
+      "values": [
+        {
+          "score": 188.83684,
+          "zScore": -1.0916662,
+          "issue": "2012-en"
+        }
+      ],
+      "name": "upper secondary level of education"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5808",
+      "values": [
+        {
+          "score": 942.0232,
+          "zScore": -0.3998162,
+          "issue": "2012-en"
+        },
+        {
+          "score": 54.01895,
+          "zScore": -0.7237046,
+          "issue": "2013-en"
+        }
+      ],
+      "name": "income inequality"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T655",
+      "values": [
+        {
+          "score": 2217.6086,
+          "zScore": 0.771891,
+          "issue": "2012-en"
+        },
+        {
+          "score": 1465.6417,
+          "zScore": -0.07388691,
+          "issue": "2015-en"
+        },
+        {
+          "score": 573.81494,
+          "zScore": 0.35032436,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "income"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T6718",
+      "values": [
+        {
+          "score": 248.63573,
+          "zScore": -1.0367371,
+          "issue": "2012-en"
+        }
+      ],
+      "name": "macroeconomic shocks"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T697",
+      "values": [
+        {
+          "score": 1855.4558,
+          "zScore": 0.43923035,
+          "issue": "2012-en"
+        },
+        {
+          "score": 22.919603,
+          "zScore": -0.8004125,
+          "issue": "2013-en"
+        }
+      ],
+      "name": "unemployment insurance"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T817",
+      "values": [
+        {
+          "score": 423.9221,
+          "zScore": -0.87572527,
+          "issue": "2012-en"
+        }
+      ],
+      "name": "national accounts"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#CentralAndEasternEurope",
+      "values": [
+        {
+          "score": 3.1828122,
+          "zScore": -0.73510337,
+          "issue": "2013-en"
+        }
+      ],
+      "name": "Central and Eastern Europe"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#EuropeanUnionCountries",
+      "values": [
+        {
+          "score": 1471.6292,
+          "zScore": 4.564061,
+          "issue": "2013-en"
+        },
+        {
+          "score": 42.895348,
+          "zScore": -0.6426114,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "European Union"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#India",
+      "values": [
+        {
+          "score": 38.192986,
+          "zScore": -0.60876256,
+          "issue": "2013-en"
+        },
+        {
+          "score": 11.8262,
+          "zScore": -0.85986924,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "India"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2055",
+      "values": [
+        {
+          "score": 38.957134,
+          "zScore": -0.76085526,
+          "issue": "2013-en"
+        }
+      ],
+      "name": "energy"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T3595",
+      "values": [
+        {
+          "score": 242.75046,
+          "zScore": -0.2581898,
+          "issue": "2013-en"
+        },
+        {
+          "score": 18.683573,
+          "zScore": -0.5305221,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "recommendations"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5537",
+      "values": [
+        {
+          "score": 573.25323,
+          "zScore": 0.55701023,
+          "issue": "2013-en"
+        }
+      ],
+      "name": "greenhouse gas emissions"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T6714",
+      "values": [
+        {
+          "score": 17.789404,
+          "zScore": -0.8130664,
+          "issue": "2013-en"
+        },
+        {
+          "score": 50.983814,
+          "zScore": -1.1004552,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "product market reform"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#AdvancedCountries",
+      "values": [
+        {
+          "score": 96.81847,
+          "zScore": 2.8549361,
+          "issue": "2014-en"
+        },
+        {
+          "score": 29.688868,
+          "zScore": -0.6702811,
+          "issue": "2015-en"
+        },
+        {
+          "score": 92.55301,
+          "zScore": -0.84201926,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "Advanced countries"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#G20Countries",
+      "values": [
+        {
+          "score": 4.1145515,
+          "zScore": -1.1969266,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "G20 countries"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NonOECDCountries",
+      "values": [
+        {
+          "score": 16.445679,
+          "zScore": -0.657963,
+          "issue": "2014-en"
+        },
+        {
+          "score": 56.982174,
+          "zScore": -0.61309725,
+          "issue": "2015-en"
+        },
+        {
+          "score": 48.247086,
+          "zScore": -1.0562037,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "Non-OECD countries"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#PriorityCountries",
+      "values": [
+        {
+          "score": 8.672703,
+          "zScore": -0.99770087,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "Priority countries"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T1000",
+      "values": [
+        {
+          "score": 11.474323,
+          "zScore": -0.88028127,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "employment creation"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T234",
+      "values": [
+        {
+          "score": 59.486538,
+          "zScore": 1.4490474,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "productivity"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5282",
+      "values": [
+        {
+          "score": 22.221912,
+          "zScore": -0.35885838,
+          "issue": "2014-en"
+        },
+        {
+          "score": 171.19762,
+          "zScore": -0.76687956,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "intangible assets"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5586",
+      "values": [
+        {
+          "score": 14.380692,
+          "zScore": -0.73927784,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "policy objectives"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5675",
+      "values": [
+        {
+          "score": 24.153568,
+          "zScore": -0.26514342,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "labour force participation"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5813",
+      "values": [
+        {
+          "score": 7.070616,
+          "zScore": -1.0939286,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "product markets"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T612",
+      "values": [
+        {
+          "score": 21.579628,
+          "zScore": -0.390019,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "growth potential"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T6339",
+      "values": [
+        {
+          "score": 4.704726,
+          "zScore": -1.2087106,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "emerging markets"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T6715",
+      "values": [
+        {
+          "score": 4.81091,
+          "zScore": -1.2035589,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "labour market reform"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T779",
+      "values": [
+        {
+          "score": 42.58733,
+          "zScore": 0.6291767,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "indicators"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T913",
+      "values": [
+        {
+          "score": 26.942186,
+          "zScore": -0.1298527,
+          "issue": "2014-en"
+        }
+      ],
+      "name": "enterprises"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2865",
+      "values": [
+        {
+          "score": 665.67163,
+          "zScore": -0.5700974,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "structural unemployment"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T4679",
+      "values": [
+        {
+          "score": 4719.326,
+          "zScore": 1.9443289,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "distribution"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T4931",
+      "values": [
+        {
+          "score": 317.71173,
+          "zScore": -0.7859321,
+          "issue": "2015-en"
+        },
+        {
+          "score": 72.89143,
+          "zScore": -1.0396649,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "social security contributions"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5343",
+      "values": [
+        {
+          "score": 614.9218,
+          "zScore": -0.6015768,
+          "issue": "2015-en"
+        }
+      ],
+      "name": "employment rate"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T873",
+      "values": [
+        {
+          "score": 3657.7114,
+          "zScore": 1.2858238,
+          "issue": "2015-en"
+        },
+        {
+          "score": 521.4907,
+          "zScore": 0.20513235,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "household income"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Italy",
+      "values": [
+        {
+          "score": 222.93607,
+          "zScore": -0.2117193,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "Italy"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthKorea",
+      "values": [
+        {
+          "score": 181.6942,
+          "zScore": -0.41109142,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "Republic of Korea"
+    },
+    {
+      "type": "coverage",
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Switzerland",
+      "values": [
+        {
+          "score": 206.9213,
+          "zScore": -0.28913817,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "Switzerland"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T1069",
+      "values": [
+        {
+          "score": 305.06757,
+          "zScore": -0.39541015,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "workers"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T4291",
+      "values": [
+        {
+          "score": 466.9981,
+          "zScore": 0.05392334,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "capital income"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T6150",
+      "values": [
+        {
+          "score": 208.48207,
+          "zScore": -0.66342074,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "disposable income"
+    },
+    {
+      "type": "subject",
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T6717",
+      "values": [
+        {
+          "score": 1133.0568,
+          "zScore": 1.9021384,
+          "issue": "2016-en"
+        }
+      ],
+      "name": "labour share"
+    }
+  ]
+}

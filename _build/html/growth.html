@@ -1,0 +1,107 @@
+<html xmlns:v-bind="https://vuejs.org/v2/api/#v-bind" xmlns:v-on="https://vuejs.org/v2/api/#v-on">
+   <head>
+      <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+      <meta charset="utf-8">
+      <meta http-equiv="X-UA-Compatible" content="IE=edge">
+      <meta name="viewport" content="width=device-width, initial-scale=1">
+      <title>Economic Policy Reforms: Going for Growth</title>
+      <link rel="stylesheet" href="vendor/jqcloud.min.css">
+      <link rel="stylesheet" href="oecd.css"><script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/tether/1.4.0/js/tether.min.js" integrity="sha384-DztdAPBWPRXSA/3eYEEUWrWCy7G5KFbe8fFjk5JAIxUYHKkDx6Qin1DkWx51bBrb" crossorigin="anonymous"></script><script src="//maxcdn.bootstrapcdn.com/bootstrap/4.0.0-alpha.6/js/bootstrap.min.js" integrity="sha384-vBWWzlZJ8ea9aCX4pEW3rVHjgjt7zpkNpZk+02D9phzyeVkE+jo0ieGizqPLForn" crossorigin="anonymous"></script><script src="//cdnjs.cloudflare.com/ajax/libs/lodash.js/4.17.4/lodash.min.js"></script><script src="//cdnjs.cloudflare.com/ajax/libs/moment.js/2.18.1/moment.min.js" integrity="sha256-1hjUhpc44NwiNg8OwMu2QzJXhD8kcj+sJA3aCQZoUjg=" crossorigin="anonymous"></script><script src="//cdnjs.cloudflare.com/ajax/libs/Chart.js/2.5.0/Chart.bundle.min.js" integrity="sha256-+q+dGCSrVbejd3MDuzJHKsk2eXd4sF5XYEMfPZsOnYE=" crossorigin="anonymous"></script><script src="//cdnjs.cloudflare.com/ajax/libs/vue/2.2.6/vue.min.js" integrity="sha256-cWZZjnj99rynB+b8FaNGUivxc1kJSRa8ZM/E77cDq0I=" crossorigin="anonymous"></script><script src="//use.fontawesome.com/a87953a319.js"></script><script src="vendor/jqcloud.min.js"></script><script src="vendor/store.modern.min.js"></script><script src="oecd.js"></script></head>
+   <body><a name="top"></a><nav class="navbar navbar-toggleable-md navbar-light bg-faded">
+         <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+            </button>
+         <a class="navbar-brand" href="/">Semantic POC</a>
+         
+         
+         <div class="collapse navbar-collapse" id="navbarsExampleDefault">
+            
+            <ul class="navbar-nav mr-auto">
+               
+               <li class="nav-item active">
+                  <a class="nav-link" href="/growth.html">Going for Growth</a>
+                  
+               </li>
+               
+            </ul>
+            
+         </div>
+         
+      </nav>
+      <div class="container" id="main">
+         
+         <h1>Economic Policy Reforms: Going for Growth</h1>
+         
+         <div class="row">
+            
+            <div class="col-2">
+               
+               <div class="info-box">
+                  English<br>
+                  Annual<br>
+                  ISSN: ... (online)<br>
+                  ISSN: ... (print)<br>
+                  DOI: 10.1787/16097408<br>
+                  
+               </div>
+               
+            </div>
+            
+            <div class="col">
+               
+               <p>
+                  Going for Growth builds on OECD expertise on structural policy reforms and economic performance to provide policy makers with
+                  a set of concrete recommendations on reform areas identified as priorities for strong and inclusive growth.
+                  
+               </p>
+               
+               <p>
+                  The priorities broadly cover product and labour market regulation, education and training, tax and transfer systems, trade
+                  and investment rules, as well as innovation policies. The Going for Growth framework has been instrumental in helping G20
+                  countries make progress on their structural reform agenda, including through monitoring their growth strategies to achieve
+                  sustained and balanced growth.
+                  
+               </p>
+               
+            </div>
+            
+         </div>
+         
+         
+         <e-timeline v-bind:dataset="publication" v-on:click-issue="issueClicked">
+            
+         </e-timeline>
+         
+         
+         <div class="row">
+            
+            <div class="col-2">
+               
+               <e-volumes-issues v-bind:publication="publication" v-on:click-issue="issueClicked">
+                  
+               </e-volumes-issues>
+               
+            </div>
+            
+            <div class="col">
+               
+               <e-issue-summary v-if="current.what === 'issue'" v-bind:publication="publication" v-bind:issue="current.issue">
+                  
+               </e-issue-summary>
+               
+               <e-topic-summary what="subject" v-if="current.what === 'subject'" v-bind:topic="current.subject" v-bind:publication="publication" v-bind:issue="current.issue">
+                  
+               </e-topic-summary>
+               
+               <e-topic-summary what="country" v-if="current.what === 'country'" v-bind:topic="current.country" v-bind:publication="publication" v-bind:issue="current.issue">
+                  
+               </e-topic-summary>
+               
+            </div>
+            
+         </div>
+         
+      </div><script>
+      publicationMain("growth", "#main");
+    </script></body>
+</html>

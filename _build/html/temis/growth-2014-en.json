@@ -1,0 +1,212 @@
+[
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#AdvancedCountries",
+    "zScore": 2.8549361,
+    "name": "Advanced countries",
+    "type": "coverage",
+    "score": 96.81847
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#China",
+    "zScore": 1.0834459,
+    "name": "China",
+    "type": "coverage",
+    "score": 56.28795
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#G20Countries",
+    "zScore": -1.1969266,
+    "name": "G20 countries",
+    "type": "coverage",
+    "score": 4.1145515
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#India",
+    "zScore": -0.85986924,
+    "name": "India",
+    "type": "coverage",
+    "score": 11.8262
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Indonesia",
+    "zScore": -0.6742145,
+    "name": "Indonesia",
+    "type": "coverage",
+    "score": 16.073854
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Japan",
+    "zScore": -0.009760692,
+    "name": "Japan",
+    "type": "coverage",
+    "score": 31.276114
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NewZealand",
+    "zScore": -0.4838939,
+    "name": "New Zealand",
+    "type": "coverage",
+    "score": 20.428263
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NonOECDCountries",
+    "zScore": -0.657963,
+    "name": "Non-OECD countries",
+    "type": "coverage",
+    "score": 16.445679
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries",
+    "zScore": 2.3033776,
+    "name": "OECD countries",
+    "type": "coverage",
+    "score": 84.19917
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#PriorityCountries",
+    "zScore": -0.99770087,
+    "name": "Priority countries",
+    "type": "coverage",
+    "score": 8.672703
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#RussianFederation",
+    "zScore": -0.63971275,
+    "name": "Russian Federation",
+    "type": "coverage",
+    "score": 16.863232
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia",
+    "zScore": -1.0582881,
+    "name": "Slovak Republic",
+    "type": "coverage",
+    "score": 7.2865067
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthAfrica",
+    "zScore": 0.9232856,
+    "name": "South Africa",
+    "type": "coverage",
+    "score": 52.62359
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom",
+    "zScore": -0.92166996,
+    "name": "United Kingdom",
+    "type": "coverage",
+    "score": 10.41224
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates",
+    "zScore": 0.33495572,
+    "name": "United States",
+    "type": "coverage",
+    "score": 39.162994
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T1000",
+    "zScore": -0.88028127,
+    "name": "employment creation",
+    "type": "subject",
+    "score": 11.474323
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T234",
+    "zScore": 1.4490474,
+    "name": "productivity",
+    "type": "subject",
+    "score": 59.486538
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T2836",
+    "zScore": -0.69984615,
+    "name": "labour market",
+    "type": "subject",
+    "score": 15.193459
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T3595",
+    "zScore": -0.5305221,
+    "name": "recommendations",
+    "type": "subject",
+    "score": 18.683573
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5282",
+    "zScore": -0.35885838,
+    "name": "intangible assets",
+    "type": "subject",
+    "score": 22.221912
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5586",
+    "zScore": -0.73927784,
+    "name": "policy objectives",
+    "type": "subject",
+    "score": 14.380692
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5675",
+    "zScore": -0.26514342,
+    "name": "labour force participation",
+    "type": "subject",
+    "score": 24.153568
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5806",
+    "zScore": 3.64126,
+    "name": "current account",
+    "type": "subject",
+    "score": 104.67251
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5812",
+    "zScore": 1.7805156,
+    "name": "product market regulation",
+    "type": "subject",
+    "score": 66.31877
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T5813",
+    "zScore": -1.0939286,
+    "name": "product markets",
+    "type": "subject",
+    "score": 7.070616
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T612",
+    "zScore": -0.390019,
+    "name": "growth potential",
+    "type": "subject",
+    "score": 21.579628
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T6339",
+    "zScore": -1.2087106,
+    "name": "emerging markets",
+    "type": "subject",
+    "score": 4.704726
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T6715",
+    "zScore": -1.2035589,
+    "name": "labour market reform",
+    "type": "subject",
+    "score": 4.81091
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T779",
+    "zScore": 0.6291767,
+    "name": "indicators",
+    "type": "subject",
+    "score": 42.58733
+  },
+  {
+    "uri": "http://kim.oecd.org/Taxonomy/Topics#T913",
+    "zScore": -0.1298527,
+    "name": "enterprises",
+    "type": "subject",
+    "score": 26.942186
+  }
+]

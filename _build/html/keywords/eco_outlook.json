@@ -1,0 +1,2288 @@
+{
+  "base": "eco_outlook",
+  "keywords": [
+    {
+      "type": "coverage",
+      "name": "Advanced countries",
+      "values": [
+        {
+          "zScore": -0.6957615,
+          "issue": "v2011-1-en",
+          "score": 63.4101
+        },
+        {
+          "zScore": -0.6602118,
+          "issue": "v2013-1-en",
+          "score": 38.182312
+        },
+        {
+          "zScore": -0.6213509,
+          "issue": "v2013-2-en",
+          "score": 103.7925
+        },
+        {
+          "zScore": -0.58118653,
+          "issue": "v2015-1-en",
+          "score": 180.44336
+        },
+        {
+          "zScore": -0.5979757,
+          "issue": "v2015-2-en",
+          "score": 280.16324
+        },
+        {
+          "zScore": 0.83168054,
+          "issue": "v2016-1-en",
+          "score": 818.98456
+        },
+        {
+          "zScore": 1.2975986,
+          "issue": "v2016-2-en",
+          "score": 2314.8396
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#AdvancedCountries"
+    },
+    {
+      "type": "coverage",
+      "name": "China",
+      "values": [
+        {
+          "zScore": -0.6049252,
+          "issue": "v2011-1-en",
+          "score": 102.31976
+        },
+        {
+          "zScore": -0.5349519,
+          "issue": "v2012-1-en",
+          "score": 227.77513
+        },
+        {
+          "zScore": -0.5273725,
+          "issue": "v2012-2-en",
+          "score": 197.61508
+        },
+        {
+          "zScore": -0.45508942,
+          "issue": "v2013-1-en",
+          "score": 516.6196
+        },
+        {
+          "zScore": -0.56599796,
+          "issue": "v2013-2-en",
+          "score": 296.49863
+        },
+        {
+          "zScore": -0.18540072,
+          "issue": "v2014-1-en",
+          "score": 724.842
+        },
+        {
+          "zScore": -0.5747365,
+          "issue": "v2014-2-en",
+          "score": 231.08434
+        },
+        {
+          "zScore": -0.58883756,
+          "issue": "v2015-1-en",
+          "score": 162.14067
+        },
+        {
+          "zScore": 0.98978114,
+          "issue": "v2015-2-en",
+          "score": 3187.0513
+        },
+        {
+          "zScore": -0.12725338,
+          "issue": "v2016-1-en",
+          "score": 372.74084
+        },
+        {
+          "zScore": -0.6290107,
+          "issue": "v2016-2-en",
+          "score": 199.92949
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#China"
+    },
+    {
+      "type": "coverage",
+      "name": "Euro area",
+      "values": [
+        {
+          "zScore": 2.8389103,
+          "issue": "v2011-1-en",
+          "score": 1577.4849
+        },
+        {
+          "zScore": 7.5000005,
+          "issue": "v2011-2-en",
+          "score": 34930.938
+        },
+        {
+          "zScore": 7.326899,
+          "issue": "v2012-1-en",
+          "score": 17141.924
+        },
+        {
+          "zScore": 7.499999,
+          "issue": "v2012-2-en",
+          "score": 62519.344
+        },
+        {
+          "zScore": 7.3031445,
+          "issue": "v2013-1-en",
+          "score": 18612.293
+        },
+        {
+          "zScore": 6.83455,
+          "issue": "v2013-2-en",
+          "score": 26060.834
+        },
+        {
+          "zScore": 7.0169206,
+          "issue": "v2014-1-en",
+          "score": 8913.136
+        },
+        {
+          "zScore": 7.3404355,
+          "issue": "v2014-2-en",
+          "score": 30940.127
+        },
+        {
+          "zScore": 5.919895,
+          "issue": "v2015-1-en",
+          "score": 15732.264
+        },
+        {
+          "zScore": 5.7311068,
+          "issue": "v2015-2-en",
+          "score": 11867.538
+        },
+        {
+          "zScore": 4.793413,
+          "issue": "v2016-1-en",
+          "score": 2662.5925
+        },
+        {
+          "zScore": 4.8501477,
+          "issue": "v2016-2-en",
+          "score": 6214.6045
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#EuroAreaCountries"
+    },
+    {
+      "type": "coverage",
+      "name": "Germany",
+      "values": [
+        {
+          "zScore": -0.62848324,
+          "issue": "v2011-1-en",
+          "score": 92.22871
+        },
+        {
+          "zScore": -0.6061152,
+          "issue": "v2014-2-en",
+          "score": 109.34184
+        },
+        {
+          "zScore": -0.7620592,
+          "issue": "v2016-2-en",
+          "score": 53.877228
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Germany"
+    },
+    {
+      "type": "coverage",
+      "name": "Greece",
+      "values": [
+        {
+          "zScore": -0.6835459,
+          "issue": "v2011-1-en",
+          "score": 68.642624
+        },
+        {
+          "zScore": -0.5581249,
+          "issue": "v2011-2-en",
+          "score": 76.142235
+        },
+        {
+          "zScore": -0.59041387,
+          "issue": "v2012-1-en",
+          "score": 108.45313
+        },
+        {
+          "zScore": -0.54558724,
+          "issue": "v2012-2-en",
+          "score": 56.20188
+        },
+        {
+          "zScore": -0.65104604,
+          "issue": "v2013-1-en",
+          "score": 59.561024
+        },
+        {
+          "zScore": -0.6137456,
+          "issue": "v2013-2-en",
+          "score": 130.26958
+        },
+        {
+          "zScore": -0.7350361,
+          "issue": "v2014-1-en",
+          "score": 99.963524
+        },
+        {
+          "zScore": -0.6274242,
+          "issue": "v2015-1-en",
+          "score": 69.83407
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Greece"
+    },
+    {
+      "type": "coverage",
+      "name": "Ireland",
+      "values": [
+        {
+          "zScore": -0.6295818,
+          "issue": "v2011-1-en",
+          "score": 91.75812
+        },
+        {
+          "zScore": -0.5599923,
+          "issue": "v2011-2-en",
+          "score": 68.064964
+        },
+        {
+          "zScore": -0.6242936,
+          "issue": "v2012-1-en",
+          "score": 35.563576
+        },
+        {
+          "zScore": -0.5463552,
+          "issue": "v2012-2-en",
+          "score": 50.239876
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Ireland"
+    },
+    {
+      "type": "coverage",
+      "name": "Japan",
+      "values": [
+        {
+          "zScore": 2.3506267,
+          "issue": "v2011-1-en",
+          "score": 1368.3289
+        },
+        {
+          "zScore": -0.51353514,
+          "issue": "v2011-2-en",
+          "score": 269.01205
+        },
+        {
+          "zScore": -0.307388,
+          "issue": "v2012-1-en",
+          "score": 717.36084
+        },
+        {
+          "zScore": -0.5124981,
+          "issue": "v2012-2-en",
+          "score": 313.09445
+        },
+        {
+          "zScore": -0.067761615,
+          "issue": "v2013-1-en",
+          "score": 1420.0414
+        },
+        {
+          "zScore": -0.31596565,
+          "issue": "v2013-2-en",
+          "score": 1166.9635
+        },
+        {
+          "zScore": -0.12751372,
+          "issue": "v2014-1-en",
+          "score": 790.6535
+        },
+        {
+          "zScore": -0.39345327,
+          "issue": "v2014-2-en",
+          "score": 934.42114
+        },
+        {
+          "zScore": -0.16959794,
+          "issue": "v2015-1-en",
+          "score": 1165.0414
+        },
+        {
+          "zScore": -0.19086811,
+          "issue": "v2015-2-en",
+          "score": 1025.5016
+        },
+        {
+          "zScore": -0.2482206,
+          "issue": "v2016-1-en",
+          "score": 316.44827
+        },
+        {
+          "zScore": -0.017409252,
+          "issue": "v2016-2-en",
+          "score": 871.307
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Japan"
+    },
+    {
+      "type": "coverage",
+      "name": "MENA countries",
+      "values": [
+        {
+          "zScore": -0.80360734,
+          "issue": "v2011-1-en",
+          "score": 17.214396
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#MENACountries"
+    },
+    {
+      "type": "coverage",
+      "name": "Non-OECD countries",
+      "values": [
+        {
+          "zScore": -0.7782364,
+          "issue": "v2011-1-en",
+          "score": 28.081995
+        },
+        {
+          "zScore": -0.5725725,
+          "issue": "v2011-2-en",
+          "score": 13.650403
+        },
+        {
+          "zScore": -0.5753894,
+          "issue": "v2012-1-en",
+          "score": 140.77715
+        },
+        {
+          "zScore": -0.5503022,
+          "issue": "v2012-2-en",
+          "score": 19.596405
+        },
+        {
+          "zScore": -0.6506386,
+          "issue": "v2013-1-en",
+          "score": 60.51146
+        },
+        {
+          "zScore": -0.49758008,
+          "issue": "v2013-2-en",
+          "score": 534.68933
+        },
+        {
+          "zScore": -0.62955767,
+          "issue": "v2014-1-en",
+          "score": 219.88152
+        },
+        {
+          "zScore": -0.644416,
+          "issue": "v2015-1-en",
+          "score": 29.186522
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#NonOECDCountries"
+    },
+    {
+      "type": "coverage",
+      "name": "OECD area",
+      "values": [
+        {
+          "zScore": -0.7525358,
+          "issue": "v2011-1-en",
+          "score": 39.09086
+        },
+        {
+          "zScore": -0.56243396,
+          "issue": "v2011-2-en",
+          "score": 57.503853
+        },
+        {
+          "zScore": -0.5498508,
+          "issue": "v2012-2-en",
+          "score": 23.100487
+        },
+        {
+          "zScore": -0.6100314,
+          "issue": "v2014-2-en",
+          "score": 94.14803
+        },
+        {
+          "zScore": -0.6093838,
+          "issue": "v2015-1-en",
+          "score": 112.99007
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDArea"
+    },
+    {
+      "type": "coverage",
+      "name": "OECD countries",
+      "values": [
+        {
+          "zScore": 0.7982508,
+          "issue": "v2011-1-en",
+          "score": 703.36945
+        },
+        {
+          "zScore": -0.5115982,
+          "issue": "v2012-1-en",
+          "score": 278.01877
+        },
+        {
+          "zScore": -0.5349873,
+          "issue": "v2013-1-en",
+          "score": 330.2621
+        },
+        {
+          "zScore": -0.612992,
+          "issue": "v2013-2-en",
+          "score": 132.89322
+        },
+        {
+          "zScore": -0.23830257,
+          "issue": "v2014-1-en",
+          "score": 664.69806
+        },
+        {
+          "zScore": -0.5283563,
+          "issue": "v2015-1-en",
+          "score": 306.82336
+        },
+        {
+          "zScore": -0.5770446,
+          "issue": "v2016-1-en",
+          "score": 163.42871
+        },
+        {
+          "zScore": -0.5645102,
+          "issue": "v2016-2-en",
+          "score": 270.73407
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#OECDCountries"
+    },
+    {
+      "type": "coverage",
+      "name": "Portugal",
+      "values": [
+        {
+          "zScore": -0.66089225,
+          "issue": "v2011-1-en",
+          "score": 78.34632
+        },
+        {
+          "zScore": -0.72525805,
+          "issue": "v2014-1-en",
+          "score": 111.080086
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Portugal"
+    },
+    {
+      "type": "coverage",
+      "name": "Spain",
+      "values": [
+        {
+          "zScore": -0.7076123,
+          "issue": "v2011-1-en",
+          "score": 58.33381
+        },
+        {
+          "zScore": -0.5601023,
+          "issue": "v2011-2-en",
+          "score": 67.58938
+        },
+        {
+          "zScore": -0.54640037,
+          "issue": "v2012-2-en",
+          "score": 49.88884
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Spain"
+    },
+    {
+      "type": "coverage",
+      "name": "United Kingdom",
+      "values": [
+        {
+          "zScore": -0.5548176,
+          "issue": "v2011-1-en",
+          "score": 123.78333
+        },
+        {
+          "zScore": -0.5621798,
+          "issue": "v2011-2-en",
+          "score": 58.60324
+        },
+        {
+          "zScore": -0.61414355,
+          "issue": "v2012-1-en",
+          "score": 57.400593
+        },
+        {
+          "zScore": -0.5491765,
+          "issue": "v2012-2-en",
+          "score": 28.335737
+        },
+        {
+          "zScore": -0.626306,
+          "issue": "v2013-1-en",
+          "score": 117.26588
+        },
+        {
+          "zScore": -0.59445906,
+          "issue": "v2013-2-en",
+          "score": 197.41412
+        },
+        {
+          "zScore": -0.65390825,
+          "issue": "v2014-1-en",
+          "score": 192.19737
+        },
+        {
+          "zScore": -0.4784323,
+          "issue": "v2014-2-en",
+          "score": 604.7222
+        },
+        {
+          "zScore": -0.592714,
+          "issue": "v2015-1-en",
+          "score": 152.8674
+        },
+        {
+          "zScore": -0.6569397,
+          "issue": "v2015-2-en",
+          "score": 172.21109
+        },
+        {
+          "zScore": 1.7981529,
+          "issue": "v2016-1-en",
+          "score": 1268.7363
+        },
+        {
+          "zScore": -0.19352442,
+          "issue": "v2016-2-en",
+          "score": 677.9789
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedKingdom"
+    },
+    {
+      "type": "coverage",
+      "name": "United States",
+      "values": [
+        {
+          "zScore": 1.512212,
+          "issue": "v2011-1-en",
+          "score": 1009.19434
+        },
+        {
+          "zScore": -0.26402384,
+          "issue": "v2011-2-en",
+          "score": 1348.2537
+        },
+        {
+          "zScore": 0.17310135,
+          "issue": "v2012-1-en",
+          "score": 1751.0956
+        },
+        {
+          "zScore": -0.42807445,
+          "issue": "v2012-2-en",
+          "score": 968.53015
+        },
+        {
+          "zScore": 0.19685608,
+          "issue": "v2013-1-en",
+          "score": 2037.2483
+        },
+        {
+          "zScore": 0.6654507,
+          "issue": "v2013-2-en",
+          "score": 4583.6753
+        },
+        {
+          "zScore": 0.483079,
+          "issue": "v2014-1-en",
+          "score": 1484.8342
+        },
+        {
+          "zScore": 0.15956481,
+          "issue": "v2014-2-en",
+          "score": 3080.004
+        },
+        {
+          "zScore": 1.5801039,
+          "issue": "v2015-1-en",
+          "score": 5350.66
+        },
+        {
+          "zScore": 0.77911323,
+          "issue": "v2015-2-en",
+          "score": 2801.3574
+        },
+        {
+          "zScore": 0.07675425,
+          "issue": "v2016-1-en",
+          "score": 467.6766
+        },
+        {
+          "zScore": 1.352254,
+          "issue": "v2016-2-en",
+          "score": 2374.837
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#UnitedStates"
+    },
+    {
+      "type": "subject",
+      "name": "commodity prices",
+      "values": [
+        {
+          "zScore": -0.6758264,
+          "issue": "v2011-1-en",
+          "score": 1076.5546
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T1493"
+    },
+    {
+      "type": "subject",
+      "name": "public debt",
+      "values": [
+        {
+          "zScore": -0.8468785,
+          "issue": "v2011-1-en",
+          "score": 512.055
+        },
+        {
+          "zScore": -1.2532477,
+          "issue": "v2011-2-en",
+          "score": 786.9025
+        },
+        {
+          "zScore": -1.2001864,
+          "issue": "v2012-1-en",
+          "score": 754.83325
+        },
+        {
+          "zScore": -0.98724645,
+          "issue": "v2013-1-en",
+          "score": 763.4519
+        },
+        {
+          "zScore": -1.3478843,
+          "issue": "v2013-2-en",
+          "score": 870.5079
+        },
+        {
+          "zScore": -0.5070534,
+          "issue": "v2014-1-en",
+          "score": 2892.1104
+        },
+        {
+          "zScore": -0.8112222,
+          "issue": "v2014-2-en",
+          "score": 851.5531
+        },
+        {
+          "zScore": -0.8588714,
+          "issue": "v2016-2-en",
+          "score": 2338.479
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2561"
+    },
+    {
+      "type": "subject",
+      "name": "debt",
+      "values": [
+        {
+          "zScore": -0.48353577,
+          "issue": "v2011-1-en",
+          "score": 1711.1443
+        },
+        {
+          "zScore": -0.05922131,
+          "issue": "v2011-2-en",
+          "score": 3168.5369
+        },
+        {
+          "zScore": 0.33957395,
+          "issue": "v2012-1-en",
+          "score": 4995.3857
+        },
+        {
+          "zScore": -0.44623232,
+          "issue": "v2013-1-en",
+          "score": 3008.8237
+        },
+        {
+          "zScore": -0.7639469,
+          "issue": "v2016-2-en",
+          "score": 2559.9402
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2562"
+    },
+    {
+      "type": "subject",
+      "name": "monetary policy",
+      "values": [
+        {
+          "zScore": -0.6030692,
+          "issue": "v2011-1-en",
+          "score": 1316.6649
+        },
+        {
+          "zScore": -0.89755446,
+          "issue": "v2011-2-en",
+          "score": 1496.3771
+        },
+        {
+          "zScore": -0.6683285,
+          "issue": "v2012-1-en",
+          "score": 2219.588
+        },
+        {
+          "zScore": -0.4793486,
+          "issue": "v2012-2-en",
+          "score": 1986.7765
+        },
+        {
+          "zScore": 0.5425412,
+          "issue": "v2013-1-en",
+          "score": 7112.5317
+        },
+        {
+          "zScore": 0.84499204,
+          "issue": "v2013-2-en",
+          "score": 6258.619
+        },
+        {
+          "zScore": -0.28226206,
+          "issue": "v2014-1-en",
+          "score": 3573.82
+        },
+        {
+          "zScore": 0.85796964,
+          "issue": "v2014-2-en",
+          "score": 6842.959
+        },
+        {
+          "zScore": -0.5358051,
+          "issue": "v2015-1-en",
+          "score": 2448.1199
+        },
+        {
+          "zScore": 0.6123042,
+          "issue": "v2015-2-en",
+          "score": 4958.0957
+        },
+        {
+          "zScore": -0.19339003,
+          "issue": "v2016-1-en",
+          "score": 3666.165
+        },
+        {
+          "zScore": 0.68573576,
+          "issue": "v2016-2-en",
+          "score": 5942.0845
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2597"
+    },
+    {
+      "type": "subject",
+      "name": "interest rate",
+      "values": [
+        {
+          "zScore": -0.3598369,
+          "issue": "v2011-1-en",
+          "score": 2119.3704
+        },
+        {
+          "zScore": -0.68829876,
+          "issue": "v2011-2-en",
+          "score": 1913.7637
+        },
+        {
+          "zScore": -0.3544207,
+          "issue": "v2012-1-en",
+          "score": 3084.1008
+        },
+        {
+          "zScore": -0.9915919,
+          "issue": "v2012-2-en",
+          "score": 851.3359
+        },
+        {
+          "zScore": -0.5275017,
+          "issue": "v2013-1-en",
+          "score": 2671.5312
+        },
+        {
+          "zScore": -0.24291365,
+          "issue": "v2013-2-en",
+          "score": 3585.5286
+        },
+        {
+          "zScore": -0.21870174,
+          "issue": "v2014-1-en",
+          "score": 3766.5752
+        },
+        {
+          "zScore": -0.42696586,
+          "issue": "v2014-2-en",
+          "score": 2230.8047
+        },
+        {
+          "zScore": -0.529637,
+          "issue": "v2015-1-en",
+          "score": 2491.7256
+        },
+        {
+          "zScore": -0.92488736,
+          "issue": "v2015-2-en",
+          "score": 1691.7823
+        },
+        {
+          "zScore": -0.30284056,
+          "issue": "v2016-1-en",
+          "score": 3321.1045
+        },
+        {
+          "zScore": 1.9475025,
+          "issue": "v2016-2-en",
+          "score": 8885.816
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2616"
+    },
+    {
+      "type": "subject",
+      "name": "exchange rate",
+      "values": [
+        {
+          "zScore": -0.765687,
+          "issue": "v2011-1-en",
+          "score": 779.99994
+        },
+        {
+          "zScore": -1.1124791,
+          "issue": "v2014-1-en",
+          "score": 1056.0764
+        },
+        {
+          "zScore": -0.8450406,
+          "issue": "v2014-2-en",
+          "score": 730.1647
+        },
+        {
+          "zScore": -0.69667065,
+          "issue": "v2015-1-en",
+          "score": 1310.885
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2683"
+    },
+    {
+      "type": "subject",
+      "name": "petroleum prices",
+      "values": [
+        {
+          "zScore": -0.49009696,
+          "issue": "v2011-1-en",
+          "score": 1689.4913
+        },
+        {
+          "zScore": -0.8120995,
+          "issue": "v2012-1-en",
+          "score": 1823.6378
+        },
+        {
+          "zScore": -0.32918516,
+          "issue": "v2015-1-en",
+          "score": 3908.815
+        },
+        {
+          "zScore": -1.0975661,
+          "issue": "v2015-2-en",
+          "score": 1324.8646
+        },
+        {
+          "zScore": -1.000953,
+          "issue": "v2016-1-en",
+          "score": 1120.1921
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T289"
+    },
+    {
+      "type": "subject",
+      "name": "economic projections",
+      "values": [
+        {
+          "zScore": -0.73407286,
+          "issue": "v2011-1-en",
+          "score": 884.3317
+        },
+        {
+          "zScore": -0.94829303,
+          "issue": "v2011-2-en",
+          "score": 1395.1727
+        },
+        {
+          "zScore": -0.9737549,
+          "issue": "v2012-1-en",
+          "score": 1378.4333
+        },
+        {
+          "zScore": -0.9805372,
+          "issue": "v2012-2-en",
+          "score": 875.8399
+        },
+        {
+          "zScore": -0.7768786,
+          "issue": "v2013-1-en",
+          "score": 1636.5421
+        },
+        {
+          "zScore": -1.1981429,
+          "issue": "v2013-2-en",
+          "score": 1238.4371
+        },
+        {
+          "zScore": -0.94010323,
+          "issue": "v2014-1-en",
+          "score": 1578.8292
+        },
+        {
+          "zScore": -0.7844981,
+          "issue": "v2014-2-en",
+          "score": 947.47656
+        },
+        {
+          "zScore": -0.61613786,
+          "issue": "v2015-1-en",
+          "score": 1880.2095
+        },
+        {
+          "zScore": -1.1941742,
+          "issue": "v2015-2-en",
+          "score": 1119.5862
+        },
+        {
+          "zScore": -0.99050486,
+          "issue": "v2016-2-en",
+          "score": 2031.3751
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T3900"
+    },
+    {
+      "type": "subject",
+      "name": "private consumption",
+      "values": [
+        {
+          "zScore": -0.62320596,
+          "issue": "v2011-1-en",
+          "score": 1250.2101
+        },
+        {
+          "zScore": -1.1036026,
+          "issue": "v2012-1-en",
+          "score": 1020.8282
+        },
+        {
+          "zScore": -0.9953353,
+          "issue": "v2012-2-en",
+          "score": 843.0384
+        },
+        {
+          "zScore": -1.0268463,
+          "issue": "v2013-1-en",
+          "score": 599.10034
+        },
+        {
+          "zScore": -1.2190213,
+          "issue": "v2013-2-en",
+          "score": 1187.1367
+        },
+        {
+          "zScore": -1.2167735,
+          "issue": "v2014-1-en",
+          "score": 739.78955
+        },
+        {
+          "zScore": -0.75730413,
+          "issue": "v2014-2-en",
+          "score": 1045.0867
+        },
+        {
+          "zScore": -0.53642416,
+          "issue": "v2015-1-en",
+          "score": 2443.7437
+        },
+        {
+          "zScore": -1.0110769,
+          "issue": "v2015-2-en",
+          "score": 1508.642
+        },
+        {
+          "zScore": -0.47481602,
+          "issue": "v2016-1-en",
+          "score": 2778.924
+        },
+        {
+          "zScore": -0.9487543,
+          "issue": "v2016-2-en",
+          "score": 2128.78
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T4308"
+    },
+    {
+      "type": "subject",
+      "name": "inflation",
+      "values": [
+        {
+          "zScore": 5.006739,
+          "issue": "v2011-1-en",
+          "score": 19829.934
+        },
+        {
+          "zScore": 6.1030917,
+          "issue": "v2011-2-en",
+          "score": 15460.037
+        },
+        {
+          "zScore": 2.801571,
+          "issue": "v2012-1-en",
+          "score": 11775.81
+        },
+        {
+          "zScore": 4.821679,
+          "issue": "v2012-2-en",
+          "score": 13737.056
+        },
+        {
+          "zScore": 3.9837427,
+          "issue": "v2013-1-en",
+          "score": 21394.555
+        },
+        {
+          "zScore": 4.485192,
+          "issue": "v2013-2-en",
+          "score": 15202.946
+        },
+        {
+          "zScore": 4.5857515,
+          "issue": "v2014-1-en",
+          "score": 18336.72
+        },
+        {
+          "zScore": 6.494167,
+          "issue": "v2014-2-en",
+          "score": 27073.555
+        },
+        {
+          "zScore": 0.081745096,
+          "issue": "v2015-1-en",
+          "score": 6813.8765
+        },
+        {
+          "zScore": 3.4931056,
+          "issue": "v2015-2-en",
+          "score": 11079.389
+        },
+        {
+          "zScore": 3.0077047,
+          "issue": "v2016-1-en",
+          "score": 13758.135
+        },
+        {
+          "zScore": 2.0808544,
+          "issue": "v2016-2-en",
+          "score": 9196.93
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T4540"
+    },
+    {
+      "type": "subject",
+      "name": "deficit",
+      "values": [
+        {
+          "zScore": 0.3782116,
+          "issue": "v2011-1-en",
+          "score": 4555.049
+        },
+        {
+          "zScore": -0.17321545,
+          "issue": "v2011-2-en",
+          "score": 2941.1614
+        },
+        {
+          "zScore": -0.019936575,
+          "issue": "v2012-1-en",
+          "score": 4005.2815
+        },
+        {
+          "zScore": 0.4263252,
+          "issue": "v2012-2-en",
+          "score": 3994.2966
+        },
+        {
+          "zScore": -0.24143879,
+          "issue": "v2013-1-en",
+          "score": 3858.7786
+        },
+        {
+          "zScore": -0.7970466,
+          "issue": "v2013-2-en",
+          "score": 2223.9697
+        },
+        {
+          "zScore": -0.8549636,
+          "issue": "v2014-1-en",
+          "score": 1837.0262
+        },
+        {
+          "zScore": -0.6344357,
+          "issue": "v2014-2-en",
+          "score": 1486.1113
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T4543"
+    },
+    {
+      "type": "subject",
+      "name": "unemployment rate",
+      "values": [
+        {
+          "zScore": -0.64597905,
+          "issue": "v2011-1-en",
+          "score": 1175.0554
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5716"
+    },
+    {
+      "type": "subject",
+      "name": "fiscal consolidation",
+      "values": [
+        {
+          "zScore": -0.48754892,
+          "issue": "v2011-1-en",
+          "score": 1697.9003
+        },
+        {
+          "zScore": -0.19665504,
+          "issue": "v2011-2-en",
+          "score": 2894.4082
+        },
+        {
+          "zScore": 1.8553606,
+          "issue": "v2012-1-en",
+          "score": 9169.914
+        },
+        {
+          "zScore": 0.7874186,
+          "issue": "v2012-2-en",
+          "score": 4794.6978
+        },
+        {
+          "zScore": 1.2146271,
+          "issue": "v2013-1-en",
+          "score": 9901.891
+        },
+        {
+          "zScore": 0.33215716,
+          "issue": "v2013-2-en",
+          "score": 4998.5337
+        },
+        {
+          "zScore": -0.03750447,
+          "issue": "v2014-1-en",
+          "score": 4316.08
+        },
+        {
+          "zScore": -0.54600435,
+          "issue": "v2014-2-en",
+          "score": 1803.5273
+        },
+        {
+          "zScore": -0.7138378,
+          "issue": "v2015-1-en",
+          "score": 1189.5219
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5796"
+    },
+    {
+      "type": "subject",
+      "name": "current account",
+      "values": [
+        {
+          "zScore": -0.7842628,
+          "issue": "v2011-1-en",
+          "score": 718.69714
+        },
+        {
+          "zScore": -1.0483701,
+          "issue": "v2012-1-en",
+          "score": 1172.9404
+        },
+        {
+          "zScore": -0.68217075,
+          "issue": "v2012-2-en",
+          "score": 1537.2001
+        },
+        {
+          "zScore": -0.69446045,
+          "issue": "v2013-1-en",
+          "score": 1978.6022
+        },
+        {
+          "zScore": -1.3496928,
+          "issue": "v2013-2-en",
+          "score": 866.06384
+        },
+        {
+          "zScore": -1.0677184,
+          "issue": "v2014-1-en",
+          "score": 1191.8191
+        },
+        {
+          "zScore": -0.8591687,
+          "issue": "v2014-2-en",
+          "score": 679.4533
+        },
+        {
+          "zScore": -0.7912446,
+          "issue": "v2015-1-en",
+          "score": 642.29645
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5806"
+    },
+    {
+      "type": "subject",
+      "name": "gross domestic product",
+      "values": [
+        {
+          "zScore": 2.11505,
+          "issue": "v2011-1-en",
+          "score": 10286.895
+        },
+        {
+          "zScore": 0.108773686,
+          "issue": "v2011-2-en",
+          "score": 3503.6238
+        },
+        {
+          "zScore": 2.5034947,
+          "issue": "v2012-1-en",
+          "score": 10954.897
+        },
+        {
+          "zScore": 0.6311676,
+          "issue": "v2012-2-en",
+          "score": 4448.351
+        },
+        {
+          "zScore": 1.7590878,
+          "issue": "v2013-1-en",
+          "score": 12161.566
+        },
+        {
+          "zScore": 1.1860119,
+          "issue": "v2013-2-en",
+          "score": 7096.538
+        },
+        {
+          "zScore": 2.892117,
+          "issue": "v2014-1-en",
+          "score": 13200.548
+        },
+        {
+          "zScore": -0.107246846,
+          "issue": "v2014-2-en",
+          "score": 3378.4058
+        },
+        {
+          "zScore": -0.40351877,
+          "issue": "v2015-1-en",
+          "score": 3383.3152
+        },
+        {
+          "zScore": 0.10893342,
+          "issue": "v2015-2-en",
+          "score": 3888.5044
+        },
+        {
+          "zScore": 0.553433,
+          "issue": "v2016-2-en",
+          "score": 5633.419
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T813"
+    },
+    {
+      "type": "coverage",
+      "name": "Belgium",
+      "values": [
+        {
+          "zScore": -0.5635413,
+          "issue": "v2011-2-en",
+          "score": 52.714203
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Belgium"
+    },
+    {
+      "type": "coverage",
+      "name": "Brazil",
+      "values": [
+        {
+          "zScore": -0.56575316,
+          "issue": "v2011-2-en",
+          "score": 43.14708
+        },
+        {
+          "zScore": -0.628844,
+          "issue": "v2012-1-en",
+          "score": 25.773863
+        },
+        {
+          "zScore": -0.5467372,
+          "issue": "v2012-2-en",
+          "score": 47.273697
+        },
+        {
+          "zScore": -0.63825214,
+          "issue": "v2013-1-en",
+          "score": 89.40218
+        },
+        {
+          "zScore": -0.5978298,
+          "issue": "v2013-2-en",
+          "score": 185.67906
+        },
+        {
+          "zScore": -0.6217846,
+          "issue": "v2014-2-en",
+          "score": 48.548058
+        },
+        {
+          "zScore": -0.57520413,
+          "issue": "v2015-2-en",
+          "score": 321.8537
+        },
+        {
+          "zScore": -0.77269024,
+          "issue": "v2016-1-en",
+          "score": 72.38423
+        },
+        {
+          "zScore": -0.75617874,
+          "issue": "v2016-2-en",
+          "score": 60.33247
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Brazil"
+    },
+    {
+      "type": "coverage",
+      "name": "Italy",
+      "values": [
+        {
+          "zScore": -0.540543,
+          "issue": "v2011-2-en",
+          "score": 152.19142
+        },
+        {
+          "zScore": -0.6151535,
+          "issue": "v2012-1-en",
+          "score": 55.227757
+        },
+        {
+          "zScore": -0.764104,
+          "issue": "v2016-2-en",
+          "score": 51.632587
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Italy"
+    },
+    {
+      "type": "coverage",
+      "name": "Russian Federation",
+      "values": [
+        {
+          "zScore": -0.5633759,
+          "issue": "v2011-2-en",
+          "score": 53.42978
+        },
+        {
+          "zScore": -0.63078845,
+          "issue": "v2012-1-en",
+          "score": 21.590416
+        },
+        {
+          "zScore": -0.5468227,
+          "issue": "v2012-2-en",
+          "score": 46.609707
+        },
+        {
+          "zScore": -0.6514643,
+          "issue": "v2013-1-en",
+          "score": 58.58555
+        },
+        {
+          "zScore": -0.6210299,
+          "issue": "v2013-2-en",
+          "score": 104.90994
+        },
+        {
+          "zScore": -0.74456257,
+          "issue": "v2014-1-en",
+          "score": 89.13289
+        },
+        {
+          "zScore": -0.5009073,
+          "issue": "v2014-2-en",
+          "score": 517.52435
+        },
+        {
+          "zScore": -0.6074614,
+          "issue": "v2015-1-en",
+          "score": 117.58903
+        },
+        {
+          "zScore": -0.4428282,
+          "issue": "v2015-2-en",
+          "score": 564.2094
+        },
+        {
+          "zScore": -0.7056329,
+          "issue": "v2016-1-en",
+          "score": 103.589615
+        },
+        {
+          "zScore": -0.73136365,
+          "issue": "v2016-2-en",
+          "score": 87.57285
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#RussianFederation"
+    },
+    {
+      "type": "coverage",
+      "name": "South Africa",
+      "values": [
+        {
+          "zScore": -0.56755596,
+          "issue": "v2011-2-en",
+          "score": 35.34906
+        },
+        {
+          "zScore": -0.54983824,
+          "issue": "v2012-2-en",
+          "score": 23.198395
+        },
+        {
+          "zScore": -0.6326366,
+          "issue": "v2013-2-en",
+          "score": 64.50234
+        },
+        {
+          "zScore": -0.72055864,
+          "issue": "v2015-2-en",
+          "score": 55.73643
+        },
+        {
+          "zScore": -0.89612603,
+          "issue": "v2016-1-en",
+          "score": 14.942903
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#SouthAfrica"
+    },
+    {
+      "type": "coverage",
+      "name": "Vulnerable developing countries",
+      "values": [
+        {
+          "zScore": -0.54626554,
+          "issue": "v2011-2-en",
+          "score": 127.439224
+        },
+        {
+          "zScore": -0.5494664,
+          "issue": "v2012-2-en",
+          "score": 26.085545
+        },
+        {
+          "zScore": -0.66098493,
+          "issue": "v2013-1-en",
+          "score": 36.37918
+        },
+        {
+          "zScore": -0.59571123,
+          "issue": "v2013-2-en",
+          "score": 193.05463
+        },
+        {
+          "zScore": -0.47207707,
+          "issue": "v2014-1-en",
+          "score": 398.92065
+        },
+        {
+          "zScore": -0.6109223,
+          "issue": "v2014-2-en",
+          "score": 90.6916
+        },
+        {
+          "zScore": -0.65088457,
+          "issue": "v2015-1-en",
+          "score": 13.7125635
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#VulnerableDevelopingCountries"
+    },
+    {
+      "type": "subject",
+      "name": "risk",
+      "values": [
+        {
+          "zScore": 1.1275791,
+          "issue": "v2011-2-en",
+          "score": 5535.758
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T4268"
+    },
+    {
+      "type": "subject",
+      "name": "projections",
+      "values": [
+        {
+          "zScore": -0.11377027,
+          "issue": "v2011-2-en",
+          "score": 3059.7322
+        },
+        {
+          "zScore": -0.034316935,
+          "issue": "v2012-1-en",
+          "score": 3965.6775
+        },
+        {
+          "zScore": -0.69080126,
+          "issue": "v2012-2-en",
+          "score": 1518.0697
+        },
+        {
+          "zScore": -0.6544056,
+          "issue": "v2013-1-en",
+          "score": 2144.8418
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T4607"
+    },
+    {
+      "type": "subject",
+      "name": "structural reform",
+      "values": [
+        {
+          "zScore": -0.64852744,
+          "issue": "v2011-2-en",
+          "score": 1993.0925
+        },
+        {
+          "zScore": -1.0886555,
+          "issue": "v2012-1-en",
+          "score": 1061.9932
+        },
+        {
+          "zScore": -0.7280344,
+          "issue": "v2014-2-en",
+          "score": 1150.1476
+        },
+        {
+          "zScore": -0.47424418,
+          "issue": "v2015-1-en",
+          "score": 2883.3235
+        },
+        {
+          "zScore": -1.1320616,
+          "issue": "v2015-2-en",
+          "score": 1251.5668
+        },
+        {
+          "zScore": -0.8686637,
+          "issue": "v2016-1-en",
+          "score": 1537.2552
+        },
+        {
+          "zScore": -1.1485935,
+          "issue": "v2016-2-en",
+          "score": 1662.5502
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5384"
+    },
+    {
+      "type": "subject",
+      "name": "macroeconomic policy",
+      "values": [
+        {
+          "zScore": -1.2848675,
+          "issue": "v2011-2-en",
+          "score": 723.8329
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T6503"
+    },
+    {
+      "type": "subject",
+      "name": "banks",
+      "values": [
+        {
+          "zScore": 0.16055325,
+          "issue": "v2011-2-en",
+          "score": 3606.9045
+        },
+        {
+          "zScore": 0.11389901,
+          "issue": "v2012-2-en",
+          "score": 3301.7715
+        },
+        {
+          "zScore": 0.2796586,
+          "issue": "v2013-2-en",
+          "score": 4869.5396
+        },
+        {
+          "zScore": -0.16054602,
+          "issue": "v2014-1-en",
+          "score": 3942.9402
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T800"
+    },
+    {
+      "type": "subject",
+      "name": "fiscal policy",
+      "values": [
+        {
+          "zScore": -1.2363492,
+          "issue": "v2011-2-en",
+          "score": 820.60876
+        },
+        {
+          "zScore": -1.1308924,
+          "issue": "v2012-2-en",
+          "score": 542.5619
+        },
+        {
+          "zScore": -0.9222161,
+          "issue": "v2013-1-en",
+          "score": 1033.3478
+        },
+        {
+          "zScore": -0.8460114,
+          "issue": "v2014-2-en",
+          "score": 726.6805
+        },
+        {
+          "zScore": -0.7372299,
+          "issue": "v2015-1-en",
+          "score": 1024.1525
+        },
+        {
+          "zScore": -1.2399054,
+          "issue": "v2016-2-en",
+          "score": 1449.5178
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T957"
+    },
+    {
+      "type": "coverage",
+      "name": "Central and Eastern Europe",
+      "values": [
+        {
+          "zScore": -0.63803416,
+          "issue": "v2012-1-en",
+          "score": 6.001801
+        },
+        {
+          "zScore": -0.55151826,
+          "issue": "v2012-2-en",
+          "score": 10.155303
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#CentralAndEasternEurope"
+    },
+    {
+      "type": "coverage",
+      "name": "European Union",
+      "values": [
+        {
+          "zScore": -0.6296821,
+          "issue": "v2012-1-en",
+          "score": 23.970573
+        },
+        {
+          "zScore": -0.653003,
+          "issue": "v2015-1-en",
+          "score": 8.644775
+        },
+        {
+          "zScore": -0.7453615,
+          "issue": "v2015-2-en",
+          "score": 10.327078
+        },
+        {
+          "zScore": -0.9158532,
+          "issue": "v2016-1-en",
+          "score": 5.7627993
+        },
+        {
+          "zScore": -0.7792859,
+          "issue": "v2016-2-en",
+          "score": 34.96688
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#EuropeanUnionCountries"
+    },
+    {
+      "type": "coverage",
+      "name": "India",
+      "values": [
+        {
+          "zScore": -0.59932095,
+          "issue": "v2012-1-en",
+          "score": 89.29031
+        },
+        {
+          "zScore": -0.6038937,
+          "issue": "v2013-1-en",
+          "score": 169.54135
+        },
+        {
+          "zScore": -0.6126356,
+          "issue": "v2013-2-en",
+          "score": 134.13393
+        },
+        {
+          "zScore": -0.6822899,
+          "issue": "v2014-1-en",
+          "score": 159.93044
+        },
+        {
+          "zScore": -0.6121543,
+          "issue": "v2014-2-en",
+          "score": 85.91163
+        },
+        {
+          "zScore": -0.6312135,
+          "issue": "v2015-1-en",
+          "score": 60.769463
+        },
+        {
+          "zScore": -0.6970432,
+          "issue": "v2015-2-en",
+          "score": 98.78891
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#India"
+    },
+    {
+      "type": "subject",
+      "name": "demand",
+      "values": [
+        {
+          "zScore": -0.1963283,
+          "issue": "v2012-1-en",
+          "score": 3519.4927
+        },
+        {
+          "zScore": 0.7195101,
+          "issue": "v2012-2-en",
+          "score": 4644.1714
+        },
+        {
+          "zScore": -0.2457927,
+          "issue": "v2013-1-en",
+          "score": 3840.7085
+        },
+        {
+          "zScore": -0.18706588,
+          "issue": "v2013-2-en",
+          "score": 3722.752
+        },
+        {
+          "zScore": 0.14786293,
+          "issue": "v2014-2-en",
+          "score": 4294.098
+        },
+        {
+          "zScore": 0.8803982,
+          "issue": "v2015-2-en",
+          "score": 5527.7573
+        },
+        {
+          "zScore": 0.602113,
+          "issue": "v2016-1-en",
+          "score": 6174.117
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2347"
+    },
+    {
+      "type": "subject",
+      "name": "exports",
+      "values": [
+        {
+          "zScore": -0.523232,
+          "issue": "v2012-2-en",
+          "score": 1889.5044
+        },
+        {
+          "zScore": -0.6670462,
+          "issue": "v2013-2-en",
+          "score": 2543.3936
+        },
+        {
+          "zScore": -0.60764265,
+          "issue": "v2014-1-en",
+          "score": 2587.06
+        },
+        {
+          "zScore": -0.462355,
+          "issue": "v2015-1-en",
+          "score": 2967.374
+        },
+        {
+          "zScore": 0.5809565,
+          "issue": "v2015-2-en",
+          "score": 4891.4863
+        },
+        {
+          "zScore": -0.34148568,
+          "issue": "v2016-1-en",
+          "score": 3199.2695
+        },
+        {
+          "zScore": -0.52921706,
+          "issue": "v2016-2-en",
+          "score": 3107.5706
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T1837"
+    },
+    {
+      "type": "subject",
+      "name": "emerging markets",
+      "values": [
+        {
+          "zScore": -1.0260904,
+          "issue": "v2012-2-en",
+          "score": 774.86633
+        },
+        {
+          "zScore": -0.9769799,
+          "issue": "v2013-1-en",
+          "score": 806.06134
+        },
+        {
+          "zScore": 0.37198856,
+          "issue": "v2013-2-en",
+          "score": 5096.4033
+        },
+        {
+          "zScore": -0.49425286,
+          "issue": "v2014-1-en",
+          "score": 2930.9297
+        },
+        {
+          "zScore": -0.6737098,
+          "issue": "v2015-1-en",
+          "score": 1473.2063
+        },
+        {
+          "zScore": -0.1329772,
+          "issue": "v2015-2-en",
+          "score": 3374.4788
+        },
+        {
+          "zScore": -0.8880733,
+          "issue": "v2016-1-en",
+          "score": 1476.0636
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T6339"
+    },
+    {
+      "type": "coverage",
+      "name": "BRIICS countries",
+      "values": [
+        {
+          "zScore": -0.6317295,
+          "issue": "v2013-1-en",
+          "score": 104.616
+        },
+        {
+          "zScore": -0.6180651,
+          "issue": "v2013-2-en",
+          "score": 115.231804
+        },
+        {
+          "zScore": -0.79450774,
+          "issue": "v2014-1-en",
+          "score": 32.350334
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#BRIICSCountries"
+    },
+    {
+      "type": "coverage",
+      "name": "Slovak Republic",
+      "values": [
+        {
+          "zScore": -0.66763425,
+          "issue": "v2013-1-en",
+          "score": 20.869936
+        },
+        {
+          "zScore": -0.62773305,
+          "issue": "v2014-2-en",
+          "score": 25.469625
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Slovakia"
+    },
+    {
+      "type": "subject",
+      "name": "prices",
+      "values": [
+        {
+          "zScore": -0.49118575,
+          "issue": "v2013-2-en",
+          "score": 2975.4998
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T868"
+    },
+    {
+      "type": "coverage",
+      "name": "Indonesia",
+      "values": [
+        {
+          "zScore": -0.7402955,
+          "issue": "v2014-1-en",
+          "score": 93.98398
+        },
+        {
+          "zScore": -0.70349085,
+          "issue": "v2015-2-en",
+          "score": 86.984535
+        },
+        {
+          "zScore": -0.8785123,
+          "issue": "v2016-1-en",
+          "score": 23.139496
+        },
+        {
+          "zScore": -0.77955425,
+          "issue": "v2016-2-en",
+          "score": 34.672283
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Indonesia"
+    },
+    {
+      "type": "coverage",
+      "name": "Ukraine",
+      "values": [
+        {
+          "zScore": -0.7712904,
+          "issue": "v2014-1-en",
+          "score": 58.74604
+        },
+        {
+          "zScore": -0.61516577,
+          "issue": "v2014-2-en",
+          "score": 74.2278
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Ukraine"
+    },
+    {
+      "type": "subject",
+      "name": "investment",
+      "values": [
+        {
+          "zScore": 0.022129398,
+          "issue": "v2014-1-en",
+          "score": 4496.9277
+        },
+        {
+          "zScore": -0.15406595,
+          "issue": "v2014-2-en",
+          "score": 3210.353
+        },
+        {
+          "zScore": 7.418256,
+          "issue": "v2015-1-en",
+          "score": 58679.164
+        },
+        {
+          "zScore": 1.824299,
+          "issue": "v2015-2-en",
+          "score": 7533.412
+        },
+        {
+          "zScore": 1.1286901,
+          "issue": "v2016-1-en",
+          "score": 7834.237
+        },
+        {
+          "zScore": 2.2324746,
+          "issue": "v2016-2-en",
+          "score": 9550.663
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2647"
+    },
+    {
+      "type": "coverage",
+      "name": "Europe",
+      "values": [
+        {
+          "zScore": -0.617019,
+          "issue": "v2014-2-en",
+          "score": 67.03766
+        },
+        {
+          "zScore": -0.61552083,
+          "issue": "v2015-1-en",
+          "score": 98.30923
+        },
+        {
+          "zScore": -0.5774219,
+          "issue": "v2016-1-en",
+          "score": 163.25313
+        },
+        {
+          "zScore": -0.7205298,
+          "issue": "v2016-2-en",
+          "score": 99.46561
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Europe"
+    },
+    {
+      "type": "coverage",
+      "name": "G20 countries",
+      "values": [
+        {
+          "zScore": -0.6315453,
+          "issue": "v2014-2-en",
+          "score": 10.678863
+        },
+        {
+          "zScore": -0.7399915,
+          "issue": "v2015-2-en",
+          "score": 20.158531
+        },
+        {
+          "zScore": -0.8976692,
+          "issue": "v2016-1-en",
+          "score": 14.224792
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#G20Countries"
+    },
+    {
+      "type": "coverage",
+      "name": "Asia",
+      "values": [
+        {
+          "zScore": -0.71087456,
+          "issue": "v2015-2-en",
+          "score": 73.46635
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#Asia"
+    },
+    {
+      "type": "coverage",
+      "name": "Costa Rica",
+      "values": [
+        {
+          "zScore": -0.7188639,
+          "issue": "v2015-2-en",
+          "score": 58.83923
+        },
+        {
+          "zScore": -0.90357614,
+          "issue": "v2016-1-en",
+          "score": 11.475964
+        },
+        {
+          "zScore": -0.8024705,
+          "issue": "v2016-2-en",
+          "score": 9.516281
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/GeographicalAreas#CostaRica"
+    },
+    {
+      "type": "subject",
+      "name": "labour market",
+      "values": [
+        {
+          "zScore": -0.9338428,
+          "issue": "v2015-2-en",
+          "score": 1672.7534
+        },
+        {
+          "zScore": -0.6226453,
+          "issue": "v2016-1-en",
+          "score": 2312.8682
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2836"
+    },
+    {
+      "type": "subject",
+      "name": "climate change",
+      "values": [
+        {
+          "zScore": -0.5113111,
+          "issue": "v2015-2-en",
+          "score": 2570.573
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T4898"
+    },
+    {
+      "type": "subject",
+      "name": "greenhouse gas emissions",
+      "values": [
+        {
+          "zScore": -0.5621035,
+          "issue": "v2015-2-en",
+          "score": 2462.6465
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5537"
+    },
+    {
+      "type": "subject",
+      "name": "public investment",
+      "values": [
+        {
+          "zScore": -0.97760874,
+          "issue": "v2016-1-en",
+          "score": 1193.7885
+        },
+        {
+          "zScore": -0.045115847,
+          "issue": "v2016-2-en",
+          "score": 4236.99
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T1077"
+    },
+    {
+      "type": "subject",
+      "name": "productivity",
+      "values": [
+        {
+          "zScore": 2.7614927,
+          "issue": "v2016-1-en",
+          "score": 12981.911
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T234"
+    },
+    {
+      "type": "subject",
+      "name": "central banks",
+      "values": [
+        {
+          "zScore": -0.96559995,
+          "issue": "v2016-1-en",
+          "score": 1231.6482
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2599"
+    },
+    {
+      "type": "subject",
+      "name": "income inequality",
+      "values": [
+        {
+          "zScore": -0.8639234,
+          "issue": "v2016-1-en",
+          "score": 1552.2003
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T5808"
+    },
+    {
+      "type": "subject",
+      "name": "expenditure",
+      "values": [
+        {
+          "zScore": -0.04452062,
+          "issue": "v2016-2-en",
+          "score": 4238.379
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T2376"
+    },
+    {
+      "type": "subject",
+      "name": "space",
+      "values": [
+        {
+          "zScore": -0.9305705,
+          "issue": "v2016-2-en",
+          "score": 2171.2034
+        }
+      ],
+      "uri": "http://kim.oecd.org/Taxonomy/Topics#T3912"
+    }
+  ],
+  "issues": [
+    "v2011-1-en",
+    "v2011-2-en",
+    "v2012-1-en",
+    "v2012-2-en",
+    "v2013-1-en",
+    "v2013-2-en",
+    "v2014-1-en",
+    "v2014-2-en",
+    "v2015-1-en",
+    "v2015-2-en",
+    "v2016-1-en",
+    "v2016-2-en"
+  ]
+}
