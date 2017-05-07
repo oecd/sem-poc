@@ -25,7 +25,7 @@
             <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarsExampleDefault" aria-controls="navbarsExampleDefault" aria-expanded="false" aria-label="Toggle navigation">
               <span class="navbar-toggler-icon"></span>
             </button>
-            <a class="navbar-brand" href="/">Semantic POC</a>
+            <a class="navbar-brand" href="/sem-poc/">Semantic POC</a>
 
             <div class="collapse navbar-collapse" id="navbarsExampleDefault">
               <ul class="navbar-nav mr-auto">
@@ -223,7 +223,7 @@
     <xsl:template match="sup | sub">
       <xsl:copy>
         <xsl:apply-templates select="node() | @* | comment() | processing-instruction()"/>
-      </xsl:copy>      
+      </xsl:copy>
     </xsl:template>
 
     <!-- Statlink Hyperlinks -->
@@ -280,7 +280,7 @@
         </span>
       </a>
     </xsl:template>
-    
+
     <!-- bricksTermRecognition annotations -->
     <xsl:template match="line:annotation">
       <!-- fixme: match nested annotations and flatten list of concept ids -->
